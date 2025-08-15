@@ -2785,7 +2785,7 @@
               <div class="relative w-[800px] h-40 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/call/ca3.jpg" alt=""
+                  <img src="/src/assets/image/call/ca7.jpg" alt=""
                        class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
@@ -2903,7 +2903,7 @@
            <div class="relative w-[800px] h-40 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/call/ca3.jpg" alt=""
+                  <img src="/src/assets/image/call/ca7.jpg" alt=""
                        class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
