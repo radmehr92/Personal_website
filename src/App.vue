@@ -12757,7 +12757,6 @@ const { t, locale } = useI18n()
 
 onMounted(() => {
   document.title = t('name')
-  onMounted(() => {
     if (window._paq) {
       window._paq.push(['setCustomUrl', window.location.pathname])
       window._paq.push(['setDocumentTitle', 'Ali Radmehr | علی رادمهر'])
@@ -12820,6 +12819,7 @@ onMounted(() => {
     // embla 4 is ready
   }
 })
+
 
 </script>
 
