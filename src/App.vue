@@ -1480,14 +1480,14 @@
                     <div>
                       <span class="flex font-IrBold text-sm text-shadow-md">Hello...! I'm Ali Radmehr</span>
                     </div>
-                    <div class="flex font-IrBold text-sm gap-x-1">
+                    <div class="flex font-IrBold text-[11px] gap-x-1">
                       <span class="text-gray-800 text-shadow-md">Professional in</span>
                       <span class="text-shadow-md text-sky-600">Engineering</span>
                       <span class="text-gray-800 text-shadow-md">& Industrial</span>
                       <span class="text-shadow-md text-teal-600">Management</span>
                     </div>
 
-                    <div class="flex font-IrRegular text-xs justify-center w-[370px] text-gray-900">
+                    <div class="flex font-IrRegular text-xs justify-center w-[280px] text-gray-900">
                   <span class="text-justify leading-7">
                     Chemical Engineering graduate with an MBA from the University of Tehran, focused on innovation and operational improvement in industry and technology. Experienced in managing complex projects, optimizing processes, and delivering sustainable solutions to boost quality and efficiency. Skilled in leading cross-functional teams, R&D, quality assurance, and strategic business development. Results-driven and committed to creating value through industrial and technological innovation.
                   </span>
