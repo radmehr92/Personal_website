@@ -5412,7 +5412,7 @@
 
           <div class="flex flex-col items-center justify-center w-full " v-show="locale === 'en'">
             <!-- عنوان -->
-            <div class="w-full mt-12">
+            <div class="w-full mt-16">
               <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
@@ -5432,7 +5432,7 @@
             </div>
 
             <!-- کارت تجربه -->
-            <div class="mt-6 w-full space-y-6">
+            <div class="mt-4 w-full space-y-6">
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -6557,7 +6557,7 @@
 
 
 
-      <section id="education" class="flex min-w-max  min-h-screenbg-gray-200 cursor-default ">
+      <section id="education" class="flex min-w-max  min-h-screenbg-gray-200 cursor-default">
 
         <div class="hidden  lg:flex container">
 
@@ -7740,446 +7740,273 @@
         </div>
 
 
-<!--        <div class="sm:hidden flex ">
-
-          <div class="flex items-center justify-between min-w-max  mt-16 " v-show="locale === 'en'">
+        <div class="flex flex-col sm:hidden w-[280px] max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
 
-            <div class="flex-wrap w-full p-2">
-
-              <div class="relative w-60 h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
-
-
+          <div class="sm:hidden flex flex-col items-center mt-16 space-y-4" v-show="locale === 'en'">
+            <!-- عنوان Education -->
+            <div class="w-full mt-2">
+              <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/edu/e3.jpg" alt=""
-                       class="w-full h-full object-cover  blur-none opacity-75 rounded-tl-xl rounded-br-xl" />
+                       class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
                 </div>
-
-
-                <div class="relative flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <div class="flex items-center gap-x-2">
+                <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  <div class="flex items-center gap-x-1">
                     <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
-                      <svg class="h-5 w-5 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
-                        <use href="#uni"></use>
+                      <svg class="h-5 w-5 text-sky-700 animate-spin animate-duration-[4000ms]">
+                        <use href="#set"></use>
                       </svg>
                     </div>
-                    <span class="font-IrBold text-[14px] tracking-widest text-white mt-0.5 text-shadow-sm">Education</span>
+                    <span class="font-IrBold text-base tracking-widest text-white text-shadow-sm">Education</span>
                   </div>
                 </div>
-
               </div>
-
-              <div class="mt-6 space-y-14">
-
-                <div class="relative w-[390px] h-[370px]  rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/edu/e4.jpeg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-16" src="/src/assets/image/edu/teh.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-6">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">MBA</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">University of Tehran</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center  mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center mr-[75px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2025 – Present</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Business Administration and Management – General</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-                <div class="relative w-[390px] h-[370px]  rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/edu/e2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl"/>
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-16" src="/src/assets/image/edu/azad.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-6">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">Chemical Engineering</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Islamic Azad University</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center  mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
-                        </div>
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2013 – 2017</span>
-                        </div>
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Bachelor's Degree</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-              </div>
-
-
             </div>
+
+              <!-- کارت اول: University of Tehran -->
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+                <div class="absolute inset-0 z-0">
+                  <img src="/src/assets/image/edu/e4.jpeg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-12 h-12" src="/src/assets/image/edu/teh.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-4">
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                      </div>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">MBA | University of Tehran</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Business Administration & Management</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Iran</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">2025 – Present</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex gap-x-0.5">
+                    <div class="flex items-start">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700"><use href="#paper"></use></svg>
+                      </div>
+                    </div>
+                    <div class="w-full max-w-full">
+          <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words w-[280px]">
+            Business Administration and Management – General
+          </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- کارت دوم: Islamic Azad University -->
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="absolute inset-0 z-0">
+                  <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-12 h-12" src="/src/assets/image/edu/azad.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-4">
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                      </div>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Chemical Engineering | Azad University</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Bachelor's Degree</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Dezful, Iran</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">2013 – 2017</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex gap-x-0.5">
+                    <div class="flex items-start">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700"><use href="#paper"></use></svg>
+                      </div>
+                    </div>
+                    <div class="w-full max-w-full">
+          <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words w-[280px]">
+Bachelor's Degree
+          </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
 
           </div>
 
-
-          <div dir="rtl" class="flex items-center justify-between w-full mt-16" v-show="locale === 'fa'">
-
-
-            <div class="flex-wrap items-end p-2">
-
-              <div class="relative w-60 h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
-
-
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/edu/e3.jpg" alt=""
-                       class="w-full h-full object-cover  blur-none opacity-75 rounded-tl-xl rounded-br-xl"/>
-                </div>
-
-
-                <div class="relative flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <div class="flex items-center gap-x-2">
-                    <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
-                      <svg class="h-5 w-5 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
-                        <use href="#uni"></use>
-                      </svg>
-                    </div>
-                    <span class="font-IrBold text-[14px] tracking-widest text-white mt-0.5 text-shadow-sm">تحصیلات</span>
-                  </div>
-                </div>
-
+          <div dir="rtl" class="sm:hidden flex flex-col items-center mt-16" v-show="locale === 'fa'">
+            <!-- عنوان تحصیلات -->
+            <div class="relative w-[280px] h-14 max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out mb-6">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/edu/e3.jpg" alt="" class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
               </div>
-
-              <div class="mt-6 space-y-14">
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/edu/e4.jpeg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center gap-x-2">
+                  <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
+                    <svg class="h-5 w-5 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
+                      <use href="#uni"></use>
+                    </svg>
                   </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-16" src="/src/assets/image/edu/teh.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-6">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-white mt-0.5 text-shadow-sm">مدیریت</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">دانشگاه تهران</span>
-                        </div>
-
-
-                      </div>
-
-
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">تهران , استان تهران , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۳</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">مدیریت کسب‌وکار و مدیریت – گرایش عمومی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
+                  <span class="font-IrBold text-[14px] tracking-widest text-gray-800 text-shadow-sm">تحصیلات</span>
                 </div>
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/edu/e2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-16" src="/src/assets/image/edu/azad.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-6">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-white mt-0.5 text-shadow-sm">مهندسی شیمی</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">دانشگاه آزاد</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">دزفول , استان خوزستان , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center ">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۳۹۶</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">مقطع کارشناسی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
               </div>
-
-
             </div>
 
+            <!-- کارت اول: دانشگاه تهران -->
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/edu/e4.jpeg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12" src="/src/assets/image/edu/teh.png" alt="">
+                </div>
+                <div class="space-y-4">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">مدیریت | دانشگاه تهران</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">مدیریت کسب‌وکار – گرایش عمومی</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">تهران، استان تهران، ایران</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">۱۴۰۳</span>
+                  </div>
+                </div>
+                <div class="flex gap-x-0.5">
+                  <div class="flex items-start">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#paper"></use></svg>
+                    </div>
+                  </div>
+                  <div class="w-full max-w-full">
+          <span class="font-IrRegular text-xs text-gray-800 text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+مدیریت کسب‌وکار و مدیریت – گرایش عمومی
+          </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- کارت دوم: دانشگاه آزاد -->
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12" src="/src/assets/image/edu/azad.png" alt="">
+                </div>
+                <div class="space-y-4">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">مهندسی شیمی | دانشگاه آزاد</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">مقطع کارشناسی</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">دزفول، استان خوزستان، ایران</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">۱۳۹۶</span>
+                  </div>
+                </div>
+                <div class="flex gap-x-0.5">
+                  <div class="flex items-start">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#paper"></use></svg>
+                    </div>
+                  </div>
+                  <div class="w-full max-w-full">
+          <span class="font-IrRegular text-xs text-gray-800 text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+مقطع کارشناسی
+          </span>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
 
-        </div>-->
+        </div>
+
 
       </section>
+
+
 
 
 
@@ -10799,980 +10626,525 @@
         </div>
 
 
-<!--        <div class="sm:hidden flex">
+        <div class="flex flex-col sm:hidden w-[280px] max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
-          <div class="flex items-center justify-between w-full mt-16" v-show="locale === 'en'">
+          <div class="sm:hidden flex flex-col items-center mt-16 space-y-4" v-show="locale === 'en'">
 
-
-            <div class="flex-wrap w-full p-2">
-
-              <div class="relative w-60 h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
-
-
+            <div class="w-full mt-2">
+              <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/ce/c2.jpg" alt=""
-                       class="w-full h-full object-cover  blur-none opacity-75 rounded-tl-xl rounded-br-xl" />
+                       class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
                 </div>
-
-
-                <div class="relative flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <div class="flex items-center gap-x-2">
+                <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  <div class="flex items-center gap-x-1">
                     <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
-                      <svg class="h-4 w-4 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
-                        <use href="#paper"></use>
+                      <svg class="h-5 w-5 text-sky-700 animate-spin animate-duration-[4000ms]">
+                        <use href="#set"></use>
                       </svg>
                     </div>
-                    <span class="font-IrBold text-[14px] tracking-widest text-white mt-0.5 text-shadow-sm">Certification</span>
+                    <span class="font-IrBold text-base tracking-widest text-white text-shadow-sm">Certification</span>
                   </div>
                 </div>
-
               </div>
-
-              <div class="mt-6 space-y-6">
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/ce/c1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/gmp.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">GMP (Good Manufacturing Practice)</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Narin Sanat Dez Co.</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-
-
-                        <div class="flex gap-x-1 items-center mr-[145px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2021</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Specialized Training</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/edu/e2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/HACCP.jpg" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">HACCP (Hazard Analysis Critical Control Point)</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Narin Sanat Dez Co.</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center mr-[145px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2021</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Specialized Training</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/ce/ic.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/icdl.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">ICDL Core & Advanced Modules</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Technical and Vocational Course</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center mr-[152px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2018</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Specialized Training</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/re.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">Research & Methodology Workshop</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-
-                      <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Nowandish Gostar International Iranian Academy</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center mr-[152px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2017</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Specialized Training</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/ce/de.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/as.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">Introductory & Advanced Course in Aspen HYSYS</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Nowandish Gostar International Iranian Academy</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white  text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">2016</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-white  text-shadow-sm">Specialized Training</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-              </div>
-
-
             </div>
+
+            <!-- کارت اول: GMP -->
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/c1.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12 rounded-md" src="/src/assets/image/ce/gmp.png" alt="">
+                </div>
+                <div class="space-y-2">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">GMP (Good Manufacturing Practice)</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Narin Sanat Dez Co.</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">2021</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#madrak"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Specialized Training</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- کارت دوم: HACCP -->
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/HACCP.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12 rounded-md" src="/src/assets/image/ce/HACCP.jpg" alt="">
+                </div>
+                <div class="space-y-2">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">HACCP (Hazard Analysis Critical Control Point)</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Narin Sanat Dez Co.</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">2021</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#madrak"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Specialized Training</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/ic.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12 rounded-md" src="/src/assets/image/ce/icdl.png" alt="">
+                </div>
+                <div class="space-y-2">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">ICDL Core & Advanced Modules</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Technical and Vocational Course</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">2018</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Specialized Training</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/industry/bg2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12 rounded-md" src="/src/assets/image/ce/re.png" alt="">
+                </div>
+                <div class="space-y-2">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">Research & Methodology Workshop</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Nowandish Gostar International Iranian Academy</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">2017</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Specialized Training</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/de.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12 rounded-md" src="/src/assets/image/ce/as.png" alt="">
+                </div>
+                <div class="space-y-2">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">Introductory & Advanced Course in Aspen HYSYS</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Nowandish Gostar International Iranian Academy</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Dezful, Khuzestan Province, Iran</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">2016</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">Specialized Training</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
           </div>
 
 
-          <div dir="rtl" class="flex items-center justify-between w-full mt-16" v-show="locale === 'fa'">
+          <div dir="rtl" class="sm:hidden flex flex-col items-center mt-16" v-show="locale === 'fa'">
 
-
-            <div class="flex-wrap w-full p-2">
-
-              <div class="relative w-60 h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
-
-
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/ce/c2.jpg" alt=""
-                       class="w-full h-full object-cover  blur-none opacity-75 rounded-tl-xl rounded-br-xl" />
-                </div>
-
-
-                <div class="relative flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <div class="flex items-center gap-x-2">
-                    <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
-                      <svg class="h-4 w-4 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
-                        <use href="#paper"></use>
-                      </svg>
-                    </div>
-                    <span class="font-IrBold text-[14px] tracking-widest text-gray-800 mt-0.5 text-shadow-sm">دوره ها</span>
-                  </div>
-                </div>
-
+            <div class="relative w-[280px] h-14 max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out mb-6">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/c2.jpg" alt="" class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
               </div>
-
-              <div class="mt-6 space-y-6">
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/ce/c1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center gap-x-2">
+                  <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
+                    <svg class="h-5 w-5 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
+                      <use href="#uni"></use>
+                    </svg>
                   </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/gmp.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-800  mt-0.5 text-shadow-sm">دوره GMP (عملیات تولید خوب)</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-800  text-shadow-sm">نارین صنعت دز</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800  text-shadow-sm">دزفول , استان خوزستان , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800 mt-0.5 text-shadow-sm">۱۳۹۹</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-gray-800   text-shadow-sm">دوره تخصصی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
+                  <span class="font-IrBold text-[14px] tracking-widest text-gray-800 text-shadow-sm">دوره ها</span>
                 </div>
-
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/edu/e2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/HACCP.jpg" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-800 mt-0.5 text-shadow-sm">دوره HACCP (تجزیه و تحلیل خطر و نقاط کنترل بحرانی)</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-800 text-shadow-sm">نارین صنعت دز</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800   text-shadow-sm">دزفول , استان خوزستان , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800  mt-0.5 text-shadow-sm">۱۳۹۹</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-gray-800  text-shadow-sm">دوره تخصصی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/ce/ic.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/icdl.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-800 mt-0.5 text-shadow-sm">دوره ICDL مقدماتی و پیشرفته</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-800 text-shadow-sm">سازمان آموزش فنی و حرفه ای کشور</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800  text-shadow-sm">شوش , استان خوزستان , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800 mt-0.5 text-shadow-sm">۱۳۹۷</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-gray-800 text-shadow-sm">دوره تخصصی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/re.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-800 mt-0.5 text-shadow-sm">کارگاه روش تحقیق و پژوهش</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-800  text-shadow-sm">آکادمی نواندیش گستر بین الملل ایرانیان</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center">
-
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800  text-shadow-sm">دزفول , استان خوزستان , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800 mt-0.5 text-shadow-sm">۱۳۹۶</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-gray-800  text-shadow-sm">دوره تخصصی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-                <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/ce/de.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="20 20  rounded-md" src="/src/assets/image/ce/as.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-10">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-800 mt-0.5 text-shadow-sm">دوره مقدماتی و پیشرفته نرم افزار Aspen Hysys </span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#un"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-800  text-shadow-sm">آکادمی نواندیش گستر بین الملل ایرانیان</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center">
-
-                        <div class="flex gap-x-1 items-center mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800  text-shadow-sm">دزفول , استان خوزستان , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-800 mt-0.5 text-shadow-sm">۱۳۹۴</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#madrak"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-sm text-gray-800  text-shadow-sm">دوره تخصصی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
               </div>
-
-
             </div>
+
+
+            <div dir="rtl" class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/c1.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <!-- آیکن مرکزی -->
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12 rounded-md" src="/src/assets/image/ce/gmp.png" alt="">
+                </div>
+
+                <!-- اطلاعات دوره -->
+                <div class="space-y-4">
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-white text-shadow-sm">دوره GMP | نارین صنعت دز</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">عملیات تولید خوب – تخصصی</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">دزفول، استان خوزستان، ایران</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">۱۳۹۹</span>
+                  </div>
+                </div>
+
+                <!-- توضیح پایانی -->
+                <div class="flex items-start gap-x-2">
+                  <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                    <svg class="h-4 w-4 text-teal-700"><use href="#paper" /></svg>
+                  </div>
+                  <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-white text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+دوره تخصصی عملیات تولید خوب (GMP) در واحد صنعتی نارین صنعت دز
+        </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div dir="rtl" class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <!-- آیکن مرکزی -->
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-14 h-12 rounded-md" src="/src/assets/image/ce/HACCP.jpg" alt="">
+                </div>
+
+                <!-- اطلاعات دوره -->
+                <div class="space-y-4">
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-white text-shadow-sm">دوره HACCP | نارین صنعت دز</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">تحلیل خطر و کنترل بحرانی – تخصصی</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">دزفول، استان خوزستان، ایران</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">۱۳۹۹</span>
+                  </div>
+                </div>
+
+                <!-- توضیح پایانی -->
+                <div class="flex items-start gap-x-2">
+                  <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                    <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                  </div>
+                  <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-white text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+دوره تخصصی HACCP برای تجزیه و تحلیل خطر و نقاط کنترل بحرانی در واحد صنعتی نارین صنعت دز
+        </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div dir="rtl" class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/ic.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-14 h-12 rounded-md" src="/src/assets/image/ce/icdl.png" alt="">
+                </div>
+                <div class="space-y-4">
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-white text-shadow-sm">دوره ICDL | فنی و حرفه‌ای کشور</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">مهارت‌های هفت‌گانه – مقدماتی و پیشرفته</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">شوش، استان خوزستان، ایران</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">۱۳۹۷</span>
+                  </div>
+                </div>
+                <div class="flex items-start gap-x-2">
+                  <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                    <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                  </div>
+                  <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-white text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+دوره تخصصی ICDL در سطح مقدماتی و پیشرفته، برگزارشده توسط سازمان آموزش فنی و حرفه‌ای کشور
+        </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div dir="rtl" class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/industry/bg2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-14 h-12 rounded-md" src="/src/assets/image/ce/re.png" alt="">
+                </div>
+                <div class="space-y-4">
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-white text-shadow-sm">کارگاه روش تحقیق | نواندیش گستر</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">پژوهش صنعتی و دانشگاهی – تخصصی</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">دزفول، استان خوزستان، ایران</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">۱۳۹۶</span>
+                  </div>
+                </div>
+                <div class="flex items-start gap-x-2">
+                  <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                    <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                  </div>
+                  <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-white text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+کارگاه تخصصی روش تحقیق و پژوهش با تمرکز بر پروژه‌های صنعتی و مطالعات دانشگاهی
+        </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div dir="rtl" class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/ce/de.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <!-- آیکن مرکزی -->
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-14 h-12 rounded-md" src="/src/assets/image/ce/as.png" alt="">
+                </div>
+
+                <!-- اطلاعات دوره -->
+                <div class="space-y-4">
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos" /></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-white text-shadow-sm">دوره Aspen Hysys | نواندیش گستر</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">شبیه‌سازی فرآیندهای صنعتی – تخصصی</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">دزفول، استان خوزستان، ایران</span>
+                  </div>
+                  <div class="flex items-center justify-start gap-x-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal" /></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-white text-shadow-sm">۱۳۹۴</span>
+                  </div>
+                </div>
+
+                <!-- توضیح پایانی -->
+                <div class="flex items-start gap-x-2">
+                  <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                    <svg class="h-4 w-4 text-teal-700"><use href="#madrak" /></svg>
+                  </div>
+                  <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-white text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+دوره تخصصی شبیه‌سازی فرآیندهای صنعتی با نرم‌افزار Aspen Hysys در سطح مقدماتی و پیشرفته، برگزارشده توسط آکادمی نواندیش گستر بین‌الملل ایرانیان
+        </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
           </div>
 
-        </div>-->
+
+
+        </div>
 
       </section>
 
@@ -12496,84 +11868,68 @@
               </div>
 
 
-<!--              <div class="sm:hidden flex">
+              <div class="flex flex-col sm:hidden w-[280px] max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
-                <div class="flex  justify-between w-full mt-16" v-show="locale === 'en'">
-
-
-                  <div class="flex-wrap w-full">
-
-                    <div class="relative w-60 h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
+                <div class="flex items-center justify-between p-2 w-full mt-14 mb-28" v-show="locale === 'en'">
 
 
+                  <div class="flex-wrap w-full space-y-6">
+
+                    <div class="w-full mt-2">
+                    <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                       <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                         <img src="/src/assets/image/call/ca1.jpg" alt=""
-                             class="w-full h-full object-cover  blur-none opacity-75 rounded-tl-xl rounded-br-xl" />
+                             class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
                       </div>
-
-
-                      <div class="relative flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                        <div class="flex items-center gap-x-2">
+                      <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                        <div class="flex items-center gap-x-1">
                           <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
+                            <svg class="h-5 w-5 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
                               <use href="#phone"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-[14px] tracking-widest text-white mt-0.5 text-shadow-sm">Contact Me</span>
+                          <span class="font-IrBold text-base tracking-widest text-white text-shadow-sm">Contact Me</span>
                         </div>
                       </div>
-
                     </div>
+                  </div>
 
-                    <div class="mt-12 space-y-6">
+                    <div class="relative w-full max-w-sm mx-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-6">
 
-                      <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+                      <div class="relative w-full h-[360px] sm:h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
                         <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                           <img src="/src/assets/image/call/ca7.jpg" alt=""
-                               class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                               class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                         </div>
 
+                        <div class="relative flex flex-col sm:flex-row gap-4 p-3 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                        <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                          <div class="flex items-center gap-x-2">
-                            <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                              <img class="20 20 p-1 rounded-md" src="/src/assets/image/call/con.png" alt="">
-                            </div>
-
+                          <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md shrink-0 mx-auto sm:mx-0">
+                            <img class="w-14 h-14 p-1 rounded-md" src="/src/assets/image/call/con.png" alt="">
                           </div>
-                          <div class=" flex-wrap space-y-10">
 
-                            <div class="flex items-center justify-between">
+                          <div class="flex flex-col justify-center gap-4 space-y-10 mt-4 w-full">
 
-                              <div class="flex gap-x-1 items-center">
-                                <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                                  <svg class="h-4 w-4 text-teal-700">
-                                    <use href="#phone"></use>
-                                  </svg>
-                                </div>
-                                <span class="font-IrBold text-sm text-gray-800 mt-0.5 text-shadow-sm">Phone Number: +98 939 390 6096</span>
+                            <div class="flex items-center gap-2">
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#phone"></use>
+                                </svg>
                               </div>
-
-
+                              <span class="font-IrBold text-sm text-gray-800 text-shadow-sm">+98 939 390 6096</span>
                             </div>
 
-                            <div class="flex items-center">
-
-                              <div class="flex gap-x-1 items-center">
-                                <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                                  <svg class="h-4 w-4 text-teal-700">
-                                    <use href="#mail"></use>
-                                  </svg>
-                                </div>
-                                <span class="font-IrBold text-sm text-gray-800  text-shadow-sm">Email: ali.radmeehr@gmail.com</span>
+                            <div class="flex items-center gap-2">
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#mail"></use>
+                                </svg>
                               </div>
-
-
-
+                              <span class="font-IrBold text-sm text-gray-800 text-shadow-sm">ali.radmeehr@gmail.com</span>
                             </div>
 
-                            <div class="flex gap-x-1 items-center">
+                            <div class="flex items-center gap-2">
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
                                 <svg class="w-3 h-3 text-teal-700" viewBox="0 0 382 382" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
                                   <path d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889
@@ -12587,9 +11943,7 @@
                   L341.91,330.654L341.91,330.654z"/>
                                 </svg>
                               </div>
-                              <div class="w-full">
-                                <span class="font-IrBold text-sm text-gray-800  text-shadow-sm">linkedin.com/in/ali-radmehr</span>
-                              </div>
+                              <span class="font-IrBold text-sm text-gray-800 text-shadow-sm">linkedin.com/in/ali-radmehr</span>
                             </div>
 
                           </div>
@@ -12597,8 +11951,6 @@
                         </div>
 
                       </div>
-
-
 
                     </div>
 
@@ -12615,82 +11967,68 @@
                 </div>
 
 
-                <div dir="rtl" class="flex  justify-between p-2 w-full mt-16" v-show="locale === 'fa'">
+                <div dir="rtl" class="flex items-center  justify-between p-2 w-full mt-16" v-show="locale === 'fa'">
 
 
-                  <div class="flex-wrap w-full">
+                  <div dir="rtl" class="flex-wrap w-full space-y-6">
 
-                    <div class="relative w-60 h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
-
-
-                      <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                        <img src="/src/assets/image/call/ca1.jpg" alt=""
-                             class="w-full h-full object-cover  blur-none opacity-75 rounded-tl-xl rounded-br-xl" />
-                      </div>
-
-
-                      <div class="relative flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                        <div class="flex items-center gap-x-2">
-                          <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
-                              <use href="#phone"></use>
-                            </svg>
+                    <!-- عنوان بخش -->
+                    <div class="w-full mt-2">
+                      <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
+                        <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                          <img src="/src/assets/image/call/ca1.jpg" alt=""
+                               class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
+                        </div>
+                        <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                          <div class="flex items-center gap-x-1">
+                            <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
+                              <svg class="h-5 w-5 text-sky-700 animate-wiggle animate-infinite animate-duration-[800ms] animate-ease-in-out">
+                                <use href="#phone"></use>
+                              </svg>
+                            </div>
+                            <span class="font-IrBold text-base tracking-widest text-white text-shadow-sm">تماس با من</span>
                           </div>
-                          <span class="font-IrBold text-[14px] tracking-widest text-white mt-0.5 text-shadow-sm">تماس با من</span>
                         </div>
                       </div>
-
                     </div>
 
-                    <div class="mt-12 space-y-6 animate-fade-left animate-ease-linear">
-
-                      <div class="relative w-[390px] h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
-
+                    <!-- کارت تماس -->
+                    <div class="relative w-full max-w-sm mx-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-6">
+                      <div class="relative w-full h-[360px] sm:h-[370px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                         <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                           <img src="/src/assets/image/call/ca7.jpg" alt=""
-                               class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                               class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                         </div>
 
+                        <div class="relative flex flex-col sm:flex-row gap-4 p-3 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                        <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                          <div class="flex items-center gap-x-2">
-                            <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                              <img class="20 20 p-1 rounded-md" src="/src/assets/image/call/con.png" alt="">
-                            </div>
-
+                          <!-- آیکن مرکزی -->
+                          <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md shrink-0 mx-auto sm:mx-0">
+                            <img class="w-14 h-14 p-1 rounded-md" src="/src/assets/image/call/con.png" alt="">
                           </div>
-                          <div class=" flex-wrap space-y-10">
 
-                            <div class="flex items-center justify-between">
+                          <!-- اطلاعات تماس -->
+                          <div class="flex flex-col justify-center gap-4 space-y-10 mt-4 w-full text-right">
 
-                              <div class="flex gap-x-1 items-center">
-                                <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                                  <svg class="h-4 w-4 text-teal-700">
-                                    <use href="#phone"></use>
-                                  </svg>
-                                </div>
-                                <span class="font-IrBold text-sm text-gray-800 mt-0.5 text-shadow-sm">شماره تماس : ۰۹۳۹۳۹۰۶۰۹۶</span>
+                            <div class="flex items-center gap-x-2 justify-start">
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#phone"></use>
+                                </svg>
                               </div>
-
-
+                              <span class="font-IrBold text-sm text-gray-800 text-shadow-sm">۰۹۳۹۳۹۰۶۰۹۶</span>
                             </div>
 
-                            <div class="flex items-center">
-
-                              <div class="flex gap-x-1 items-center">
-                                <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                                  <svg class="h-4 w-4 text-teal-700">
-                                    <use href="#mail"></use>
-                                  </svg>
-                                </div>
-                                <span class="font-IrBold text-sm text-gray-800  text-shadow-sm">ایمیل : ali.radmeehr@gmail.com</span>
+                            <div class="flex items-center gap-x-2 justify-start">
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#mail"></use>
+                                </svg>
                               </div>
-
-
-
+                              <span class="font-IrBold text-sm text-gray-800 text-shadow-sm">ali.radmeehr@gmail.com</span>
                             </div>
 
-                            <div class="flex gap-x-1 items-center">
+                            <div class="flex items-center gap-x-2 justify-start">
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white ">
                                 <svg class="w-3 h-3 text-teal-700" viewBox="0 0 382 382" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
                                   <path d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889
@@ -12704,23 +12042,17 @@
                   L341.91,330.654L341.91,330.654z"/>
                                 </svg>
                               </div>
-                              <div class="w-full">
-                                <span class="font-IrBold text-sm text-gray-800  text-shadow-sm">لینکدین : linkedin.com/in/ali-radmehr</span>
-                              </div>
+                              <span class="font-IrBold text-sm text-gray-800 text-shadow-sm">linkedin.com/in/ali-radmehr</span>
                             </div>
 
                           </div>
 
                         </div>
-
                       </div>
-
-
-
                     </div>
 
-
                   </div>
+
 
                   <div class="w-full absolute h-16 bg-gray-700 bottom-0 left-0 right-0">
                     <div class="flex items-center justify-center w-full h-full">
@@ -12732,7 +12064,7 @@
 
                 </div>
 
-              </div>-->
+              </div>
 
             </section>
 
