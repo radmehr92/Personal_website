@@ -11986,7 +11986,7 @@ Bachelor's Degree
                                 <use href="#phone"></use>
                               </svg>
                             </div>
-                            <span class="font-IrBold text-base tracking-widest text-white text-shadow-sm">تماس با من</span>
+                            <span class="font-IrBold text-base tracking-wide text-white text-shadow-sm">تماس با من</span>
                           </div>
                         </div>
                       </div>
