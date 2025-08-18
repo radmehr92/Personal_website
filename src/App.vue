@@ -1407,16 +1407,15 @@
         </div>
 
 
-<!--
           <div class="flex flex-col sm:hidden w-full max-w-xs mx-auto px-4 py-6">
 
           <div class="flex-wrap space-y-8 p-2">
             <div class="flex items-center justify-between w-full mt-24">
 
-              &lt;!&ndash; EN &ndash;&gt;
+              <!-- EN -->
               <div class="flex-wrap w-full" v-show="locale === 'en'">
 
-                &lt;!&ndash;photo&ndash;&gt;
+                <!--photo-->
                 <div class="flex items-center justify-center  relative">
 
                   <div class="w-28 h-28  absolute right-[145px] top-8  animate-spin animate-infinite animate-duration-[10000ms] animate-delay-[10ms] animate-ease-in-out">
@@ -1475,7 +1474,7 @@
 
                 </div>
 
-                &lt;!&ndash;Text&ndash;&gt;
+                <!--Text-->
                 <div class="flex items-center justify-center mt-12 cursor-default">
                   <div class="space-y-2 animate-fade-up animate-once animate-ease-in-out">
                     <div>
@@ -1539,10 +1538,10 @@
 
               </div>
 
-              &lt;!&ndash; FA &ndash;&gt;
+              <!-- FA -->
               <div class="flex-wrap w-full" dir="rtl" v-show="locale === 'fa'">
 
-                &lt;!&ndash;photo&ndash;&gt;
+                <!--photo-->
                 <div class="flex items-center justify-center relative">
                   <div class="w-28 h-28  absolute right-36 top-8  animate-spin animate-infinite animate-duration-[10000ms] animate-delay-[10ms] animate-ease-in-out">
                     <svg viewBox="0 0 24 24" class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
@@ -1601,7 +1600,7 @@
                 </div>
 
 
-                &lt;!&ndash;Text&ndash;&gt;
+                <!--Text-->
                 <div class="flex items-center justify-center mt-12 cursor-default ">
                   <div class="space-y-3 animate-fade-up animate-once animate-ease-in-out">
                     <div>
@@ -1695,7 +1694,6 @@
           </div>
 
         </div>
--->
 
       </section>
 
