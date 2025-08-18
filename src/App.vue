@@ -12753,6 +12753,7 @@ import { useI18n } from 'vue-i18n'
 import emblaCarouselVue from 'embla-carousel-vue'
 import AutoScroll from 'embla-carousel-auto-scroll'
 
+
 const { t, locale } = useI18n()
 
 onMounted(() => {
@@ -12814,6 +12815,21 @@ onMounted(() => {
     // embla 4 is ready
   }
 })
+
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+  var u="https://www.aliradmehr.info/";
+  _paq.push(['setTrackerUrl', u + 'matomo.php']);
+  _paq.push(['setSiteId', '1']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.async=true; g.src=u + 'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+
+
+
+
 </script>
 
 
