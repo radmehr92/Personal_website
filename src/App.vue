@@ -5408,11 +5408,11 @@
 
         </div>
 
-<!--
         <div class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-4 py-6">
+
           <div class="flex flex-col items-center justify-center w-full mt-8" v-show="locale === 'en'">
-            &lt;!&ndash; عنوان &ndash;&gt;
-            <div class="w-full px-2">
+            <!-- عنوان -->
+            <div class="w-full px-2 mt-12">
               <div class="relative w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
@@ -5431,7 +5431,7 @@
               </div>
             </div>
 
-            &lt;!&ndash; کارت تجربه &ndash;&gt;
+            <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-4">
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -5440,12 +5440,12 @@
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5484,7 +5484,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5501,20 +5501,20 @@
               </div>
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5555,7 +5555,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5573,20 +5573,20 @@
 
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5627,7 +5627,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5644,20 +5644,20 @@
               </div>
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5698,7 +5698,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5715,20 +5715,20 @@
               </div>
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5769,7 +5769,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5786,20 +5786,20 @@
               </div>
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5840,7 +5840,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5857,20 +5857,20 @@
               </div>
 
               <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5911,7 +5911,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-2 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5933,8 +5933,8 @@
           </div>
 
           <div dir="rtl" class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-4 py-6" v-show="locale === 'fa'">
-            &lt;!&ndash; عنوان &ndash;&gt;
-            <div class="w-full px-2">
+            <!-- عنوان -->
+            <div class="w-full px-2 mt-16">
               <div class="relative w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
@@ -5953,79 +5953,515 @@
               </div>
             </div>
 
-            &lt;!&ndash; کارت تجربه &ndash;&gt;
+            <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-4">
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
+
                 <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
                     <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-2">
-                    <div class="flex items-center gap-x-2 justify-end">
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | صنعت اکسپرس</span>
+                    <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
+                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | صنعت اکسپرس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2 justify-end">
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
+                    <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
+                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2 justify-end">
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
+                    <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
                       </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2 justify-end">
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۴۰۳ – تاکنون</span>
+                    <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
                       </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۴۰۳ – تاکنون</span>
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
-                  <div class="flex gap-x-2 items-start pt-2 justify-end">
-                    <div class="w-full text-right">
-            <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
-              برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
-            </span>
-                    </div>
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
+        </span>
+                    </div>
                   </div>
                 </div>
               </div>
+
+              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">ریاست واحد کنترل کیفیت | سوگاس</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+          شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
+        </span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                      <svg class="h-4 w-4 text-teal-700">
+                        <use href="#paper"></use>
+                      </svg>
+                    </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          رهبری عملیات کنترل کیفیت در شرکت پارس طبیعت سلولز (سوگاس) در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.
+        </span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg3.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مسئول فنی | سوگاس</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+          شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
+        </span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                      <svg class="h-4 w-4 text-teal-700">
+                        <use href="#paper"></use>
+                      </svg>
+                    </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          نظارت بر عملیات فنی در واحدهای مهندسی، آزمایشگاه و ایمنی در شرکت پارس طبیعت سلولز (سوگاس)، با هدف اطمینان از انطباق با استانداردهای مقرراتی. بهینه‌سازی جریان‌های تولید و همکاری با تیم‌های چندوظیفه‌ای برای ارتقای بهره‌وری عملیاتی.
+        </span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg4.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | سوگاس</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+          شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
+        </span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                      <svg class="h-4 w-4 text-teal-700">
+                        <use href="#paper"></use>
+                      </svg>
+                    </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          انجام تحقیقات و تحلیل‌های بازار به‌منظور شناسایی فرصت‌های محصول جدید و توسعه مفاهیم نوآورانه با هدف ارتقای رقابت‌پذیری شرکت. طراحی و ارائه راه‌حل‌های داده‌محور و منطبق با صنعت
+        </span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | خط تولید خمیرسازی باگاس</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+          شرکت حریر خوزستان زیر مجموعه هلدینگ تاپیکو
+        </span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                      <svg class="h-4 w-4 text-teal-700">
+                        <use href="#paper"></use>
+                      </svg>
+                    </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          تحقیق و پژوهش در رابطه با امکان‌پذیری اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان. مذاکره با شرکت‌های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی.
+        </span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | همیار نفت</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">وزارت نفت - شرکت نفت</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                      <svg class="h-4 w-4 text-teal-700">
+                        <use href="#paper"></use>
+                      </svg>
+                    </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
+        </span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg3.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                    <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | بیمه روستایی</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">سازمان مرکزی تعاون روستایی ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-[10px] text-gray-900 text-shadow-sm">اردیبهشت ۱۳۹۶ – خرداد ۱۳۹۷ / ۱ سال و ۲ ماه</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-start gap-x-2 pt-2">
+                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                      <svg class="h-4 w-4 text-teal-700">
+                        <use href="#paper"></use>
+                      </svg>
+                    </div>
+                    <div class="w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+          برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
+        </span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+
             </div>
           </div>
 
 
         </div>
--->
 
 
       </section>
