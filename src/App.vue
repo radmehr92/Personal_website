@@ -1606,7 +1606,7 @@
                     <div>
                       <span class="flex font-IrBold text-lg tracking-wider text-shadow-md">علی رادمهر</span>
                     </div>
-                    <div class="flex font-IrBold text-lg gap-x-1 tracking-wide">
+                    <div class="flex font-IrBold text-base gap-x-1 tracking-wide">
                       <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                       <span class="text-sky-600 text-shadow-md">مهندسی</span>
                       <span class="text-gray-800 text-shadow-md">و</span>
@@ -1614,7 +1614,7 @@
                       <span class="text-gray-800 text-shadow-md">صنعتی</span>
                     </div>
 
-                    <div class="flex font-IrRegular text-sm justify-center w-[360px] text-gray-900">
+                    <div class="flex font-IrRegular text-sm justify-center w-[280px] text-gray-900">
                   <span class="text-justify leading-7">
 فارغ‌التحصیل مهندسی شیمی با مدرک مدیریت از دانشگاه تهران، متمرکز بر نوآوری و بهبود عملیاتی در صنعت و فناوری. دارای تجربه در مدیریت پروژه‌های پیچیده، بهینه‌سازی فرآیندها، و ارائه راه‌حل‌های پایدار برای ارتقاء کیفیت و بهره‌وری. مسلط به هدایت تیم‌های چندرشته‌ای، تحقیق و توسعه، تضمین کیفیت، و توسعه راهبردی کسب‌وکار. نتیجه‌گرا و متعهد به خلق ارزش از طریق نوآوری صنعتی و فناورانه.                  </span>
                     </div>
@@ -5410,7 +5410,7 @@
 
         <div class="flex flex-col sm:hidden w-[280px] max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
-          <div class="flex flex-col items-center justify-center w-full mt-8" v-show="locale === 'en'">
+          <div class="flex flex-col items-center justify-center w-full " v-show="locale === 'en'">
             <!-- عنوان -->
             <div class="w-full mt-12">
               <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
@@ -5976,15 +5976,15 @@
             </div>
           </div>
 
-          <div dir="rtl" class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-2 py-6 overflow-x-hidden" v-show="locale === 'fa'">
+          <div dir="rtl" class="flex flex-col sm:hidden max-w-sm w-full mt-8 overflow-x-hidden" v-show="locale === 'fa'">
             <!-- عنوان -->
-            <div class="w-full px-2 mt-16">
+            <div class="w-full  mt-16">
               <div class="relative w-full max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
                        class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
                 </div>
-                <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="relative flex items-center  w-full p-2 h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <div class="flex items-center gap-x-1">
                     <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
                       <svg class="h-5 w-5 text-sky-700 animate-spin animate-duration-[4000ms]">
@@ -5999,7 +5999,8 @@
 
             <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-2">
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
@@ -6008,11 +6009,11 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/sanat.png" alt="">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6032,12 +6033,16 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#loc"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#loc"></use>
+                          </svg>
+                        </div>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
+                      <div>
+                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6051,11 +6056,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex mb-16">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full text-right">
         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
@@ -6066,7 +6074,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
@@ -6078,11 +6086,11 @@
 
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                    <img class="w-14 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6093,14 +6101,18 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+                      <div>
+                         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
           شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6123,12 +6135,16 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-start gap-x-1 mb-48">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
+
                     <div class="w-full max-w-full text-right">
         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           رهبری عملیات کنترل کیفیت در شرکت پارس طبیعت سلولز (سوگاس) در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.
@@ -6139,7 +6155,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
@@ -6151,11 +6167,11 @@
 
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                    <img class="w-14 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6166,14 +6182,19 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+                      <div>
+                           <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
           شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6196,11 +6217,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-start mb-28">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full text-right">
         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
@@ -6209,10 +6233,11 @@
                     </div>
                   </div>
 
+
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
@@ -6224,11 +6249,11 @@
 
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                    <img class="w-14 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-3">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6239,14 +6264,18 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+                      <div>
+                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
           شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6285,7 +6314,8 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
@@ -6297,11 +6327,11 @@
 
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/harrir.png" alt="">
+                    <img class="w-14 h-14" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-3">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6312,14 +6342,19 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center">
+                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
+                      <div>
+                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
           شرکت حریر خوزستان زیر مجموعه هلدینگ تاپیکو
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6342,11 +6377,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-start gap-x-1 mb-28">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full text-right">
         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
@@ -6358,7 +6396,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
@@ -6370,11 +6408,11 @@
 
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/naft.png" alt="">
+                    <img class="w-14 h-14" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-3">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6413,11 +6451,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-start gap-x-1 mb-20">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full text-right">
         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
@@ -6429,7 +6470,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
@@ -6441,11 +6482,11 @@
 
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/bime.png" alt="">
+                    <img class="w-14 h-14" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-3">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
@@ -6484,11 +6525,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-start gap-x-1 mb-20">
+                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full text-right">
         <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
