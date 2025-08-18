@@ -91,10 +91,12 @@
     </header>
   </div>
 
-  <div class="sm:hidden flex">
-    <header class="fixed top-0 left-0 w-full bg-sky-50 z-50 flex-wrap">
+  <!-- کانتینر اصلی موبایل -->
+  <div class="flex flex-col sm:hidden w-full overflow-x-hidden px-4 py-6">
+    <header class="fixed top-0 left-0 w-full max-w-full bg-sky-50 z-50 flex-wrap overflow-x-hidden">
 
-      <div class="w-full h-12 bg-sky-100 flex items-center justify-between  p-0.5">
+      <!-- نوار بالا: دکمه زبان و لوگو -->
+      <div class="w-full h-12 bg-sky-100 flex items-center justify-between px-2">
         <!-- دکمه تغییر زبان -->
         <button
             @click="toggleLanguage"
@@ -108,19 +110,15 @@
           {{ currentLocale === 'en' ? 'Persian - فا' : 'EN - انگلیسی' }}
         </button>
 
-        <!-- تصویر لوگو-->
+        <!-- تصویر لوگو -->
         <div class="h-10 w-10 mr-1">
-          <img class="h-10 w-10" src="/src/assets/image/rad.png" alt="Ali Radmehr"/>
+          <img class="h-10 w-10 object-contain" src="/src/assets/image/rad.png" alt="Ali Radmehr"/>
         </div>
-
-
       </div>
 
-      <nav class="relative  justify-between items-center p-2 text-sm  font-IrBold ">
-
-
-        <!-- لینک‌ها -->
-        <div class="flex gap-3 text-sm items-center justify-center">
+      <!-- نویگیشن -->
+      <nav class="relative justify-between items-center p-2 text-sm font-IrBold overflow-x-hidden">
+        <div class="flex gap-3 text-sm items-center justify-center flex-wrap max-w-full">
           <a
               v-for="section in orderedLinks"
               :key="section"
@@ -136,14 +134,11 @@
             {{ $t(section) }}
           </a>
         </div>
-
-
       </nav>
 
-
     </header>
-
   </div>
+
 
 </template>
 
