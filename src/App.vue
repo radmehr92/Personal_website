@@ -5408,12 +5408,12 @@
 
         </div>
 
-        <div class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
+        <div class="flex flex-col sm:hidden w-[280px] max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
           <div class="flex flex-col items-center justify-center w-full mt-8" v-show="locale === 'en'">
             <!-- عنوان -->
-            <div class="w-full px-2 mt-12">
-              <div class="relative w-full max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
+            <div class="w-full mt-12">
+              <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
                        class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
@@ -5434,19 +5434,19 @@
             <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-2">
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/sanat.png" alt="">
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -5485,22 +5485,25 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex gap-x-0.5">
+                    <div class="flex gap-x-1 items-start">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full">
-              <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-                In Sanat Express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.
-              </span>
+                    <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words w-[280px]">
+                    In Sanat Express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.
+                    </span>
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
@@ -5510,12 +5513,12 @@
                 <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -5526,14 +5529,18 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
+                      <div>
+                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -5556,23 +5563,26 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
+                <div class="flex items-center gap-x-0.5">
+                  <div class="flex gap-x-1 mb-60">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full max-w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-          Led quality control operations at Pars Tabiat Cellulose Company (Sugas) across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.
-        </span>
-                    </div>
+
                   </div>
+                  <div class="w-full max-w-full">
+                     <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
+                      Led quality control operations at Pars Tabiat Cellulose Company (Sugas) across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.
+                     </span>
+                  </div>
+                </div>
                 </div>
               </div>
 
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
@@ -5583,11 +5593,11 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -5597,16 +5607,21 @@
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Technical Manager | Sugas</span>
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
+                   <div class="flex items-center gap-x-1">
+                     <div class="flex items-center gap-x-1">
+                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                         <svg class="h-4 w-4 text-teal-700">
+                           <use href="#fac"></use>
+                         </svg>
+                       </div>
+
+                     </div>
+                     <div>
+                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
         </span>
-                    </div>
+                     </div>
+                   </div>
 
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5628,11 +5643,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-0.5">
+                    <div class="flex gap-x-1 mb-40">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full">
         <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
@@ -5643,7 +5661,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
@@ -5654,11 +5672,11 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -5669,14 +5687,18 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
+                      <div>
+                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -5699,22 +5721,27 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex gap-x-1 mb-40">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
-                    <div class="w-full max-w-full">
+                    <div>
+                      <div class="w-full max-w-full">
         <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           Conducted market research and analysis to identify new product opportunities and develop innovative concepts aimed at enhancing the company’s competitiveness. Designed and proposed data-driven, industry-aligned solutions to address evolving customer needs and market trends.
         </span>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
@@ -5725,11 +5752,11 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/harrir.png" alt="">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -5739,15 +5766,20 @@
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                    <div class="flex items-center gap-x-0.5">
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
+                      <div>
+                            <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Harir Khuzestan Company – Topico Holding Group
         </span>
+                      </div>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -5770,11 +5802,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex gap-x-1 mb-48">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full">
         <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
@@ -5785,7 +5820,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
@@ -5796,11 +5831,11 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/naft.png" alt="">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
-                  <div class="space-y-1">
+                  <div class="space-y-2">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
@@ -5841,11 +5876,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex gap-x-1 mb-40">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full">
         <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
@@ -5856,7 +5894,7 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
@@ -5867,7 +5905,7 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-full h-full" src="/src/assets/image/factory/bime.png" alt="">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
                   <!-- اطلاعات -->
@@ -5882,10 +5920,13 @@
                     </div>
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
+
                       </div>
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Central Organization for Rural Cooperatives of Iran
@@ -5912,11 +5953,14 @@
                   </div>
 
                   <!-- توضیحات -->
-                  <div class="flex gap-x-1 items-start pt-2">
-                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex gap-x-1 mb-48">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
                     </div>
                     <div class="w-full max-w-full">
         <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
