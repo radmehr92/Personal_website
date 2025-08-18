@@ -91,14 +91,14 @@
     </header>
   </div>
 
-  <!-- هدر موبایل -->
-  <header class="fixed top-0 right-0 w-full bg-sky-50 z-50 shadow-sm sm:hidden">
+
+  <header class="fixed top-0 right-0 w-full bg-sky-50 z-50 shadow-sm sm:hidden overflow-x-hidden">
     <!-- نوار بالا: زبان و لوگو -->
-    <div class="flex items-center justify-between h-12 px-3 bg-sky-100">
+    <div class="flex items-center justify-between h-12 px-2 bg-sky-100">
       <!-- دکمه زبان -->
       <button
           @click="toggleLanguage"
-          class="flex items-center gap-2 px-2 py-1.5 rounded-lg border border-gray-300 bg-white text-xs font-IrBold text-gray-700 hover:text-sky-600 hover:border-sky-500 transition"
+          class="flex items-center gap-1 px-1.5 py-1 rounded-lg border border-gray-300 bg-white text-xs font-IrBold text-gray-700 hover:text-sky-600 hover:border-sky-500 transition max-w-[40%]"
       >
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
              stroke-width="1.5" stroke="currentColor" class="w-4 h-4 text-sky-500">
@@ -109,25 +109,25 @@
       </button>
 
       <!-- لوگو -->
-      <div class="w-10 h-10">
+      <div class="w-8 h-8 flex-shrink-0">
         <img src="/src/assets/image/rad.png" alt="Ali Radmehr" class="w-full h-full object-contain" />
       </div>
     </div>
 
     <!-- نویگیشن -->
-    <nav class="px-3 py-2 text-sm font-IrBold overflow-x-auto whitespace-nowrap">
-      <div class="flex gap-4 justify-center">
+    <nav class="px-2 py-2 text-sm font-IrBold">
+      <div class="flex flex-wrap gap-2 justify-center">
         <a
             v-for="section in orderedLinks"
             :key="section"
             :href="'#' + section"
             @click="setActive(section)"
             :class="[
-          'relative pb-1 transition-colors',
-          'after:absolute after:right-0 after:bottom-[-2px] after:h-[2px] after:bg-sky-500 after:transition-all after:duration-300',
-          activeSection === section ? 'text-sky-600 after:w-full' : 'text-gray-700 after:w-0',
-          'hover:text-gray-900 hover:after:w-full'
-        ]"
+            'relative pb-1 transition-colors text-xs',
+            'after:absolute after:right-0 after:bottom-[-2px] after:h-[2px] after:bg-sky-500 after:transition-all after:duration-300',
+            activeSection === section ? 'text-sky-600 after:w-full' : 'text-gray-700 after:w-0',
+            'hover:text-gray-900 hover:after:w-full'
+          ]"
         >
           {{ $t(section) }}
         </a>

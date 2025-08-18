@@ -1407,15 +1407,16 @@
         </div>
 
 
+<!--
           <div class="flex flex-col sm:hidden w-full max-w-xs mx-auto px-4 py-6">
 
           <div class="flex-wrap space-y-8 p-2">
             <div class="flex items-center justify-between w-full mt-24">
 
-              <!-- EN -->
+              &lt;!&ndash; EN &ndash;&gt;
               <div class="flex-wrap w-full" v-show="locale === 'en'">
 
-                <!--photo-->
+                &lt;!&ndash;photo&ndash;&gt;
                 <div class="flex items-center justify-center  relative">
 
                   <div class="w-28 h-28  absolute right-[145px] top-8  animate-spin animate-infinite animate-duration-[10000ms] animate-delay-[10ms] animate-ease-in-out">
@@ -1474,7 +1475,7 @@
 
                 </div>
 
-                <!--Text-->
+                &lt;!&ndash;Text&ndash;&gt;
                 <div class="flex items-center justify-center mt-12 cursor-default">
                   <div class="space-y-2 animate-fade-up animate-once animate-ease-in-out">
                     <div>
@@ -1538,10 +1539,10 @@
 
               </div>
 
-              <!-- FA -->
+              &lt;!&ndash; FA &ndash;&gt;
               <div class="flex-wrap w-full" dir="rtl" v-show="locale === 'fa'">
 
-                <!--photo-->
+                &lt;!&ndash;photo&ndash;&gt;
                 <div class="flex items-center justify-center relative">
                   <div class="w-28 h-28  absolute right-36 top-8  animate-spin animate-infinite animate-duration-[10000ms] animate-delay-[10ms] animate-ease-in-out">
                     <svg viewBox="0 0 24 24" class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
@@ -1600,7 +1601,7 @@
                 </div>
 
 
-                <!--Text-->
+                &lt;!&ndash;Text&ndash;&gt;
                 <div class="flex items-center justify-center mt-12 cursor-default ">
                   <div class="space-y-3 animate-fade-up animate-once animate-ease-in-out">
                     <div>
@@ -1694,6 +1695,7 @@
           </div>
 
         </div>
+-->
 
       </section>
 
@@ -5408,18 +5410,19 @@
 
         </div>
 
-        <div class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-4 py-6">
+<!--
+        <div class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
           <div class="flex flex-col items-center justify-center w-full mt-8" v-show="locale === 'en'">
-            <!-- عنوان -->
+            &lt;!&ndash; عنوان &ndash;&gt;
             <div class="w-full px-2 mt-12">
-              <div class="relative w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
+              <div class="relative w-full max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
                        class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
                 </div>
                 <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <div class="flex items-center gap-x-2">
+                  <div class="flex items-center gap-x-1">
                     <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
                       <svg class="h-5 w-5 text-sky-700 animate-spin animate-duration-[4000ms]">
                         <use href="#set"></use>
@@ -5431,41 +5434,41 @@
               </div>
             </div>
 
-            <!-- کارت تجربه -->
-            <div class="mt-6 w-full space-y-4">
+            &lt;!&ndash; کارت تجربه &ndash;&gt;
+            <div class="mt-6 w-full space-y-2">
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">Project Manager | Sanat Express</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project Manager | Sanat Express</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">Borna Technology Holding</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Borna Technology Holding</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5474,7 +5477,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Tehran Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5484,15 +5487,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-              <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+              <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
                 In Sanat Express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.
               </span>
                     </div>
@@ -5500,43 +5503,43 @@
                 </div>
               </div>
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">Quality Control Manager | Sugas</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Quality Control Manager | Sugas</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5545,7 +5548,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5555,15 +5558,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           Led quality control operations at Pars Tabiat Cellulose Company (Sugas) across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.
         </span>
                     </div>
@@ -5572,43 +5575,43 @@
               </div>
 
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">Technical Manager | Sugas</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Technical Manager | Sugas</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5617,7 +5620,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5627,15 +5630,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           Oversaw technical operations within engineering, laboratory, and safety units at Pars Tabiat Cellulose Company (Sugas), ensuring compliance with regulatory standards. Optimized production workflows and collaborated with cross-functional teams to enhance operational efficiency.
         </span>
                     </div>
@@ -5643,43 +5646,43 @@
                 </div>
               </div>
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">Research and Development Specialist | Sugas</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Research and Development Specialist | Sugas</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5688,7 +5691,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5698,15 +5701,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           Conducted market research and analysis to identify new product opportunities and develop innovative concepts aimed at enhancing the company’s competitiveness. Designed and proposed data-driven, industry-aligned solutions to address evolving customer needs and market trends.
         </span>
                     </div>
@@ -5714,43 +5717,43 @@
                 </div>
               </div>
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Harir Khuzestan Company – Topico Holding Group
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5759,7 +5762,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5769,15 +5772,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           Conducted detailed feasibility studies for launching a white bagasse pulp production line with a focus on sustainability. Led negotiations with top European and East Asian suppliers to secure optimal equipment solutions. Collaborated with multidisciplinary teams to improve pulp production quality and efficiency.
         </span>
                     </div>
@@ -5785,43 +5788,43 @@
                 </div>
               </div>
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">Project Manager | Hamyar Naft</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project Manager | Hamyar Naft</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Ministry of Petroleum of Iran
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5830,7 +5833,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Tehran Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5840,15 +5843,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           At Hamyar Naft, spearheaded end-to-end project management, guided multidisciplinary teams, and enforced stringent quality controls. Proactively managed risks, streamlined operational processes, and delivered detailed documentation and strategic reports to enhance project efficiency.
         </span>
                     </div>
@@ -5856,43 +5859,43 @@
                 </div>
               </div>
 
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">Project Manager | Rural Insurance</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project Manager | Rural Insurance</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
           Central Organization for Rural Cooperatives of Iran
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5901,7 +5904,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Tehran Province, Iran</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -5911,15 +5914,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-2 items-start pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full">
+        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
           In the Rural Insurance Project, directed comprehensive project planning and execution, led diverse teams, and implemented robust quality controls. Actively managed risks, optimized operational workflows, and provided detailed documentation and strategic reports to drive project efficiency and success.
         </span>
                     </div>
@@ -5932,16 +5935,16 @@
             </div>
           </div>
 
-          <div dir="rtl" class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-4 py-6" v-show="locale === 'fa'">
-            <!-- عنوان -->
+          <div dir="rtl" class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-2 py-6 overflow-x-hidden" v-show="locale === 'fa'">
+            &lt;!&ndash; عنوان &ndash;&gt;
             <div class="w-full px-2 mt-16">
-              <div class="relative w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
+              <div class="relative w-full max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/2.jpg" alt=""
                        class="w-full h-full object-cover opacity-75 rounded-tl-xl rounded-br-xl" />
                 </div>
                 <div class="relative flex items-center p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <div class="flex items-center gap-x-2">
+                  <div class="flex items-center gap-x-1">
                     <div class="flex items-center justify-center rounded-full border border-gray-300 w-6 h-6 bg-white">
                       <svg class="h-5 w-5 text-sky-700 animate-spin animate-duration-[4000ms]">
                         <use href="#set"></use>
@@ -5953,41 +5956,41 @@
               </div>
             </div>
 
-            <!-- کارت تجربه -->
-            <div class="mt-6 w-full space-y-4">
-              <div class="relative w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+            &lt;!&ndash; کارت تجربه &ndash;&gt;
+            <div class="mt-6 w-full space-y-2">
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <div class="relative flex flex-col gap-y-3 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | صنعت اکسپرس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه | صنعت اکسپرس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-sm text-gray-900 text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -5996,7 +5999,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6006,15 +6009,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
         </span>
                     </div>
@@ -6022,33 +6025,33 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">ریاست واحد کنترل کیفیت | سوگاس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ریاست واحد کنترل کیفیت | سوگاس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
@@ -6059,7 +6062,7 @@
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -6068,7 +6071,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6078,15 +6081,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           رهبری عملیات کنترل کیفیت در شرکت پارس طبیعت سلولز (سوگاس) در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.
         </span>
                     </div>
@@ -6095,33 +6098,33 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مسئول فنی | سوگاس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مسئول فنی | سوگاس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
@@ -6132,7 +6135,7 @@
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -6141,7 +6144,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6151,15 +6154,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           نظارت بر عملیات فنی در واحدهای مهندسی، آزمایشگاه و ایمنی در شرکت پارس طبیعت سلولز (سوگاس)، با هدف اطمینان از انطباق با استانداردهای مقرراتی. بهینه‌سازی جریان‌های تولید و همکاری با تیم‌های چندوظیفه‌ای برای ارتقای بهره‌وری عملیاتی.
         </span>
                     </div>
@@ -6168,33 +6171,33 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | سوگاس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | سوگاس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
@@ -6205,7 +6208,7 @@
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -6214,7 +6217,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6224,15 +6227,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           انجام تحقیقات و تحلیل‌های بازار به‌منظور شناسایی فرصت‌های محصول جدید و توسعه مفاهیم نوآورانه با هدف ارتقای رقابت‌پذیری شرکت. طراحی و ارائه راه‌حل‌های داده‌محور و منطبق با صنعت
         </span>
                     </div>
@@ -6241,24 +6244,24 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
@@ -6267,7 +6270,7 @@
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | خط تولید خمیرسازی باگاس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
@@ -6278,7 +6281,7 @@
         </span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -6287,7 +6290,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6297,15 +6300,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           تحقیق و پژوهش در رابطه با امکان‌پذیری اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان. مذاکره با شرکت‌های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی.
         </span>
                     </div>
@@ -6314,33 +6317,33 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | همیار نفت</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه | همیار نفت</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
@@ -6349,7 +6352,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">وزارت نفت - شرکت نفت</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -6358,7 +6361,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6368,15 +6371,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
         </span>
                     </div>
@@ -6385,33 +6388,33 @@
                 </div>
               </div>
 
-              <div class="relative w-full max-w-sm h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                &lt;!&ndash; بک‌گراند &ndash;&gt;
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-4 p-4 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
-                    <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
+                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-full h-full" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-2">
+                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <div class="space-y-1">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-sm text-gray-900 text-shadow-sm">مدیر پروژه | بیمه روستایی</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه | بیمه روستایی</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
@@ -6420,7 +6423,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">سازمان مرکزی تعاون روستایی ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
@@ -6429,7 +6432,7 @@
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
                     </div>
 
-                    <div class="flex items-center gap-x-2">
+                    <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
@@ -6439,15 +6442,15 @@
                     </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-2 pt-2">
+                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
                         <use href="#paper"></use>
                       </svg>
                     </div>
-                    <div class="w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed">
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
           برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
         </span>
                     </div>
@@ -6462,6 +6465,7 @@
 
 
         </div>
+-->
 
 
       </section>
