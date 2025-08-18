@@ -1488,7 +1488,7 @@
                     </div>
 
                     <div class="flex font-IrRegular text-xs justify-center w-[280px] text-gray-900">
-                  <span class="text-justify leading-7">
+                  <span class="text-justify leading-5">
                     Chemical Engineering graduate with an MBA from the University of Tehran, focused on innovation and operational improvement in industry and technology. Experienced in managing complex projects, optimizing processes, and delivering sustainable solutions to boost quality and efficiency. Skilled in leading cross-functional teams, R&D, quality assurance, and strategic business development. Results-driven and committed to creating value through industrial and technological innovation.
                   </span>
                     </div>
@@ -5408,11 +5408,10 @@
 
         </div>
 
-<!--
         <div class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
           <div class="flex flex-col items-center justify-center w-full mt-8" v-show="locale === 'en'">
-            &lt;!&ndash; عنوان &ndash;&gt;
+            <!-- عنوان -->
             <div class="w-full px-2 mt-12">
               <div class="relative w-full max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -5432,7 +5431,7 @@
               </div>
             </div>
 
-            &lt;!&ndash; کارت تجربه &ndash;&gt;
+            <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-2">
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -5441,12 +5440,12 @@
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5485,7 +5484,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5502,20 +5501,20 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5556,7 +5555,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5574,20 +5573,20 @@
 
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5628,7 +5627,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5645,20 +5644,20 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5699,7 +5698,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5716,20 +5715,20 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5770,7 +5769,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5787,20 +5786,20 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5841,7 +5840,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5858,20 +5857,20 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -5912,7 +5911,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex gap-x-1 items-start pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -5934,7 +5933,7 @@
           </div>
 
           <div dir="rtl" class="flex flex-col sm:hidden w-full max-w-sm mx-auto px-2 py-6 overflow-x-hidden" v-show="locale === 'fa'">
-            &lt;!&ndash; عنوان &ndash;&gt;
+            <!-- عنوان -->
             <div class="w-full px-2 mt-16">
               <div class="relative w-full max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -5954,7 +5953,7 @@
               </div>
             </div>
 
-            &lt;!&ndash; کارت تجربه &ndash;&gt;
+            <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-2">
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -5963,12 +5962,12 @@
                 </div>
 
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
@@ -6007,7 +6006,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6024,21 +6023,21 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
@@ -6079,7 +6078,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6097,21 +6096,21 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
@@ -6152,7 +6151,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6170,21 +6169,21 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg4.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
@@ -6225,7 +6224,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6243,21 +6242,21 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/harrir.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
@@ -6298,7 +6297,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6316,21 +6315,21 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg2.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/naft.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
@@ -6369,7 +6368,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6387,21 +6386,21 @@
               </div>
 
               <div class="relative w-full max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                &lt;!&ndash; بک‌گراند &ndash;&gt;
+                <!-- بک‌گراند -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg3.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                 </div>
 
-                &lt;!&ndash; محتوای کارت &ndash;&gt;
+                <!-- محتوای کارت -->
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  &lt;!&ndash; لوگو &ndash;&gt;
+                  <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-full h-full" src="/src/assets/image/factory/bime.png" alt="">
                   </div>
 
-                  &lt;!&ndash; اطلاعات &ndash;&gt;
+                  <!-- اطلاعات -->
                   <div class="space-y-1">
                     <div class="flex items-center gap-x-1">
                       <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
@@ -6440,7 +6439,7 @@
                     </div>
                   </div>
 
-                  &lt;!&ndash; توضیحات &ndash;&gt;
+                  <!-- توضیحات -->
                   <div class="flex items-start gap-x-1 pt-2">
                     <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
                       <svg class="h-4 w-4 text-teal-700">
@@ -6463,7 +6462,6 @@
 
 
         </div>
--->
 
 
       </section>
