@@ -12753,11 +12753,16 @@ import { useI18n } from 'vue-i18n'
 import emblaCarouselVue from 'embla-carousel-vue'
 import AutoScroll from 'embla-carousel-auto-scroll'
 
-
 const { t, locale } = useI18n()
 
 onMounted(() => {
   document.title = t('name')
+  onMounted(() => {
+    if (window._paq) {
+      window._paq.push(['setCustomUrl', window.location.pathname])
+      window._paq.push(['setDocumentTitle', 'Ali Radmehr | علی رادمهر'])
+      window._paq.push(['trackPageView'])
+    }
 })
 
 watch(locale, () => {
@@ -12826,8 +12831,6 @@ _paq.push(['enableLinkTracking']);
   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
   g.async=true; g.src=u + 'matomo.js'; s.parentNode.insertBefore(g,s);
 })();
-
-
 
 
 </script>
