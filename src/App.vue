@@ -5432,7 +5432,7 @@
             </div>
 
             <!-- کارت تجربه -->
-            <div class="mt-6 w-full space-y-2">
+            <div class="mt-6 w-full space-y-6">
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -5998,7 +5998,7 @@
             </div>
 
             <!-- کارت تجربه -->
-            <div class="mt-6 w-full space-y-2">
+            <div class="mt-6 w-full space-y-6">
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
