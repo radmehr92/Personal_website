@@ -5991,7 +5991,7 @@
                         <use href="#set"></use>
                       </svg>
                     </div>
-                    <span class="font-IrBold text-base tracking-widest text-white text-shadow-sm">سوابق شغلی</span>
+                    <span class="font-IrBold text-base tracking-wide text-white text-shadow-sm">سوابق شغلی</span>
                   </div>
                 </div>
               </div>
@@ -7895,7 +7895,7 @@ Bachelor's Degree
                       <use href="#uni"></use>
                     </svg>
                   </div>
-                  <span class="font-IrBold text-[14px] tracking-widest text-gray-800 text-shadow-sm">تحصیلات</span>
+                  <span class="font-IrBold text-[14px] tracking-wide text-gray-800 text-shadow-sm">تحصیلات</span>
                 </div>
               </div>
             </div>
@@ -10883,7 +10883,7 @@ Bachelor's Degree
                       <use href="#uni"></use>
                     </svg>
                   </div>
-                  <span class="font-IrBold text-[14px] tracking-widest text-gray-800 text-shadow-sm">دوره ها</span>
+                  <span class="font-IrBold text-[14px] tracking-wide text-gray-800 text-shadow-sm">دوره ها</span>
                 </div>
               </div>
             </div>
