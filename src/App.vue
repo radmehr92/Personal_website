@@ -10697,7 +10697,7 @@ Bachelor's Degree
             <!-- کارت دوم: HACCP -->
             <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
               <div class="absolute inset-0 z-0">
-                <img src="/src/assets/image/ce/HACCP.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
               </div>
               <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                 <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
