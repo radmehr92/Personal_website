@@ -10693,6 +10693,7 @@ Bachelor's Degree
               </div>
             </div>
 
+
             <!-- کارت دوم: HACCP -->
             <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
               <div class="absolute inset-0 z-0">
