@@ -11301,7 +11301,7 @@ Bachelor's Degree
 
                     <div class="mt-12 space-y-6 animate-fade-left animate-ease-linear">
 
-                      <div class="relative w-[800px] h-32 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+                      <div class="relative w-[800px] h-40 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
                         <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                           <img src="/src/assets/image/call/ca7.jpg" alt=""
