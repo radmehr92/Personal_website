@@ -12078,6 +12078,7 @@ Bachelor's Degree
 
 </template>
 
+
 <script setup>
 import HeaderComponent from "@/views/HeaderComponent.vue"
 import { onMounted, watch } from 'vue'
