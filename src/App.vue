@@ -1839,13 +1839,13 @@
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
+                        <div class="flex gap-x-1 items-center mr-10">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Aug 2020 - Jul 2024 · 4 yrs</span>
                         </div>
 
                       </div>
@@ -2431,17 +2431,17 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت   |  سوگاس</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت (معادل مدیر واحد) |  سوگاس</span>
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
+                        <div class="flex gap-x-1 items-center ml-7">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مرداد ۱۳۹۹ – تیر ۱۴۰۳ / ۴ سال</span>
                         </div>
 
                       </div>
@@ -3038,13 +3038,13 @@
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
+                        <div class="flex gap-x-1 items-center mr-10">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Aug 2020 - Jul 2024 · 4 yrs</span>
                         </div>
 
                       </div>
@@ -3630,17 +3630,17 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت   |  سوگاس</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت (معادل مدیر واحد)  |  سوگاس</span>
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
+                        <div class="flex gap-x-1 items-center ml-7">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مرداد ۱۳۹۹ – تیر ۱۴۰۳ / ۴ سال</span>
                         </div>
 
                       </div>
@@ -4280,13 +4280,13 @@
                           <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
                         </div>
 
-                        <div class="flex gap-x-1 items-center">
+                        <div class="flex gap-x-1 items-center mr-4">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Aug 2020 - Jul 2024 · 4 yrs</span>
                         </div>
 
                       </div>
@@ -4898,7 +4898,7 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت   |  سوگاس</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت (معادل مدیر واحد)   |  سوگاس</span>
                         </div>
 
 
@@ -4931,13 +4931,13 @@
                           <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
                         </div>
 
-                        <div class="flex gap-x-1 items-center">
+                        <div class="flex gap-x-1 items-center ml-4">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مرداد ۱۳۹۹ – تیر ۱۴۰۳ / ۴ سال</span>
                         </div>
 
 
@@ -5558,7 +5558,7 @@
                           <use href="#cal"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Dec 2020 – Jun 2024 · 3 yrs 7 mos</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Aug 2020 – Jul 2024 · 4 yrs</span>
                     </div>
                   </div>
 
@@ -6097,7 +6097,7 @@
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ریاست واحد کنترل کیفیت | سوگاس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ریاست واحد کنترل کیفیت(معادل مدیر واحد) | سوگاس</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6130,7 +6130,7 @@
                           <use href="#cal"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۳۹۹ – تیر ۱۴۰۳ / ۴ سال</span>
                     </div>
                   </div>
 
