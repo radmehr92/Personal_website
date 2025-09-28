@@ -12080,8 +12080,6 @@ Bachelor's Degree
 
 
 
-
-
 <script setup>
 import HeaderComponent from "@/views/HeaderComponent.vue"
 import { onMounted, watch } from 'vue'
@@ -12167,5 +12165,6 @@ html {
 
 .align-right { text-align: right; float: right; }
 .align-left { text-align: left; float: left; }
+
 
 </style>
