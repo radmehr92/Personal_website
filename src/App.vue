@@ -1730,6 +1730,87 @@
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
+
+                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
+                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                  </div>
+
+
+                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+                      </div>
+
+                    </div>
+                    <div class=" flex-wrap space-y-1.5">
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#pos"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Quality Control Manager | Rata</span>
+                        </div>
+
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#cal"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[72px]">Oct 2025 - Present</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#fac"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Rata Holding</span>
+                        </div>
+
+                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#loc"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex gap-x-1 items-center">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+                        </div>
+                        <div class="w-full">
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.</span>
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+
                 <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -1765,7 +1846,7 @@
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[68px]">Jul 2024 - Present</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[10px]">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
                         </div>
 
                       </div>
@@ -1781,7 +1862,7 @@
                           <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Borna Technology Holding</span>
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                        <div class="flex gap-x-1 items-center mr-10 mt-0.5">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
                               <use href="#loc"></use>
@@ -1808,7 +1889,6 @@
                   </div>
 
                 </div>
-
 
                 <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -2328,6 +2408,86 @@
                 <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                  </div>
+
+
+                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+                      </div>
+
+                    </div>
+                    <div class=" flex-wrap space-y-1.5">
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#pos"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
+                        </div>
+
+
+                        <div class="flex gap-x-1 items-center ml-[93px]">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#cal"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مهر ۱۴۰۴ – تاکنون</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#fac"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت راتا</span>
+                        </div>
+
+                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#loc"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex gap-x-1 items-center">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+                        </div>
+                        <div class="w-full">
+                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+
+                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                     <img src="/src/assets/image/industry/bg1.jpg" alt=""
                          class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                   </div>
@@ -2354,13 +2514,13 @@
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center ml-[23px]">
+                        <div class="flex gap-x-1 items-center mr-8">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ – تاکنون</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
                         </div>
 
                       </div>
@@ -2376,7 +2536,7 @@
                           <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                        <div class="flex gap-x-1 items-center ml-[80px] mt-0.5">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
                               <use href="#loc"></use>
@@ -2431,7 +2591,7 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت (معادل مدیر واحد) |  سوگاس</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت |  سوگاس</span>
                         </div>
 
 
@@ -2929,6 +3089,86 @@
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
+                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                  </div>
+
+
+                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+                      </div>
+
+                    </div>
+                    <div class=" flex-wrap space-y-1.5">
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#pos"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Quality Control Manager | Rata</span>
+                        </div>
+
+
+                        <div class="flex gap-x-1 items-center mr-[68px]">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#cal"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Oct 2025 - Present</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#fac"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Rata Holding</span>
+                        </div>
+
+                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#loc"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex gap-x-1 items-center">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-14">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+                        </div>
+                        <div class="w-full">
+                          <span class="font-IrRegular text-[11px]  text-gray-900 text-shadow-sm text-justify">Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.</span>
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+
                 <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -2964,7 +3204,7 @@
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[68px]">Jul 2024 - Present</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-2">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
                         </div>
 
                       </div>
@@ -2980,7 +3220,7 @@
                           <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Borna Technology Holding</span>
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                        <div class="flex gap-x-1 items-center mr-9 mt-0.5">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
                               <use href="#loc"></use>
@@ -3535,6 +3775,86 @@
                   <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                     <div class="flex items-center gap-x-2">
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+                      </div>
+
+                    </div>
+                    <div class=" flex-wrap space-y-1.5">
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#pos"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
+                        </div>
+
+
+                        <div class="flex gap-x-1 items-center ml-[50px]">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#cal"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مهر ۱۴۰۴ – تاکنون</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#fac"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت راتا</span>
+                        </div>
+
+                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#loc"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex gap-x-1 items-center">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-4">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+                        </div>
+                        <div class="w-full">
+                        <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+
+                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
+                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                  </div>
+
+
+                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
                         <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
                       </div>
 
@@ -3553,13 +3873,13 @@
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center ml-[23px]">
+                        <div class="flex gap-x-1 items-center ml-[10px]">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ – تاکنون</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
                         </div>
 
                       </div>
@@ -3575,7 +3895,7 @@
                           <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                        <div class="flex gap-x-1 items-center ml-[90px] mt-0.5">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
                               <use href="#loc"></use>
@@ -4130,6 +4450,95 @@
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
+                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                  </div>
+
+
+                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+                      </div>
+
+                    </div>
+                    <div class=" flex-wrap space-y-1.5">
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#pos"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">Quality Control Manager | Rata</span>
+                        </div>
+
+
+
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#fac"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Rata Holding</span>
+                        </div>
+
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+
+
+                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#loc"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+                        </div>
+
+                        <div class="flex gap-x-1 items-center mr-4">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#cal"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Oct 2025 - Present</span>
+                        </div>
+
+                      </div>
+
+                      <div class="flex gap-x-1 items-center">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-20">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+                        </div>
+                        <div class="w-full">
+                          <span class="font-IrRegular text-[11px]  text-gray-900 text-shadow-sm text-justify">Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.</span>
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+
                 <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -4196,7 +4605,7 @@
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[68px]">Jul 2024 - Present</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[30px]">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
                         </div>
 
 
@@ -4789,6 +5198,94 @@
                 <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                  </div>
+
+
+                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                    <div class="flex items-center gap-x-2">
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+                      </div>
+
+                    </div>
+                    <div class=" flex-wrap space-y-1.5">
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#pos"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
+                        </div>
+
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+                        <div class="flex gap-x-1 items-center">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#fac"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت راتا</span>
+                        </div>
+
+
+                      </div>
+
+                      <div class="flex items-center justify-between">
+
+
+
+                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#loc"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
+                        </div>
+
+                        <div class="flex gap-x-1 items-center ml-4">
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                            <svg class="h-5 w-5 text-teal-700">
+                              <use href="#cal"></use>
+                            </svg>
+                          </div>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مهر ۱۴۰۴ – تاکنون</span>
+                        </div>
+
+
+                      </div>
+
+                      <div class="flex gap-x-1 items-center">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-20">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+                        </div>
+                        <div class="w-full">
+                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+
+                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                     <img src="/src/assets/image/industry/bg1.jpg" alt=""
                          class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                   </div>
@@ -4849,7 +5346,7 @@
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ – تاکنون</span>
+                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
                         </div>
 
                       </div>
@@ -5435,6 +5932,82 @@
             <div class="mt-4 w-full space-y-6">
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <!-- بک‌گراند -->
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg2.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <!-- محتوای کارت -->
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/rata.jpg" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Quality Control Manager | Rata</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#fac"></use>
+                          </svg>
+                        </div>
+                      </div>
+                      <div>
+                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Rata Holding</span>
+                      </div>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Oct 2025 - Present</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-center gap-x-0.5">
+                    <div class="flex gap-x-1 mb-60">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-4">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
+                    </div>
+                    <div class="w-full max-w-full">
+                     <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
+                     Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.
+                     </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
                   <img src="/src/assets/image/industry/bg1.jpg" alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
@@ -5480,7 +6053,7 @@
                           <use href="#cal"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Jul 2024 - Present</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
                     </div>
                   </div>
 
@@ -6009,6 +6582,79 @@
                 <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
                   <!-- لوگو -->
                   <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+                    <img class="w-12 h-12" src="/src/assets/image/factory/rata.jpg" alt="">
+                  </div>
+
+                  <!-- اطلاعات -->
+                  <div class="space-y-2">
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شرکت راتا</span>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center gap-x-1">
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#loc"></use>
+                          </svg>
+                        </div>
+                      </div>
+                      <div>
+                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
+                      </div>
+                    </div>
+
+                    <div class="flex items-center gap-x-1">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+                      </div>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مهر ۱۴۰۴ – تاکنون</span>
+                    </div>
+                  </div>
+
+                  <!-- توضیحات -->
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex mb-48">
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#paper"></use>
+                        </svg>
+                      </div>
+
+                    </div>
+                    <div class="w-full max-w-full text-right">
+        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                </div>
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                  <!-- لوگو -->
+                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
                     <img class="w-12 h-12" src="/src/assets/image/factory/sanat.png" alt="">
                   </div>
 
@@ -6051,7 +6697,7 @@
                           <use href="#cal"></use>
                         </svg>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۴۰۳ – تاکنون</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
                     </div>
                   </div>
 
