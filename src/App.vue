@@ -12727,11 +12727,15 @@ Bachelor's Degree
 
 
 <script setup>
+
+
 import HeaderComponent from "@/views/HeaderComponent.vue"
 import { onMounted, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import emblaCarouselVue from 'embla-carousel-vue'
 import AutoScroll from 'embla-carousel-auto-scroll'
+
+
 
 const { t, locale } = useI18n()
 
