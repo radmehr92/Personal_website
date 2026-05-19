@@ -1160,7 +1160,7 @@
                   </div>
 
                   <div class="flex rounded-full border border-sky-600/50 w-40 h-40 shadow-md z-10 animate-fade-up animate-once animate-ease-in-out">
-                    <img class="rounded-full border border-sky-600/50 w-40 h-40" src="/src/assets/image/ali.png" alt="Ali Radmehr" />
+                    <img class="rounded-full border border-sky-600/50 w-40 h-40" src="/src/assets/image/a.png" alt="Ali Radmehr" />
                   </div>
 
 
@@ -1282,7 +1282,7 @@
                   </div>
 
                   <div class="flex rounded-full border mr-80 border-sky-600/50 w-40 h-40 shadow-md z-10 animate-fade-up animate-once animate-ease-in-out">
-                    <img class="rounded-full border border-sky-600/50 w-40 h-40" src="/src/assets/image/ali.png" alt="Ali Radmehr" />
+                    <img class="rounded-full border border-sky-600/50 w-40 h-40" src="/src/assets/image/a.png" alt="Ali Radmehr" />
                   </div>
 
 
