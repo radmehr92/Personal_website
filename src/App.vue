@@ -6026,7 +6026,7 @@
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project Manager | Sanat Express</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project & Qc Manager | Sanat Express</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6415,7 +6415,7 @@
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project Manager | Hamyar Naft</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project & Qc Manager | Hamyar Naft</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -6666,7 +6666,7 @@
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه | صنعت اکسپرس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه و کنترل کیفیت | صنعت اکسپرس</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -7065,7 +7065,7 @@
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه | همیار نفت</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه و کنترل کیفیت | همیار نفت</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
