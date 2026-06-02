@@ -3869,7 +3869,7 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه  |  صنعت اکسپرس</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت  |  صنعت اکسپرس</span>
                         </div>
 
 
@@ -4273,7 +4273,7 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه |  همیار نفت</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت |  همیار نفت</span>
                         </div>
 
 
