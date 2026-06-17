@@ -6743,7 +6743,7 @@
                           <use href="#pos"></use>
                         </svg>
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ریاست واحد کنترل کیفیت(معادل مدیر واحد) | سوگاس</span>
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیریت واحد کنترل کیفیت | سوگاس</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
