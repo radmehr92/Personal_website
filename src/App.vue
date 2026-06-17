@@ -3950,7 +3950,7 @@
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ریاست واحد کنترل کیفیت (معادل مدیر واحد)  |  سوگاس</span>
+                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیریت واحد کنترل کیفیت | سوگاس</span>
                         </div>
 
 
