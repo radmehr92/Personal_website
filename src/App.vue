@@ -1049,7 +1049,7 @@
 
                     <div class="flex font-IrRegular text-base justify-center w-[600px] text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
+                    فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
                   </span>
                     </div>
 
@@ -1202,14 +1202,14 @@
                     </div>
                     <div class="flex font-IrBold text-xl gap-x-2">
                       <span class="text-gray-800 text-shadow-md">Professional in</span>
-                      <span class="text-shadow-md text-sky-600">Engineering</span>
-                      <span class="text-gray-800 text-shadow-md">& Industrial</span>
-                      <span class="text-shadow-md text-teal-600">Management</span>
+                      <span class="text-shadow-md text-sky-600">Quality Management</span>
+                      <span class="text-gray-800 text-shadow-md">&</span>
+                      <span class="text-shadow-md text-teal-600">Project Management</span>
                     </div>
 
                     <div class="flex font-IrRegular text-sm justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, focused on innovation and operational improvement in industry and technology. Experienced in managing complex projects, optimizing processes, and delivering sustainable solutions to boost quality and efficiency. Skilled in leading cross-functional teams, R&D, quality assurance, and strategic business development. Results-driven and committed to creating value through industrial and technological innovation.
+Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
                   </span>
                     </div>
 
@@ -1325,15 +1325,15 @@
                     </div>
                     <div class="flex font-IrBold text-xl gap-x-3 tracking-widest">
                       <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
-                      <span class="text-sky-600 text-shadow-md">مهندسی</span>
+                      <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
                       <span class="text-gray-800 text-shadow-md">و</span>
-                      <span class="text-shadow-md text-teal-600">مدیریت</span>
-                      <span class="text-gray-800 text-shadow-md">صنعتی</span>
+                      <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
                     </div>
 
                     <div class="flex font-IrRegular text-base justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌التحصیل مهندسی شیمی با مدرک مدیریت از دانشگاه تهران، متمرکز بر نوآوری و بهبود عملیاتی در صنعت و فناوری. دارای تجربه در مدیریت پروژه‌های پیچیده، بهینه‌سازی فرآیندها، و ارائه راه‌حل‌های پایدار برای ارتقاء کیفیت و بهره‌وری. مسلط به هدایت تیم‌های چندرشته‌ای، تحقیق و توسعه، تضمین کیفیت، و توسعه راهبردی کسب‌وکار. نتیجه‌گرا و متعهد به خلق ارزش از طریق نوآوری صنعتی و فناورانه.                  </span>
+فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
+                  </span>
                     </div>
 
                     <div>
