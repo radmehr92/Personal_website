@@ -1474,7 +1474,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                     </svg>
                   </div>
 
-
                 </div>
 
                 <!--Text-->
