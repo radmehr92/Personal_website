@@ -3401,165 +3401,342 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                 </div>
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                <div class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg4.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/harrir.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+Research & Development Project Provider | Harir Khuzestan
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+Harir Khuzestan Company (Subsidiary of Taseeko - Tapico Holding)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Apr 2023 - Jun 2023 · 3 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Shoush, Khuzestan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Research And Development Specialist | Sugas</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+Key Achievements
+
+          </span>
+
+
+
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Conducted research and technical feasibility studies for the implementation of a compact white bagasse pulp production line project at Harir Khuzestan Company, including technology assessment, production process evaluation, and technical requirement analysis.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Established technical communication and negotiations with European and East Asian pulp and paper industry equipment designers and manufacturers to evaluate proposed solutions and identify suitable technologies.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Pars Tabiat Cellulose Company is a subsidiary of Pars Paper Group</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">Conducted market research and analysis to identify new product opportunities and develop innovative concepts aimed at enhancing the company’s competitiveness. Designed and proposed data-driven, industry-aligned solutions to address evolving customer needs and market trends.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
-
-
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[35px]">Apr 2023 - Jun 2023 · 3 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Harir Khuzestan Company is a subsidiary of the Topico Holding Group.</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Conducted detailed feasibility studies for launching a white bagasse pulp production line with a focus on sustainability. Led negotiations with top European and East Asian suppliers to secure optimal equipment solutions. Collaborated with multidisciplinary teams to improve pulp production quality and efficiency.</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
 
                 <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -5334,163 +5511,340 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                <div dir="rtl" class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg4.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/harrir.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+ارائه دهنده طرح تحقیقاتی و توسعه خط خمیرسازی | حریر خوزستان
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+شرکت حریر خوزستان (زیر مجموعه هلدینگ تاسیکو - تاپیکو)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+شوش، استان خوزستان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ارائه دهنده طرح های توسعه و تحقیقاتی   |  سوگاس</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+وظایف و دستاوردها
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+انجام مطالعات تحقیقاتی و امکان‌ سنجی فنی اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان، شامل بررسی فناوری‌ های موجود، فرآیند تولید و ارزیابی الزامات فنی پروژه.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مذاکره و برقراری ارتباطات فنی با شرکت‌ های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی، به‌ منظور بررسی راهکار های اجرایی و ارزیابی فناوری‌ های پیشنهادی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-3">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">انجام تحقیقات و تحلیل‌های بازار به‌منظور شناسایی فرصت‌های محصول جدید و توسعه مفاهیم نوآورانه با هدف ارتقای رقابت‌پذیری شرکت. طراحی و ارائه راه‌حل‌های داده‌محور و منطبق با صنعت</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
 
-                </div>
 
-
-
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ارائه دهنده طرح های توسعه و تحقیقاتی   |  خط تولید خمیرسازی باگاس</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ml-[12px]">فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت حریر خوزستان زیر مجموعه هلدینگ تاپیکو</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-3">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">تحقیق و پژوهش در رابطه با امکان پذیری اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان / مذاکره با شرکت های طراح و سازنده تجهیزات و تاسیسات صنایع سلولزی اروپایی و شرق آسیایی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
 
                 </div>
 
@@ -6463,7 +6817,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
 
-                    <img src="/src/assets/image/industry/bg2.jpg"
+                    <img src="/src/assets/image/industry/bg1.jpg"
                          alt=""
                          class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
 
@@ -6474,11 +6828,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-
                   <!-- Main Card -->
 
                   <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-
 
 
 
@@ -6497,7 +6849,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
 
                         <img class="w-16 h-14"
-                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             src="/src/assets/image/factory/harrir.png"
                              alt="">
 
                       </div>
@@ -6514,7 +6866,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
                       <div class="flex-1">
 
 
+
                         <div class="flex items-start justify-between">
+
 
 
 
@@ -6528,13 +6882,14 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                            <!-- Position -->
+                            <!-- Job Title -->
 
                             <div class="flex items-center gap-x-1">
 
+
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
 
-                                <svg class="h-5 w-5 text-teal-700">
+                                <svg class="h-5 h-5 text-teal-700">
                                   <use href="#pos"></use>
                                 </svg>
 
@@ -6544,9 +6899,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                Quality Control Manager | Sugas
+      Research & Development Project Proposal Provider | Harir Khuzestan
 
-              </span>
+    </span>
 
 
                             </div>
@@ -6561,6 +6916,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                             <div class="flex items-center gap-x-1">
 
+
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
 
                                 <svg class="h-4 w-4 text-teal-700">
@@ -6573,9 +6929,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                               <span class="font-IrRegular text-sm text-slate-800">
 
-                Pars Tabiat Cellulose Company (Subsidiary of Pars Paper Group)
+      Harir Khuzestan Company (Subsidiary of TAPPICO Holding - TOSICO)
 
-              </span>
+    </span>
 
 
                             </div>
@@ -6594,7 +6950,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                           <!-- Date + Location -->
 
-                          <div class="flex flex-col gap-y-2">
+                          <div class="flex flex-col gap-y-2 items-start">
 
 
 
@@ -6603,6 +6959,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
                             <!-- Date -->
 
                             <div class="flex items-center gap-x-1">
+
 
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
 
@@ -6616,9 +6973,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                               <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
 
-                Aug 2020 - Jul 2024 · 4 yrs
+      Apr 2023 - Jun 2023 · 3 mos
 
-              </span>
+    </span>
 
 
                             </div>
@@ -6634,6 +6991,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                             <div class="flex items-center gap-x-1">
 
+
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
 
                                 <svg class="h-4 w-4 text-teal-700">
@@ -6646,9 +7004,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                               <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
 
-                Shoush, Khuzestan Province, Iran
+      Shoush, Khuzestan Province, Iran
 
-              </span>
+    </span>
 
 
                             </div>
@@ -6678,7 +7036,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                    <!-- Key Achievements -->
+                    <!-- Description -->
 
 
                     <div class="mt-3 border-t border-white/50 pt-3">
@@ -6692,6 +7050,7 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
                         <!-- Title -->
+
 
                         <div class="flex items-center gap-x-2 mb-2">
 
@@ -6708,9 +7067,10 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                           <span class="font-IrBold text-sm text-gray-950 tracking-wide">
 
-            Key Achievements
+  Key Achievements
 
-          </span>
+</span>
+
 
 
                         </div>
@@ -6722,9 +7082,11 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                        <!-- Content -->
 
-                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
 
 
 
@@ -6736,9 +7098,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                             <span class="font-IrRegular">
 
-              Led and managed the Quality Control department with 45 employees across three shifts, ensuring ISO 9001 quality standards throughout production processes.
+    Conducted research studies and technical feasibility assessments for the implementation of the Compact White Bagasse Pulping Line Project at Harir Khuzestan Company, including evaluation of available technologies, production processes, and technical project requirements.
 
-            </span>
+  </span>
 
                           </div>
 
@@ -6754,117 +7116,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
                             <span class="font-IrRegular">
 
-              Designed and implemented Statistical Process Control (SPC) systems to reduce production waste and improve process accuracy through data-driven quality management.
+    Established technical communications and negotiations with European and East Asian pulp industry equipment designers and manufacturers to evaluate implementation approaches and assess proposed technologies.
 
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Integrated CAPA systems for corrective and preventive actions based on statistical analysis and quality performance indicators.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Built, trained, and managed Quality Control teams while improving technical skills through structured training programs focused on HACCP principles.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Optimized quality inspection procedures, reduced inspection time, and improved production efficiency through GMP-based process improvements.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Developed and implemented new quality standards aligned with industry requirements and monitored compliance across all production shifts.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Implemented FMEA-based risk management approaches to identify potential failures and establish preventive actions in critical production processes.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Presented quality performance reports to senior management and board members, providing improvement strategies based on ISO 9001 and CAPA indicators.
-
-            </span>
+  </span>
 
                           </div>
 
@@ -6879,8 +7133,8 @@ Developed, reviewed, and managed technical documentation, operational procedures
                       </div>
 
 
-                    </div>
 
+                    </div>
 
 
 
@@ -6889,7 +7143,9 @@ Developed, reviewed, and managed technical documentation, operational procedures
                   </div>
 
 
+
                 </div>
+
 
                 <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -7275,84 +7531,6 @@ Developed, reviewed, and managed technical documentation, operational procedures
                 </div>
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg4.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Research And Development Specialist | Sugas</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Pars Tabiat Cellulose Company - subsidiary of Pars Paper Group</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">Conducted market research and analysis to identify new product opportunities and develop innovative concepts aimed at enhancing the company’s competitiveness. Designed and proposed data-driven, industry-aligned solutions to address evolving customer needs and market trends.</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
 
 
                 <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -9177,163 +9355,336 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg4.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/harrir.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+ارائه دهنده طرح های توسعه و تحقیقاتی | خط تولید خمیرسازی باگاس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+شرکت حریر خوزستان (زیر مجموعه هلدینگ تاسیکو - تاپیکو)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+فروردین ۱۴۰۲ - خرداد ۱۴۰۲ / ۳ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+شوش، استان خوزستان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ارائه دهنده طرح های توسعه و تحقیقاتی   |  سوگاس</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+وظایف و دستاوردها
+
+          </span>
+
+
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+انجام مطالعات تحقیقاتی و امکان سنجی فنی اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان، شامل بررسی فناوری های موجود، فرآیند تولید و ارزیابی الزامات فنی پروژه.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مذاکره و برقراری ارتباطات فنی با شرکت های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی، به منظور بررسی راهکار های اجرایی و ارزیابی فناوری های پیشنهادی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-3">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">انجام تحقیقات و تحلیل‌های بازار به‌منظور شناسایی فرصت‌های محصول جدید و توسعه مفاهیم نوآورانه با هدف ارتقای رقابت‌پذیری شرکت. طراحی و ارائه راه‌حل‌های داده‌محور و منطبق با صنعت</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
 
-                </div>
-
-
-
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-xs text-gray-900 mt-0.5 text-shadow-sm">ارائه دهنده طرح های توسعه و تحقیقاتی   |  خط تولید خمیرسازی باگاس</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ml-[12px]">فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت حریر خوزستان زیر مجموعه هلدینگ تاپیکو</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">تحقیق و پژوهش در رابطه با امکان پذیری اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان / مذاکره با شرکت های طراح و سازنده تجهیزات و تاسیسات صنایع سلولزی اروپایی و شرق آسیایی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
 
                 </div>
 
@@ -10842,179 +11193,316 @@ Developed technical documents, procedures, and compliance requirements while sup
 
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+                <div class="relative w-[550px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg4.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
 
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Research And Development Specialist | Sugas</span>
-                        </div>
-
-
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Pars Tabiat Cellulose Company - subsidiary of Pars Paper Group</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-14">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">Conducted market research and analysis to identify new product opportunities and develop innovative concepts aimed at enhancing the company’s competitiveness. Designed and proposed data-driven, industry-aligned solutions to address evolving customer needs and market trends.</span>
-                        </div>
-                      </div>
-
-                    </div>
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
 
                   </div>
 
-                </div>
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
+                  <div class="relative p-2.5 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md flex-shrink-0">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/harrir.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <div class="flex-1 min-w-0">
+
+
+
+                        <div class="flex items-start justify-between gap-x-2">
+
+
+
+
+
+                          <div class="flex flex-col gap-y-1.5 min-w-0 flex-1">
+
+
+
+
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
+
+Research & Development Project Provider | Compact White Bagasse Pulping Line
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-800 leading-tight">
+
+Harir Khuzestan Company (Subsidiary of TASICO - TAPICO Holding)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <div class="flex flex-col gap-y-1.5 w-[120px] flex-shrink-0">
+
+
+
+
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[9px] text-slate-700 leading-tight">
+
+Apr 2023 – Jun 2023
+<br>
+3 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-700 leading-tight">
+
+Shoush, Khuzestan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
-                        </div>
 
 
-                      </div>
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+
+                    <div class="mt-2.5 border-t border-white/50 pt-2.5">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                        <div class="flex items-center gap-x-2 mb-1.5">
+
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Harir Khuzestan Company -  Topico Holding Group</span>
+
+
+
+
+
+                          <span class="font-IrBold text-xs text-gray-950">
+
+Key Achievements
+
+          </span>
+
+
                         </div>
+
+
+
+
+
+
+
+
+                        <div class="flex flex-col gap-y-1 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+
+
+                            <span class="font-IrRegular">
+
+Conducted technical feasibility studies for implementing the Compact White Bagasse Pulping Line project at Harir Khuzestan Company, including evaluation of available technologies, production processes, and technical project requirements.
+
+            </span>
+
+
+                          </div>
+
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+
+
+                            <span class="font-IrRegular">
+
+Established technical communication and negotiations with European and East Asian pulp industry equipment designers and manufacturers to evaluate implementation solutions and assess proposed technologies.
+
+            </span>
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
 
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[35px]">Apr 2023 - Jun 2023 · 3 mos</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-20">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Conducted detailed feasibility studies for launching a white bagasse pulp production line with a focus on sustainability. Led negotiations with top European and East Asian suppliers to secure optimal equipment solutions. Collaborated with multidisciplinary teams to improve pulp production quality and efficiency.</span>
-                        </div>
-                      </div>
 
                     </div>
 
+
+
+
+
                   </div>
+
 
                 </div>
 
@@ -12752,176 +13240,300 @@ Developed technical documents, procedures, and compliance requirements while sup
 
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <div dir="rtl" class="relative w-[550px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg4.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
 
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">ارائه دهنده طرح های توسعه و تحقیقاتی   |  سوگاس</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-10">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">انجام تحقیقات و تحلیل‌های بازار به‌منظور شناسایی فرصت‌های محصول جدید و توسعه مفاهیم نوآورانه با هدف ارتقای رقابت‌پذیری شرکت. طراحی و ارائه راه‌حل‌های داده‌محور و منطبق با صنعت</span>
-                        </div>
-                      </div>
-
-                    </div>
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
 
                   </div>
 
-                </div>
 
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
+                  <div class="relative p-2.5 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
+
+
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md flex-shrink-0">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/harrir.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <div class="flex-1 min-w-0">
+
+
+                        <div class="flex items-start justify-between gap-x-2">
+
+
+
+
+
+                          <div class="flex flex-col gap-y-1.5 min-w-0 flex-1">
+
+
+
+
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
+
+ارائه دهنده طرح های توسعه و تحقیقاتی | خط تولید خمیرسازی باگاس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-800 leading-tight">
+
+شرکت حریر خوزستان (زیر مجموعه هلدینگ تاسیکو - تاپیکو)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <div class="flex flex-col gap-y-1.5 w-[120px] flex-shrink-0">
+
+
+
+
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[9px] text-slate-700 leading-tight">
+
+فروردین ۱۴۰۲ – خرداد ۱۴۰۲
+<br>
+۳ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-700 leading-tight">
+
+شوش، استان خوزستان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-xs text-gray-900 mt-0.5 text-shadow-sm">ارائه دهنده طرح های توسعه و تحقیقاتی   |  خط تولید خمیرسازی باگاس</span>
-                        </div>
 
 
-                      </div>
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                    <div class="mt-2.5 border-t border-white/50 pt-2.5">
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                        <div class="flex items-center gap-x-2 mb-1.5">
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت حریر خوزستان زیر مجموعه هلدینگ تاپیکو</span>
+
+
+
+                          <span class="font-IrBold text-xs text-gray-950">
+
+شرح مسئولیت‌ها و دستاوردها
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex flex-col gap-y-1 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+انجام مطالعات تحقیقاتی و امکان سنجی فنی اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان، شامل بررسی فناوری های موجود، فرآیند تولید و ارزیابی الزامات فنی پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+مذاکره و برقراری ارتباطات فنی با شرکت های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی، به منظور بررسی راهکار های اجرایی و ارزیابی فناوری های پیشنهادی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
 
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ml-[12px]">فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-10">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">تحقیق و پژوهش در رابطه با امکان پذیری اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان / مذاکره با شرکت های طراح و سازنده تجهیزات و تاسیسات صنایع سلولزی اروپایی و شرق آسیایی</span>
-                        </div>
-                      </div>
 
                     </div>
 
+
+
+
+
+
                   </div>
+
 
                 </div>
 
@@ -14482,163 +15094,314 @@ Developed and managed technical documents, operational procedures, and complianc
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg4.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/harrir.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2 min-w-0">
+
+
+
+
+
+                    <!-- Position -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Research and Development Specialist | Sugas</span>
-                    </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
-                          </svg>
-                        </div>
                       </div>
-                      <div>
-                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
-          Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
+
+
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Development & Research Project Provider | Bagasse Pulp Production Line
+
         </span>
-                      </div>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+
+
+
+
+                    <!-- Company -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+
+                      </div>
+
+
+                      <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
+
+Harir Khuzestan Company – Subsidiary of TAPICO Holding
+
+        </span>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Shoush, Khuzestan Province, Iran
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Dec 2020 – Jun 2024 · 3 yrs 7 mos</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex gap-x-1 mb-40">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
-                    </div>
-                    <div>
-                      <div class="w-full max-w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-          Conducted market research and analysis to identify new product opportunities and develop innovative concepts aimed at enhancing the company’s competitiveness. Designed and proposed data-driven, industry-aligned solutions to address evolving customer needs and market trends.
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Apr 2023 – Jun 2023 · 3 mos
+
         </span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/harrir.png" alt="">
-                  </div>
-
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#pos"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
                     </div>
 
-                    <div class="flex items-center gap-x-0.5">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+                  </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                           <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
+                            <use href="#paper"></use>
                           </svg>
+
                         </div>
 
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+Key Achievements
+
+          </span>
+
+
                       </div>
-                      <div>
-                            <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
-          Harir Khuzestan Company – Topico Holding Group
-        </span>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Conducted research studies and technical feasibility assessments for implementing Harir Khuzestan’s compact white bagasse pulp production line project.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Evaluated available technologies, production processes, and technical requirements for the proposed pulp manufacturing project.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Established technical communications and negotiations with European and East Asian cellulose industry equipment designers and manufacturers.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
                       </div>
+
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#loc"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                    </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#cal"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Apr 2023 – Jun 2023 · 3 mos</span>
-                    </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex gap-x-1 mb-48">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
-                      </div>
 
-                    </div>
-                    <div class="w-full max-w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-          Conducted detailed feasibility studies for launching a white bagasse pulp production line with a focus on sustainability. Led negotiations with top European and East Asian suppliers to secure optimal equipment solutions. Collaborated with multidisciplinary teams to improve pulp production quality and efficiency.
-        </span>
-                    </div>
-                  </div>
+
+
+
+
                 </div>
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -16219,163 +16982,316 @@ Developed and managed technical documents, operational procedures, and complianc
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg4.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-14 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/harrir.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-3">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2 min-w-0">
+
+
+
+
+
+                    <!-- Position -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | سوگاس</span>
-                    </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
-                          </svg>
-                        </div>
                       </div>
-                      <div>
-                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
-          شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
+
+
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+ارائه دهنده طرح های توسعه و تحقیقاتی | خط تولید خمیرسازی باگاس
+
         </span>
-                      </div>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                    <!-- Company -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+
+                      </div>
+
+
+
+                      <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
+
+شرکت حریر خوزستان (زیر مجموعه هلدینگ تاسیکو - تاپیکو)
+
+        </span>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+شوش، استان خوزستان، ایران
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-5 w-5 text-teal-700">
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-5 h-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-start gap-x-1 pt-2">
-                    <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                      <svg class="h-4 w-4 text-teal-700">
-                        <use href="#paper"></use>
-                      </svg>
-                    </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
-          انجام تحقیقات و تحلیل‌های بازار به‌منظور شناسایی فرصت‌های محصول جدید و توسعه مفاهیم نوآورانه با هدف ارتقای رقابت‌پذیری شرکت. طراحی و ارائه راه‌حل‌های داده‌محور و منطبق با صنعت
+                      </div>
+
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه
+
         </span>
-                    </div>
-                  </div>
-
-                </div>
-              </div>
 
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                </div>
-
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-14 h-14" src="/src/assets/image/factory/harrir.png" alt="">
-                  </div>
-
-                  <!-- اطلاعات -->
-                  <div class="space-y-3">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#pos"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">ارائه‌دهنده طرح‌های توسعه و تحقیقاتی | خط تولید خمیرسازی باگاس</span>
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center">
-                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+                  </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                           <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
+                            <use href="#paper"></use>
                           </svg>
+
                         </div>
 
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+وظایف و دستاوردها
+
+          </span>
+
+
                       </div>
-                      <div>
-                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
-          شرکت حریر خوزستان زیر مجموعه هلدینگ تاپیکو
-        </span>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed text-right">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+انجام مطالعات تحقیقاتی و امکان‌سنجی فنی اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان شامل بررسی فناوری‌ها، فرآیند تولید و الزامات فنی پروژه.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+مذاکره و برقراری ارتباطات فنی با شرکت‌های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی جهت بررسی راهکارهای اجرایی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+ارزیابی فناوری‌های پیشنهادی و بررسی امکان‌پذیری اجرای پروژه مطابق الزامات فنی و صنعتی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
                       </div>
+
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#loc"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                    </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#cal"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">فروردین ۱۴۰۲ – خرداد ۱۴۰۲ / ۳ ماه</span>
-                    </div>
                   </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex items-start gap-x-1 mb-28">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
-                      </div>
 
-                    </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
-          تحقیق و پژوهش در رابطه با امکان‌پذیری اجرای طرح خط خمیرسازی باگاس سفید کامپکت شرکت حریر خوزستان. مذاکره با شرکت‌های طراح و سازنده تجهیزات و تأسیسات صنایع سلولزی اروپایی و شرق آسیایی.
-        </span>
-                    </div>
-                  </div>
+
+
+
 
                 </div>
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
