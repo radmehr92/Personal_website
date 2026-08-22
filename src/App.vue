@@ -20188,7 +20188,7 @@ Prepared technical documentation, management reports, and coordinated project te
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۳</span>
+                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۴</span>
                         </div>
 
                       </div>
@@ -20581,7 +20581,7 @@ Prepared technical documentation, management reports, and coordinated project te
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۳</span>
+                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۴</span>
                         </div>
 
                       </div>
@@ -20975,7 +20975,7 @@ Prepared technical documentation, management reports, and coordinated project te
                               <use href="#cal"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۳</span>
+                          <span class="font-IrRegular text-xs text-white mt-0.5 text-shadow-sm">۱۴۰۴</span>
                         </div>
 
                       </div>
@@ -21300,7 +21300,7 @@ Bachelor's Degree
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                       <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
                     </div>
-                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">۱۴۰۳</span>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">۱۴۰۴</span>
                   </div>
                 </div>
                 <div class="flex gap-x-0.5">
