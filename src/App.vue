@@ -3738,82 +3738,393 @@ Established technical communication and negotiations with European and East Asia
 
                 </div>
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/naft.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+Quality & Project Management | Hamyar Naft
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+Ministry of Petroleum
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Aug 2018 - Jul 2020 · 2 yrs
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Tehran, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project & Qc Manager | Hamyar Naft</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+Key Achievements
+
+          </span>
+
+
+
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Planned and implemented project quality management processes (Quality Planning, Assurance & Control) with focus on quality control of project outputs, process compliance, and achieving technical requirements.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[20px]">Aug 2018 - Jul 2020 · 2 yrs</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Monitored execution quality through inspections, performance evaluation, and identification of non-conformities to improve project quality performance.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Optimized project processes through quality tools, root cause analysis, corrective actions, and continuous improvement methodologies.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed project lifecycle from planning to final delivery, including schedule control, risk management, team coordination, and performance monitoring.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Prepared technical documentation, management reports, and coordinated project teams to ensure proper implementation of quality requirements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Ministry of Petroleum of Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">At Hamyar Naft, spearheaded end-to-end project management, guided multidisciplinary teams, and enforced stringent quality controls. Proactively managed risks, streamlined operational processes, and delivered detailed documentation and strategic reports to enhance project efficiency.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -5850,82 +6161,393 @@ Established technical communication and negotiations with European and East Asia
 
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/naft.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+مدیریت کنترل کیفیت و پروژه | همیار نفت
+
+                              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+وزارت نفت - شرکت نفت
+
+                              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه
+
+                              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+تهران، استان تهران، ایران
+
+                              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت |  همیار نفت</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm">مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">وزارت نفت - شرکت نفت</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+وظایف و دستاوردها
+
+                          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[67px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (Quality Planning, Assurance & Control) با تمرکز بر کنترل کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی پروژه.
+
+                            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+نظارت و کنترل مستمر کیفیت فعالیت‌های اجرایی، انجام بازرسی‌ها، پایش عملکرد و شناسایی عدم انطباق‌ها جهت بهبود کیفیت پروژه.
+
+                            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+بهینه‌سازی فرآیندها و اجرای اقدامات اصلاحی با استفاده از ابزارهای کیفیت، تحلیل مشکلات و رویکرد بهبود مستمر.
+
+                            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت چرخه پروژه از برنامه‌ریزی تا تحویل، شامل کنترل زمان، هماهنگی تیم‌ها، مدیریت ریسک و پایش شاخص‌های عملکردی.
+
+                            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+تهیه مستندات فنی، گزارش‌های مدیریتی و هماهنگی بین تیم‌های اجرایی برای تضمین اجرای صحیح الزامات کیفی پروژه.
+
+                            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">برنامه‌ریزی و مدیریت پروژه - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها - مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -7533,162 +8155,734 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/harrir.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/harrir.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+Research & Development Project Provider | Bagasse Pulp Production Line
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+Harir Khuzestan Company (Subsidiary of Taseeko - Tapico Holding)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Apr 2023 - Jun 2023 · 3 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Shoush, Khuzestan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">R&D Project Presenter | Bagasse Pulp Innovation</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+Key Achievements
+
+          </span>
+
+
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Content -->
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Conducted research studies and technical feasibility assessments for implementing Harir Khuzestan’s compact white bagasse pulp production line project, including technology review, production process evaluation, and technical requirement analysis.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[35px]">Apr 2023 - Jun 2023 · 3 mos</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Evaluated proposed technologies, implementation strategies, and technical requirements to support project execution in accordance with industrial standards.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Established technical communications and negotiations with European and East Asian pulp and paper industry equipment designers and manufacturers to assess suitable solutions.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Analyzed production processes, evaluated technical capabilities, and prepared technical reports to support project management decision-making.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Harir Khuzestan Company -  Topico Holding Group</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-10">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Conducted detailed feasibility studies for launching a white bagasse pulp production line with a focus on sustainability. Led negotiations with top European and East Asian suppliers to secure optimal equipment solutions. Collaborated with multidisciplinary teams to improve pulp production quality and efficiency.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/naft.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+Quality Control & Project Management | Hamyar Naft
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+Ministry of Petroleum - National Oil Company
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Aug 2018 - Jul 2020 · 1 yr 11 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Tehran, Tehran Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project & Qc Manager | Hamyar Naft</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+Key Achievements
+
+          </span>
+
+
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Content -->
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Planned and executed project quality management processes (Quality Planning, Assurance & Control) with focus on quality control of deliverables, process compliance, and meeting technical project requirements.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[20px]">Aug 2018 - Jul 2020 · 2 yrs</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Monitored and controlled the quality of project execution activities through inspections, performance tracking, and identification of non-conformities to improve project quality.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Optimized processes and implemented corrective actions using quality management tools, problem analysis, and continuous improvement approaches.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed the project lifecycle from planning to final delivery, including schedule control, risk management, team coordination, and performance monitoring.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Ministry of Petroleum of Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">At Hamyar Naft, spearheaded end-to-end project management, guided multidisciplinary teams, and enforced stringent quality controls. Proactively managed risks, streamlined operational processes, and delivered detailed documentation and strategic reports to enhance project efficiency.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
 
@@ -9690,86 +10884,374 @@ Developed, reviewed, and managed technical documentation, operational procedures
 
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/naft.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+مدیریت کنترل کیفیت و پروژه | همیار نفت
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+وزارت نفت - شرکت نفت
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+مرداد ۱۳۹۷ - تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+تهران، استان تهران، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت |  همیار نفت</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+وظایف و دستاوردها
+
+          </span>
+
+
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (Quality Planning, Assurance & Control) با تمرکز بر کنترل کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی پروژه.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm">مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+نظارت و کنترل مستمر کیفیت فعالیت‌های اجرایی، انجام بازرسی‌ها، پایش عملکرد و شناسایی عدم انطباق‌ها جهت بهبود کیفیت پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+بهینه‌سازی فرآیندها و اجرای اقدامات اصلاحی با استفاده از ابزارهای کیفیت، تحلیل مشکلات و رویکرد بهبود مستمر.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت چرخه پروژه از مرحله برنامه‌ریزی تا تحویل نهایی، شامل کنترل زمان، مدیریت ریسک، هماهنگی تیم‌ها و پایش شاخص‌های عملکردی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">وزارت نفت - شرکت نفت</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center ml-[67px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">برنامه‌ریزی و مدیریت پروژه - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها - مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
-
-
 
 
               </div>
@@ -11507,90 +12989,341 @@ Established technical communication and negotiations with European and East Asia
                 </div>
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[550px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
 
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project & Qc Manager | Hamyar Naft</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Ministry of Petroleum of Iran</span>
-                        </div>
-
-
-                      </div>
-
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[20px]">Aug 2018 - Jul 2020 · 2 yrs</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-16">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">At Hamyar Naft, spearheaded end-to-end project management, guided multidisciplinary teams, and enforced stringent quality controls. Proactively managed risks, streamlined operational processes, and delivered detailed documentation and strategic reports to enhance project efficiency.</span>
-                        </div>
-                      </div>
-
-                    </div>
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
 
                   </div>
+
+
+
+
+
+                  <div class="relative p-2.5 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md flex-shrink-0">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/naft.png"
+                             alt="">
+
+                      </div>
+
+
+
+
+
+                      <div class="flex-1 min-w-0">
+
+
+
+                        <div class="flex items-start justify-between gap-x-2">
+
+
+
+
+
+                          <div class="flex flex-col gap-y-1.5 min-w-0 flex-1">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
+
+Quality & Project Management | Hamyar Naft
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-800 leading-tight">
+
+Ministry of Petroleum - National Oil Company
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+                          </div>
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-1.5 w-[120px] flex-shrink-0">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-start gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-[9px] text-slate-700 leading-tight">
+
+Aug 2018 – Jul 2020
+<br>
+1 yr 11 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-start gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-700 leading-tight">
+
+Tehran, Tehran Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-2.5 border-t border-white/50 pt-2.5">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                        <div class="flex items-center gap-x-2 mb-1.5">
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
+                            </svg>
+
+                          </div>
+
+
+                          <span class="font-IrBold text-xs text-gray-950">
+
+Key Achievements
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+
+                        <div class="flex flex-col gap-y-1 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed project quality planning, assurance, and control processes while monitoring compliance with technical standards and project requirements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Supervised project activities, coordinated technical teams, and ensured effective implementation of quality management procedures.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed risk identification, corrective actions, process improvement initiatives, and project performance monitoring.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Prepared technical documentation, reports, and project records to support management decisions and operational improvements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+                    </div>
+
+
+
+
+
+                  </div>
+
 
                 </div>
 
@@ -13539,90 +15272,372 @@ Established technical communication and negotiations with European and East Asia
 
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[550px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
 
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/naft.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت |  همیار نفت</span>
-                        </div>
-
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">وزارت نفت - شرکت نفت</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center ml-[67px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm">مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">برنامه‌ریزی و مدیریت پروژه - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها - مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
-
-                    </div>
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
 
                   </div>
+
+
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-2.5 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md flex-shrink-0">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/naft.png"
+                             alt="">
+
+                      </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1 min-w-0">
+
+
+                        <div class="flex items-start justify-between gap-x-2">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-1.5 min-w-0 flex-1">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
+
+مدیریت کنترل کیفیت و پروژه | همیار نفت
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-800 leading-tight">
+
+وزارت نفت - شرکت نفت
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-1.5 w-[120px] flex-shrink-0">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[9px] text-slate-700 leading-tight">
+
+مرداد ۱۳۹۷ – تیر ۱۳۹۹
+<br>
+۱ سال و ۱۱ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 h-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-700 leading-tight">
+
+تهران، استان تهران، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-2.5 border-t border-white/50 pt-2.5">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-1.5">
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                            <svg class="h-4 h-4 text-teal-700">
+                              <use href="#paper"></use>
+                            </svg>
+
+                          </div>
+
+
+
+                          <span class="font-IrBold text-xs text-gray-950">
+
+وظایف و دستاوردها
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="flex flex-col gap-y-1 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+برنامه‌ریزی، اجرا و کنترل فرآیندهای مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت مطابق با الزامات فنی و استانداردهای پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت و نظارت بر فعالیت‌های پروژه، هماهنگی تیم‌های اجرایی و اطمینان از اجرای صحیح فرآیندهای کنترل کیفیت.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+شناسایی و مدیریت ریسک‌های پروژه، پیگیری اقدامات اصلاحی، بهبود مستمر فرآیندها و پایش عملکرد پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+تهیه و مدیریت مستندات فنی، گزارش‌های پروژه و سوابق اجرایی جهت پشتیبانی از تصمیم‌گیری‌های مدیریتی و بهبود عملکرد عملیاتی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+                    </div>
+
+
+
+
+
+
+                  </div>
+
 
                 </div>
 
@@ -15112,10 +17127,6 @@ Developed and managed technical documents, operational procedures, and complianc
 
 
 
-
-
-
-
                 <!-- Main Card -->
 
                 <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
@@ -15166,7 +17177,7 @@ Developed and managed technical documents, operational procedures, and complianc
 
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-Development & Research Project Provider | Bagasse Pulp Production Line
+Research & Development Studies Provider | Bagasse Pulp Production Line
 
         </span>
 
@@ -15193,6 +17204,7 @@ Development & Research Project Provider | Bagasse Pulp Production Line
                         </svg>
 
                       </div>
+
 
 
                       <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
@@ -15226,6 +17238,7 @@ Harir Khuzestan Company – Subsidiary of TAPICO Holding
                       </div>
 
 
+
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
 Shoush, Khuzestan Province, Iran
@@ -15257,9 +17270,10 @@ Shoush, Khuzestan Province, Iran
                       </div>
 
 
+
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-Apr 2023 – Jun 2023 · 3 mos
+Apr 2023 – Jun 2023 · 3 months
 
         </span>
 
@@ -15284,6 +17298,303 @@ Apr 2023 – Jun 2023 · 3 mos
 
 
                   <div class="border-t border-white/50 pt-2">
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+Key Achievements
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Conducted research studies and technical feasibility assessments for implementing Harir Khuzestan’s compact white bagasse pulp production line project, including technology review, production process evaluation, and technical requirements analysis.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Established technical communications and negotiations with European and East Asian cellulose industry equipment designers and manufacturers to evaluate proposed solutions.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Evaluated technical feasibility and implementation requirements of proposed technologies in accordance with industrial standards.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+                  </div>
+
+
+
+
+
+
+                </div>
+
+
+              </div>
+
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <!-- Background -->
+
+                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                </div>
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/naft.png"
+                         alt="">
+
+                  </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2 min-w-0">
+
+
+
+
+
+                    <!-- Position -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#pos"></use>
+                        </svg>
+
+                      </div>
+
+
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Quality & Project Management | Hamyar Naft
+
+        </span>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Company -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+
+                      </div>
+
+
+                      <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
+
+Ministry of Petroleum
+
+        </span>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+
+                      </div>
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Tehran, Iran
+
+        </span>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-5 w-5 text-teal-700">
+                          <use href="#cal"></use>
+                        </svg>
+
+                      </div>
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight">
+
+Aug 2018 – Jul 2020 · 2 yrs
+
+        </span>
+
+                    </div>
+
+
+
+
+
+                  </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
 
 
                     <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
@@ -15337,7 +17648,7 @@ Key Achievements
 
                           <span class="font-IrRegular">
 
-Conducted research studies and technical feasibility assessments for implementing Harir Khuzestan’s compact white bagasse pulp production line project.
+Planned and implemented project quality management processes (Quality Planning, Assurance & Control) with focus on output quality, process compliance, and technical project requirements.
 
             </span>
 
@@ -15355,7 +17666,7 @@ Conducted research studies and technical feasibility assessments for implementin
 
                           <span class="font-IrRegular">
 
-Evaluated available technologies, production processes, and technical requirements for the proposed pulp manufacturing project.
+Monitored execution quality through inspections, performance evaluation, and identification of non-conformities to improve project quality performance.
 
             </span>
 
@@ -15373,13 +17684,47 @@ Evaluated available technologies, production processes, and technical requiremen
 
                           <span class="font-IrRegular">
 
-Established technical communications and negotiations with European and East Asian cellulose industry equipment designers and manufacturers.
+Optimized project processes through quality tools, root cause analysis, corrective actions, and continuous improvement approaches.
 
             </span>
 
                         </div>
 
 
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Managed project lifecycle from planning to final delivery, including schedule control, risk management, and performance monitoring.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Prepared technical documentation, management reports, and coordinated project teams to ensure proper implementation of quality requirements.
+
+            </span>
+
+                        </div>
 
 
 
@@ -15404,79 +17749,6 @@ Established technical communications and negotiations with European and East Asi
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                </div>
-
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/naft.png" alt="">
-                  </div>
-
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#pos"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project & Qc Manager | Hamyar Naft</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
-          Ministry of Petroleum of Iran
-        </span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#loc"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#cal"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Aug 2018 – Jul 2020 · 2 yrs</span>
-                    </div>
-                  </div>
-
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex gap-x-1 mb-40">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
-                      </div>
-
-                    </div>
-                    <div class="w-full max-w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-          At Hamyar Naft, spearheaded end-to-end project management, guided multidisciplinary teams, and enforced stringent quality controls. Proactively managed risks, streamlined operational processes, and delivered detailed documentation and strategic reports to enhance project efficiency.
-        </span>
-                    </div>
-                  </div>
-                </div>
-              </div>
 
 
             </div>
@@ -17293,80 +19565,352 @@ Established technical communications and negotiations with European and East Asi
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
+                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tل-xl rounded-br-xl" />
+
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-14 h-14" src="/src/assets/image/factory/naft.png" alt="">
+
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/naft.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-3">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2 min-w-0">
+
+
+
+
+
+                    <!-- Position -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه و کنترل کیفیت | همیار نفت</span>
+
+
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+مدیریت کنترل کیفیت و پروژه | همیار نفت
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                    <!-- Company -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">وزارت نفت - شرکت نفت</span>
+
+
+
+                      <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
+
+وزارت نفت
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+تهران، ایران
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex items-start gap-x-1 mb-20">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
-                    </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
-          برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۲ سال
+
         </span>
+
+
                     </div>
+
+
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+وظایف و دستاوردها
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed text-right">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (Quality Planning, Assurance & Control) با تمرکز بر کنترل کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی پروژه.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+نظارت و کنترل مستمر کیفیت فعالیت‌های اجرایی، انجام بازرسی‌ها، پایش عملکرد و شناسایی عدم‌انطباق‌ها جهت بهبود کیفیت پروژه.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+بهینه‌سازی فرآیندها و اجرای اقدامات اصلاحی با استفاده از ابزارهای کیفیت، تحلیل مشکلات و رویکرد بهبود مستمر.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+مدیریت چرخه پروژه از برنامه‌ریزی تا تحویل، شامل کنترل زمان، مدیریت ریسک و پایش شاخص‌های عملکردی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+تهیه مستندات فنی، گزارش‌های مدیریتی و هماهنگی بین تیم‌های اجرایی برای تضمین اجرای صحیح الزامات کیفی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+                  </div>
+
+
+
+
+
 
                 </div>
-              </div>
 
+
+              </div>
 
 
             </div>
