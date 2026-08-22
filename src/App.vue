@@ -17847,7 +17847,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
 
-          مدیر واحد کنترل کیفیت | راتا
+          مدیر ارشد واحد کنترل کیفیت | راتا
 
         </span>
 
@@ -18240,7 +18240,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
 
-          مدیر پروژه و کنترل کیفیت | صنعت اکسپرس
+          مدیر کنترل کیفیت و پروژه | صنعت اکسپرس
 
         </span>
 
@@ -19915,6 +19915,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
             </div>
           </div>
+
 
 
         </div>
