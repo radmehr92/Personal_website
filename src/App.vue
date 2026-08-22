@@ -3011,82 +3011,393 @@ Presented periodic quality performance reports to senior management and the boar
 
                 </div>
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+Technical Responsible Person | Sugas
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+Pars Tabiat Cellulose Company (Subsidiary of Pars Paper Group)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 h-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Dec 2020 - Jul 2024 · 3 yrs 8 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Shoush, Khuzestan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Technical Manager | Sugas</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Pars Tabiat Cellulose Company is a subsidiary of Pars Paper Group</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+Key Achievements
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed technical operations at Pars Tabiat Cellulose Company (Sugas), supervising engineering, technical, and production support activities in compliance with industrial standards and organizational requirements.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed and coordinated the process of obtaining and maintaining official licenses, including operating permits, health certificates, Sib-e Salamat certification, and import approvals for raw materials from relevant authorities.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Established effective communication with governmental and regulatory organizations to accelerate licensing procedures, renew approvals, and ensure continuous production operations.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Reviewed and approved technical requirements for raw materials, product specifications, and manufacturing processes in collaboration with Quality Control and Production departments.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Developed, reviewed, and managed technical documentation, operational procedures, and production-related requirements while contributing to corrective actions and continuous improvement initiatives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">Oversaw technical operations within engineering, laboratory, and safety units at Pars Tabiat Cellulose Company (Sugas), ensuring compliance with regulatory standards. Optimized production workflows and collaborated with cross-functional teams to enhance operational efficiency.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -4631,82 +4942,393 @@ Presented periodic quality performance reports to senior management and the boar
                 </div>
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+مسئول فنی | سوگاس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+شرکت پارس طبیعت سلولز (سوگاس) زیرمجموعه گروه کاغذ پارس
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+شوش، استان خوزستان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مسئول فنی   |  سوگاس</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+وظایف و دستاوردها
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت امور فنی و تکنیکال شرکت پارس طبیعت سلولز (سوگاس) و نظارت بر انطباق فرآیندهای تولید با الزامات فنی، استانداردهای صنعتی و دستورالعمل‌های سازمانی.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت و پیگیری دریافت مجوزها و گواهینامه‌های قانونی شامل پروانه بهره‌برداری، پروانه بهداشت، گواهی سیب سلامت و مجوزهای مرتبط با واردات مواد اولیه از مراجع ذی‌صلاح.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+برقراری ارتباط و هماهنگی با سازمان‌های نظارتی و اجرایی جهت تسریع فرآیندهای قانونی، تمدید مجوزها و اطمینان از استمرار فعالیت تولیدی مطابق الزامات کشور.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+بررسی و تأیید الزامات فنی مواد اولیه، مشخصات محصولات و فرآیندهای تولیدی با همکاری واحدهای کنترل کیفیت و تولید به‌منظور تضمین انطباق و بهبود عملکرد عملیاتی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+تدوین، بازنگری و مدیریت مستندات فنی، دستورالعمل‌های اجرایی و الزامات مرتبط با فرآیندهای تولید، همچنین مشارکت در اقدامات اصلاحی و بهبود مستمر سیستم‌های فنی کارخانه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-3">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">نظارت بر عملیات فنی در واحدهای مهندسی، آزمایشگاه و ایمنی در شرکت پارس طبیعت سلولز (سوگاس)، با هدف اطمینان از انطباق با استانداردهای مقرراتی. بهینه‌سازی جریان‌های تولید و همکاری با تیم‌های چندوظیفه‌ای برای ارتقای بهره‌وری عملیاتی.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -6269,6 +6891,390 @@ Presented periodic quality performance reports to senior management and the boar
 
                 </div>
 
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
+
+                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
+
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                  </div>
+
+
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             alt="">
+
+                      </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+Technical Responsible Person | Sugas
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+Pars Tabiat Cellulose Company (Subsidiary of Pars Paper Group)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Dec 2020 - Jul 2024 · 3 yrs 8 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+Shoush, Khuzestan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#paper"></use>
+                            </svg>
+
+                          </div>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+Key Achievements
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed technical operations at Pars Tabiat Cellulose Company (Sugas), overseeing technical activities and ensuring compliance with industrial standards, regulatory requirements, and organizational procedures.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed and coordinated the process of obtaining official licenses and regulatory approvals, including operating permits, health certificates, Sib-e Salamat certification, and import permissions for raw materials from relevant authorities.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Established communication and coordination with governmental and regulatory organizations to accelerate legal procedures, renew licenses, and ensure continuous production operations in compliance with national requirements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Reviewed and approved technical requirements for raw materials, product specifications, and manufacturing processes in collaboration with Quality Control and Production departments to ensure compliance and improve operational performance.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+Developed, reviewed, and managed technical documentation, operational procedures, and production-related requirements while contributing to corrective actions and continuous improvement initiatives within the technical system.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                        </div>
+
+
+
+                      </div>
+
+
+                    </div>
+
+
+
+
+
+
+                  </div>
+
+
+                </div>
+
+
                 <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -7782,82 +8788,390 @@ Presented periodic quality performance reports to senior management and the boar
                 </div>
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+مسئول فنی | سوگاس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+شرکت پارس طبیعت سلولز (زیرمجموعه گروه کاغذ پارس)
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+آذر ۱۳۹۹ - تیر ۱۴۰۳ / ۳ سال و ۸ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+شوش، استان خوزستان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مسئول فنی   |  سوگاس</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+وظایف و دستاوردها
+
+          </span>
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت امور فنی و تکنیکال شرکت پارس طبیعت سلولز (سوگاس) و نظارت بر انطباق فرآیندهای تولید با الزامات فنی، استانداردهای صنعتی و دستورالعمل‌های سازمانی.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت و پیگیری دریافت مجوزها و گواهینامه‌های قانونی شامل پروانه بهره‌برداری، پروانه بهداشت، گواهی سیب سلامت و مجوزهای مرتبط با واردات مواد اولیه از مراجع ذی‌صلاح.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+برقراری ارتباط و هماهنگی با سازمان‌های نظارتی و اجرایی جهت تسریع فرآیندهای قانونی، تمدید مجوزها و اطمینان از استمرار فعالیت تولیدی مطابق الزامات کشور.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+بررسی و تأیید الزامات فنی مواد اولیه، مشخصات محصولات و فرآیندهای تولیدی با همکاری واحدهای کنترل کیفیت و تولید به‌منظور تضمین انطباق و بهبود عملکرد عملیاتی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+تدوین، بازنگری و مدیریت مستندات فنی، دستورالعمل‌های اجرایی و الزامات مرتبط با فرآیندهای تولید و مشارکت در اقدامات اصلاحی و بهبود مستمر سیستم‌های فنی کارخانه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-10">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">نظارت بر عملیات فنی در واحدهای مهندسی، آزمایشگاه و ایمنی در شرکت پارس طبیعت سلولز (سوگاس)، با هدف اطمینان از انطباق با استانداردهای مقرراتی. بهینه‌سازی جریان‌های تولید و همکاری با تیم‌های چندوظیفه‌ای برای ارتقای بهره‌وری عملیاتی.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
 
@@ -9260,91 +10574,269 @@ Prepared quality performance reports for senior management, supporting strategic
                 </div>
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[550px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+                  <div class="relative p-2.5 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+                    <div class="flex items-center gap-x-3">
+
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md flex-shrink-0">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             alt="">
+
                       </div>
+
+
+
+                      <div class="flex-1 min-w-0">
+
+
+                        <div class="flex items-start justify-between gap-x-2">
+
+
+                          <div class="flex flex-col gap-y-1.5 min-w-0 flex-1">
+
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
+
+Technical Responsible Person | Sugas
+
+              </span>
+
+                            </div>
+
+
+
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-800 leading-tight">
+
+Pars Tabiat Cellulose Company - Subsidiary of Pars Paper Group
+
+              </span>
+
+                            </div>
+
+
+                          </div>
+
+
+
+
+
+                          <div class="flex flex-col gap-y-1.5 w-[120px] flex-shrink-0">
+
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-[9px] text-slate-700 leading-tight">
+
+Dec 2020 – Jul 2024
+<br>
+3 yrs 8 mos
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-700 leading-tight">
+
+Shoush, Khuzestan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+                          </div>
+
+
+                        </div>
+
+
+                      </div>
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Technical Manager | Sugas</span>
-                        </div>
 
 
 
-                      </div>
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                    <div class="mt-2.5 border-t border-white/50 pt-2.5">
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+                        <div class="flex items-center gap-x-2 mb-1.5">
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Pars Tabiat Cellulose Company - subsidiary of Pars Paper Group</span>
+
+
+                          <span class="font-IrBold text-xs text-gray-950">
+
+Key Achievements
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+                        <div class="flex flex-col gap-y-1 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed technical operations and supervised engineering, laboratory, and production support activities to ensure compliance with technical standards.
+
+            </span>
+
+                          </div>
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Managed obtaining regulatory licenses including operating permit, health permit, Sib Salamat certificate, and raw material import approvals.
+
+            </span>
+
+                          </div>
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Coordinated with regulatory authorities for licensing processes, renewals, and maintaining continuous production compliance.
+
+            </span>
+
+                          </div>
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Reviewed technical requirements of raw materials, products, and manufacturing processes with Quality Control and Production teams.
+
+            </span>
+
+                          </div>
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+Developed technical documents, procedures, and compliance requirements while supporting corrective actions and continuous improvement.
+
+            </span>
+
+                          </div>
+
+
                         </div>
 
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Dec 2020 - Jun 2024 · 3 yrs 7 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-14">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900 text-justify text-shadow-sm ">Oversaw technical operations within engineering, laboratory, and safety units at Pars Tabiat Cellulose Company (Sugas), ensuring compliance with regulatory standards. Optimized production workflows and collaborated with cross-functional teams to enhance operational efficiency.</span>
-                        </div>
-                      </div>
 
                     </div>
+
 
                   </div>
+
 
                 </div>
 
@@ -10871,88 +12363,390 @@ Prepared quality performance reports for senior management, supporting strategic
                 </div>
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[550px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
 
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مسئول فنی   |  سوگاس</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شوش، استان خوزستان، ایران</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-10">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">نظارت بر عملیات فنی در واحدهای مهندسی، آزمایشگاه و ایمنی در شرکت پارس طبیعت سلولز (سوگاس)، با هدف اطمینان از انطباق با استانداردهای مقرراتی. بهینه‌سازی جریان‌های تولید و همکاری با تیم‌های چندوظیفه‌ای برای ارتقای بهره‌وری عملیاتی.</span>
-                        </div>
-                      </div>
-
-                    </div>
+                    <img src="/src/assets/image/industry/bg3.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
 
                   </div>
+
+
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-2.5 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
+                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md flex-shrink-0">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                             alt="">
+
+                      </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1 min-w-0">
+
+
+                        <div class="flex items-start justify-between gap-x-2">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-1.5 min-w-0 flex-1">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
+
+مسئول فنی | سوگاس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1 min-w-0">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-800 leading-tight">
+
+شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه گروه کاغذ پارس
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-1.5 w-[120px] flex-shrink-0">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[9px] text-slate-700 leading-tight">
+
+آذر ۱۳۹۹ – تیر ۱۴۰۳
+<br>
+۳ سال و ۸ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-start gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-[10px] text-slate-700 leading-tight">
+
+شوش، استان خوزستان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-2.5 border-t border-white/50 pt-2.5">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-1.5">
+
+
+                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                            <svg class="h-4 w-4 text-teal-700">
+                              <use href="#paper"></use>
+                            </svg>
+
+                          </div>
+
+
+
+                          <span class="font-IrBold text-xs text-gray-950">
+
+وظایف و دستاوردها
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="flex flex-col gap-y-1 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت امور فنی و تکنیکال شرکت پارس طبیعت سلولز (سوگاس) و نظارت بر انطباق فرآیندهای تولید با الزامات فنی، استانداردهای صنعتی و دستورالعمل‌های سازمانی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+مدیریت و پیگیری دریافت مجوزها و گواهینامه‌های قانونی شامل پروانه بهره‌برداری، پروانه بهداشت، گواهی سیب سلامت و مجوزهای مرتبط با واردات مواد اولیه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+هماهنگی با سازمان‌های نظارتی و اجرایی جهت تمدید مجوزها، تسریع فرآیندهای قانونی و استمرار فعالیت تولیدی مطابق الزامات کشور.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+بررسی و تأیید الزامات فنی مواد اولیه، محصولات و فرآیندهای تولیدی با همکاری واحدهای کنترل کیفیت و تولید به منظور تضمین انطباق.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+
+تدوین، بازنگری و مدیریت مستندات فنی، دستورالعمل‌های اجرایی و الزامات مرتبط با فرآیندهای تولید، همچنین مشارکت در اقدامات اصلاحی و بهبود مستمر سیستم‌های فنی کارخانه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
+                    </div>
+
+
+
+
+
+
+                  </div>
+
 
                 </div>
 
@@ -12358,83 +14152,334 @@ Prepared quality performance reports for senior management, supporting strategic
               </div>
 
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow_hidden shadow-md">
+
+                <!-- Background -->
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg3.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg2.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2 min-w-0">
+
+
+
+
+
+                    <!-- Position -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Technical Manager | Sugas</span>
+
+
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Technical Responsible Person | Sugas
+
+        </span>
+
                     </div>
 
-                   <div class="flex items-center gap-x-1">
-                     <div class="flex items-center gap-x-1">
-                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                         <svg class="h-4 w-4 text-teal-700">
-                           <use href="#fac"></use>
-                         </svg>
-                       </div>
 
-                     </div>
-                     <div>
-                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
-          Pars Tabiat Cellulose Company – subsidiary of Pars Paper Group
+
+
+
+
+
+
+
+                    <!-- Company -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+
+                      </div>
+
+
+                      <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
+
+Pars Tabiat Cellulose Company (Sugas) – Subsidiary of Pars Paper Group
+
         </span>
-                     </div>
-                   </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Shoush, Khuzestan Province, Iran</span>
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+Shoush, Khuzestan Province, Iran
+
+        </span>
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Dec 2020 – Jun 2024 · 3 yrs 7 mos</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-0.5">
-                    <div class="flex gap-x-1 mb-40">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
-                    </div>
-                    <div class="w-full max-w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-          Oversaw technical operations within engineering, laboratory, and safety units at Pars Tabiat Cellulose Company (Sugas), ensuring compliance with regulatory standards. Optimized production workflows and collaborated with cross-functional teams to enhance operational efficiency.
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight">
+
+Dec 2020 – Jul 2024 · 3 yrs 8 mos
+
         </span>
+
                     </div>
+
+
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+Key Achievements
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Managed technical operations and supervised engineering, laboratory, and production support activities to ensure compliance with technical standards and regulatory requirements.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Managed and followed up on obtaining regulatory licenses including operating permit, health permit, Sib Salamat certificate, and raw material import approvals.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Coordinated with regulatory authorities for licensing procedures, renewals, and maintaining continuous production compliance.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Reviewed technical requirements of raw materials, products, and manufacturing processes in cooperation with Quality Control and Production teams.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+Developed and managed technical documents, operational procedures, and compliance requirements while supporting corrective actions and continuous improvement initiatives.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+                  </div>
+
+
+
+
+
+
                 </div>
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -13827,86 +15872,351 @@ Prepared quality performance reports for senior management, supporting strategic
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg3.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg2.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-14 h-14" src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png" alt="">
+
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2 min-w-0">
+
+
+
+
+
+                    <!-- Position -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مسئول فنی | سوگاس</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
-                          </svg>
-                        </div>
 
                       </div>
-                      <div>
-                           <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-snug">
-          شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه‌ گروه کاغذ پارس
+
+
+                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+مسئول فنی | سوگاس
+
         </span>
-                      </div>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                    <!-- Company -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+
+                      </div>
+
+
+
+                      <span class="font-IrRegular text-[11px] text-gray-900 text-shadow-sm leading-tight break-words">
+
+شرکت پارس طبیعت سلولز (سوگاس) زیر مجموعه گروه کاغذ پارس
+
+        </span>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شوش، استان خوزستان، ایران</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
+
+شوش، استان خوزستان، ایران
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-start gap-x-1 min-w-0">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex items-start mb-28">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
-                    </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
-          نظارت بر عملیات فنی در واحدهای مهندسی، آزمایشگاه و ایمنی در شرکت پارس طبیعت سلولز (سوگاس)، با هدف اطمینان از انطباق با استانداردهای مقرراتی. بهینه‌سازی جریان‌های تولید و همکاری با تیم‌های چندوظیفه‌ای برای ارتقای بهره‌وری عملیاتی.
+
+
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight">
+
+آذر ۱۳۹۹ – تیر ۱۴۰۳ / ۳ سال و ۸ ماه
+
         </span>
+
+
                     </div>
+
+
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+دستاوردهای کلیدی
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed text-right">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+مدیریت امور فنی و تکنیکال شرکت پارس طبیعت سلولز (سوگاس) و نظارت بر انطباق فرآیندهای تولید با الزامات فنی و استانداردهای صنعتی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+مدیریت و پیگیری دریافت مجوزهای قانونی شامل پروانه بهره‌برداری، پروانه بهداشت، گواهی سیب سلامت و مجوزهای واردات مواد اولیه.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+هماهنگی با سازمان‌های نظارتی و اجرایی جهت اخذ، تمدید و حفظ مجوزهای مورد نیاز برای استمرار فعالیت تولیدی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+بررسی الزامات فنی مواد اولیه، محصولات و فرآیندهای تولیدی با همکاری واحدهای کنترل کیفیت و تولید جهت تضمین انطباق.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+
+تدوین و مدیریت مستندات فنی، دستورالعمل‌های اجرایی و مشارکت در اقدامات اصلاحی و بهبود مستمر سیستم‌های فنی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+                  </div>
+
+
+
+
 
 
                 </div>
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
