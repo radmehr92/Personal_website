@@ -2177,82 +2177,411 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
                 </div>
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+                <div class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/sanat.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+                Quality & Project Manager | Sanat Express
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+               Borna Varna Sanat Technology Development Company
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Jul 2024 - Sep 2025 · 1 yr 1 mo
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Tehran, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project & Qc Manager | Sanat Express</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[10px]">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Borna Technology Holding</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+            Key Achievements
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-10 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Led project quality management by designing and implementing Quality Planning, Quality Assurance, and Quality Control processes based on PMBOK standards and industry requirements.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Tehran, Tehran Province, Iran</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Managed the complete project lifecycle from initiation to final delivery, ensuring achievement of time, cost, and quality objectives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Established inspection, testing, and quality monitoring processes to ensure deliverables compliance with customer requirements and technical standards.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Coordinated cross-functional project teams to improve execution efficiency, resolve operational challenges, and achieve project objectives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Applied continuous improvement methodologies including PDCA, inspection checklists, and root cause analysis to optimize processes.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Managed quality risks, analyzed process issues, and implemented corrective and preventive actions (CAPA) to enhance project performance.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">In sanat express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -3121,86 +3450,413 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                 </div>
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/sanat.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+                مدیر کیفیت و پروژه | صنعت اکسپرس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+                    شرکت توسعه صنعت ورنا فناوری برنا
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                مرداد ۱۴۰۳ - شهریور ۱۴۰۴ · ۱ سال و ۱ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                تهران، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت  |  صنعت اکسپرس</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center mr-8">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[80px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              طراحی و اجرای برنامه مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              مدیریت کامل چرخه حیات پروژه از مرحله تعریف تا تحویل نهایی با تمرکز بر دستیابی به اهداف زمانی، هزینه‌ای و کیفی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              ایجاد فرآیندهای بازرسی، تست و پایش کیفیت جهت اطمینان از انطباق خروجی‌های پروژه با الزامات مشتری و استانداردهای فنی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              رهبری و هماهنگی تیم‌های چندرشته‌ای پروژه برای افزایش بهره‌وری اجرا، حل چالش‌های عملیاتی و دستیابی به اهداف پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              بهینه‌سازی فرآیندها با استفاده از ابزارهای بهبود مستمر شامل PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              مدیریت ریسک‌های کیفی، تحلیل مشکلات فرآیندی و اجرای اقدامات اصلاحی و پیشگیرانه (CAPA) جهت ارتقای عملکرد پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-0.5">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">برنامه‌ریزی و مدیریت پروژه  - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها -
-مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
-
 
                 <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -4075,82 +4731,411 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                 </div>
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/sanat.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+                Quality & Project Manager | Sanat Express
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+                Borna Varna Sanat Technology Development Company
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Jul 2024 - Sep 2025 · 1 yr 1 mo
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Tehran, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project & Qc Manager | Sanat Express</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-2">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Borna Technology Holding</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+            Key Achievements
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-9 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Led project quality management by designing and implementing Quality Planning, Quality Assurance, and Quality Control processes based on PMBOK standards and industry requirements.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Tehran, Tehran Province, Iran</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Managed the complete project lifecycle from initiation to final delivery, ensuring achievement of time, cost, and quality objectives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Established inspection, testing, and quality monitoring processes to ensure deliverables compliance with customer requirements and technical standards.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Coordinated cross-functional project teams to improve execution efficiency, resolve operational challenges, and achieve project objectives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Applied continuous improvement methodologies including PDCA, inspection checklists, and root cause analysis to optimize processes.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Managed quality risks, analyzed process issues, and implemented corrective and preventive actions (CAPA) to enhance project performance.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-14">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm">In sanat express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -5025,86 +6010,369 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
                 </div>
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/sanat.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+
+                مدیر کیفیت و پروژه | صنعت اکسپرس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+                شرکت توسعه صنعت ورنا فناوری برنا
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                مرداد ۱۴۰۳ – شهریور ۱۴۰۴ / ۱ سال و ۱ ماه
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                تهران، استان تهران، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت  |  صنعت اکسپرس</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center ml-[10px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[90px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-[11px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              برنامه‌ریزی و مدیریت چرخه کامل پروژه از تعریف تا تحویل نهایی با تمرکز بر دستیابی به اهداف زمانی و بودجه‌ای.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              رهبری و هماهنگی تیم‌های چندرشته‌ای پروژه برای اجرای کارآمد فعالیت‌ها و مدیریت تعارضات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              طراحی و اجرای برنامه مدیریت کیفیت پروژه شامل برنامه‌ریزی، تضمین و کنترل کیفیت بر اساس استاندارد PMBOK و الزامات صنعتی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              نظارت مستمر بر فرآیندهای کنترل کیفیت، بازرسی‌ها، تست‌ها و انطباق خروجی‌ها با استانداردهای کیفی و الزامات مشتری.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              بهینه‌سازی فرآیندها و اجرای برنامه‌های بهبود مستمر با استفاده از ابزارهای کیفیت مانند PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-2">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">برنامه‌ریزی و مدیریت پروژه  - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها -
-مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
 
                 </div>
-
 
                 <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -5842,95 +7110,405 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                 </div>
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+                <div class="relative w-[550px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/sanat.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Position + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+
+                Quality & Project Manager | Sanat Express
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-800">
+
+                Varna Sanat Technology Development Company
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Jul 2024 – Sep 2025
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Tehran, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">Project & Qc Manager | Sanat Express</span>
-                        </div>
 
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Borna Technology Holding</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950">
+
+            Key Achievements
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="flex flex-col gap-y-1.5 text-[11px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Managed the complete project lifecycle from planning to final delivery with focus on schedule, budget, and quality objectives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Led cross-functional project teams and coordinated activities to ensure effective execution and project alignment.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Designed and implemented project Quality Management Plans including Quality Planning, Assurance, and Control based on PMBOK standards and industry requirements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Supervised quality control processes, inspections, testing activities, and compliance of deliverables with customer requirements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Optimized processes and implemented continuous improvement initiatives using PDCA, inspection checklists, and root cause analysis tools.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Managed project risks, prepared management reports, and improved coordination between technical, operational, and quality teams.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
 
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[30px]">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-20">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm">In sanat express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
-
 
                 <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -6852,92 +8430,399 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                 </div>
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[550px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/sanat.png" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/sanat.png"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Position + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+
+                مدیر کیفیت و پروژه | صنعت اکسپرس
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-800">
+
+                شرکت توسعه صنعت ورنا فناوری برنا
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                مرداد ۱۴۰۳ – شهریور ۱۴۰۴
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                تهران، استان تهران، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-2">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه و کنترل کیفیت  |  صنعت اکسپرس</span>
-                        </div>
 
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+
+                        <div class="flex flex-col gap-y-1.5 text-[11px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              مدیریت چرخه کامل پروژه از برنامه‌ریزی تا تحویل نهایی با تمرکز بر اهداف زمانی، بودجه‌ای و الزامات کیفی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              رهبری تیم‌های چندرشته‌ای پروژه و هماهنگی فعالیت‌ها برای اجرای اثربخش و دستیابی به اهداف پروژه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              طراحی و اجرای برنامه مدیریت کیفیت پروژه شامل برنامه‌ریزی، تضمین و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              نظارت بر فرآیندهای کنترل کیفیت، بازرسی‌ها، تست‌ها و انطباق خروجی‌ها با استانداردهای کیفی و نیازمندی‌های مشتری.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              بهینه‌سازی فرآیندها و اجرای برنامه‌های بهبود مستمر با استفاده از ابزارهای کیفیت مانند PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              مدیریت ریسک پروژه، مستندسازی فعالیت‌ها و تهیه گزارش‌های مدیریتی برای افزایش شفافیت و بهره‌وری.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
 
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center  mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center ml-[23px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">برنامه‌ریزی و مدیریت پروژه  - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها -
-مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
-
 
                 <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -7796,73 +9681,355 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
+
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+
+                  <!-- Logo -->
+
                   <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/sanat.png" alt="">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/sanat.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2">
+
+
+
+
+
+
+                    <!-- Position -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project & Qc Manager | Sanat Express</span>
+
+
+
+                      <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
+
+          Quality & Project Manager | Sanat Express
+
+        </span>
+
+
                     </div>
 
+
+
+
+
+
+
+
+                    <!-- Company -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Borna Technology Holding</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          Varna Sanat Technology Development Company
+
+        </span>
+
+
                     </div>
 
+
+
+
+
+
+
+
+                    <!-- Location -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Tehran Province, Iran</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800 leading-tight">
+
+          Tehran, Tehran Province, Iran
+
+        </span>
+
+
                     </div>
 
+
+
+
+
+
+
+
+                    <!-- Date -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Jul 2024 – Sep 2025 · 1 yrs 1 mos</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex gap-x-0.5">
-                    <div class="flex gap-x-1 items-start">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          Jul 2024 - Sep 2025
+
+        </span>
+
+
                     </div>
-                    <div class="w-full max-w-full">
-                    <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words w-[280px]">
-                    In Sanat Express projects, orchestrated comprehensive project planning and management, led cross-functional teams, and supervised quality control to drive project success. Mitigated risks, optimized operational processes, and delivered detailed documentation and strategic reports to enhance efficiency and project outcomes.
-                    </span>
-                    </div>
+
+
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+            Key Achievements
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed">
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Managed complete project lifecycle from planning to final delivery with focus on quality, schedule, and budget objectives.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Led cross-functional project teams and coordinated activities for effective execution.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Designed and implemented Quality Management Plans based on PMBOK standards and industrial requirements.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Supervised inspections, testing processes, and compliance with customer quality requirements.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Improved processes through PDCA, inspection checklists, and root cause analysis tools.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+                  </div>
+
+
+
+
+
+
+
                 </div>
+
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -8672,78 +10839,362 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div dir="rtl" class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/sanat.png" alt="">
+
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/sanat.png"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
+
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2">
+
+
+
+
+
+
+
+                    <!-- Position -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه و کنترل کیفیت | صنعت اکسپرس</span>
+
+
+
+                      <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
+
+          مدیر پروژه و کنترل کیفیت | صنعت اکسپرس
+
+        </span>
+
+
                     </div>
 
+
+
+
+
+
+
+
+                    <!-- Company -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">هلدینگ توسعه فناوری برنا</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          شرکت توسعه صنعت ورنا فناوری برنا
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#loc"></use>
-                          </svg>
-                        </div>
-                      </div>
-                      <div>
-                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
-                      </div>
-                    </div>
+
+
+
+
+
+
+
+                    <!-- Location -->
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+
+                      </div>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800 leading-tight">
+
+          تهران، استان تهران، ایران
+
+        </span>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-center gap-x-1">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۴۰۳ –  شهریور ۱۴۰۴/ ۱ سال و ۱ ماه</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex mb-16">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
-                    </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
-          برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          مرداد ۱۴۰۳ – شهریور ۱۴۰۴
+
         </span>
+
+
                     </div>
+
+
+
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- دستاوردهای کلیدی -->
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              مدیریت چرخه کامل پروژه از برنامه‌ریزی تا تحویل نهایی با تمرکز بر زمان، هزینه و کیفیت.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              رهبری تیم‌های چندرشته‌ای پروژه و هماهنگی فعالیت‌ها برای اجرای اثربخش.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              طراحی و اجرای برنامه مدیریت کیفیت پروژه بر اساس استانداردهای PMBOK و الزامات صنعتی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              نظارت بر کنترل کیفیت، بازرسی‌ها، تست‌ها و انطباق خروجی‌ها با نیازمندی مشتری.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              بهینه‌سازی فرآیندها و اجرای بهبود مستمر با ابزارهای PDCA و تحلیل ریشه‌ای مشکلات.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+                  </div>
+
+
+
+
+
+
+
                 </div>
+
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
