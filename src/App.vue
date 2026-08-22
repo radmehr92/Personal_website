@@ -1733,85 +1733,449 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
+                <div class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/rata.jpg"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+                Quality Control Manager | Rata
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+                Rata Company
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Oct 2025 - Present
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Isfahan, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Quality Control Manager | Rata</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[72px]">Oct 2025 - Present</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Rata Holding</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+            Key Achievements
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Built and led the Quality Control department by defining roles, forming a professional team, and developing an efficient organizational structure.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Aligned quality processes with ISO 9001 standards through SOP redesign, internal audits, and operational improvements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Designed and implemented digital quality forms for real-time tracking, reporting, and data-driven analysis.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Established advanced CAPA systems using 5Why and Fishbone analysis for root cause elimination.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Trained three-shift QC teams through ISO 9001 and CAPA programs to improve operational independence.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Optimized production quality through modern inspection protocols and continuous improvement initiatives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Implemented FMEA-based risk management to identify failure modes and preventive actions.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Improved measurement system reliability through MSA implementation and testing accuracy control.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
-
 
                 <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md ">
 
@@ -2291,85 +2655,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project Manager | Rural Insurance</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[13px]">Apr 2017 - Jun 2018 · 1 yr 3 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Central Organization for Rural Cooperatives of Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm mr-[25px]">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900  text-shadow-sm text-justify">In the Rural Insurance Project, directed comprehensive project planning and execution, led diverse teams, and implemented robust quality controls. Actively managed risks, optimized operational workflows, and provided detailed documentation and strategic reports to drive project efficiency and success.</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
               </div>
 
 
@@ -2407,82 +2692,431 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[800px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/rata.jpg"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information Area -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+
+                مدیر واحد کنترل کیفیت | راتا
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+                شرکت راتا
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                مهر ۱۴۰۴ – تاکنون
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                اصفهان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Description -->
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Description Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center ml-[93px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مهر ۱۴۰۴ – تاکنون</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت راتا</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              ساختارسازی و رهبری واحد کنترل کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و ایجاد ساختار سازمانی کارآمد.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              هم‌راستاسازی فرآیندهای کیفی با استاندارد ISO 9001 از طریق بازطراحی دستورالعمل‌ها و اجرای ممیزی داخلی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              طراحی و استقرار فرم‌های دیجیتال کنترل کیفیت جهت ردیابی لحظه‌ای، گزارش‌دهی و تحلیل داده‌ها.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              پیاده‌سازی سیستم CAPA با استفاده از ابزارهای 5Why و Fishbone برای حذف ریشه‌ای مشکلات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              آموزش و توانمندسازی تیم سه شیفت کنترل کیفیت با تمرکز بر ISO 9001 و استقلال عملیاتی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              بهینه‌سازی مستمر خطوط تولید با اجرای پروتکل‌های نوین کنترل کیفیت و افزایش کیفیت محصول.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              استقرار مدیریت ریسک مبتنی بر FMEA برای شناسایی خرابی‌ها و اقدامات پیشگیرانه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              پیاده‌سازی سیستم تحلیل اندازه‌گیری (MSA) جهت افزایش دقت ابزارها و کاهش خطاهای آزمون.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -2972,86 +3606,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
 
 
-                <div class="relative w-[800px] h-36 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه |  بیمه روستایی</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">اردیبهشت ۱۳۹۶ – خرداد ۱۳۹۷ / ۱ سال و ۲ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">سازمان مرکزی تعاون روستایی ایران</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm ml-[102px]">تهران , استان تهران , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1.5">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify"> برنامه‌ریزی و مدیریت پروژه  - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها -
-مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
               </div>
 
 
@@ -3091,82 +3645,432 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/rata.jpg"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
+
+                Quality Control Manager | Rata
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-800">
+
+                Rata Holding
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Oct 2025 - Present
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                Isfahan, Isfahan Province, Iran
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Quality Control Manager | Rata</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center mr-[68px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Oct 2025 - Present</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Rata Holding</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+
+            Key Achievements
+
+          </span>
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-[11px] text-slate-800 leading-relaxed">
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Built and led the Quality Control department by defining roles, forming a professional team, and developing an efficient organizational structure.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Aligned quality processes with ISO 9001 standards through SOP redesign, internal audits, and operational improvements.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Designed and implemented digital quality forms for real-time tracking, reporting, and data-driven analysis.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Established advanced CAPA systems using 5Why and Fishbone analysis for root cause elimination.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Trained three-shift QC teams through ISO 9001 and CAPA programs to improve operational independence.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Optimized production quality through modern inspection protocols and continuous improvement initiatives.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Implemented FMEA-based risk management to identify failure modes and preventive actions.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              Improved measurement system reliability through MSA implementation and testing accuracy control.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-14">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900 text-shadow-sm text-justify">Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
 
@@ -3650,85 +4554,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project Manager | Rural Insurance</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[13px]">Apr 2017 - Jun 2018 · 1 yr 3 mos</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Central Organization for Rural Cooperatives of Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm mr-[25px]">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-8">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">In the Rural Insurance Project, directed comprehensive project planning and execution, led diverse teams, and implemented robust quality controls. Actively managed risks, optimized operational workflows, and provided detailed documentation and strategic reports to drive project efficiency and success.</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
               </div>
 
 
@@ -3766,85 +4591,439 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg1.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg1.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/rata.jpg"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+
+                مدیر واحد کنترل کیفیت | راتا
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-sm text-slate-800">
+
+                شرکت راتا
+
+              </span>
+
+
+                            </div>
+
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                مهر ۱۴۰۴ – تاکنون
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                اصفهان، استان اصفهان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Key Achievements -->
+
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
-                        </div>
 
-
-                        <div class="flex gap-x-1 items-center ml-[50px]">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">مهر ۱۴۰۴ – تاکنون</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">شرکت راتا</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
+
+
+
+
+
+
+                        <!-- Achievements -->
+
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-[11px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              ساختارسازی و رهبری واحد کنترل کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و ایجاد ساختار سازمانی کارآمد.
+
+            </span>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              هم‌راستاسازی فرآیندهای کیفی با استاندارد ISO 9001 از طریق بازطراحی دستورالعمل‌ها و اجرای ممیزی داخلی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              طراحی و استقرار فرم‌های دیجیتال کیفیت برای ردیابی لحظه‌ای، گزارش‌دهی و تحلیل داده‌های کیفی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              پیاده‌سازی سیستم CAPA پیشرفته با استفاده از ابزارهای 5Why و Fishbone برای حذف ریشه‌ای مشکلات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              آموزش و توانمندسازی تیم سه شیفت کنترل کیفیت با تمرکز بر ISO 9001 و CAPA.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              بهینه‌سازی خطوط تولید با اجرای پروتکل‌های نوین کنترل کیفیت و برنامه‌های بهبود مستمر.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              پیاده‌سازی سیستم مدیریت ریسک مبتنی بر FMEA برای شناسایی خرابی‌ها و اقدامات پیشگیرانه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              استقرار سیستم تحلیل اندازه‌گیری (MSA) جهت افزایش دقت ابزارها و کاهش خطاهای آزمون.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
+
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
-                        </div>
-                      </div>
+
 
                     </div>
+
+
+
+
 
                   </div>
+
+
 
                 </div>
-
 
                 <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
@@ -4331,85 +5510,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
 
 
-                <div class="relative w-[700px] h-44 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه |  بیمه روستایی</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm ">اردیبهشت ۱۳۹۶ – خرداد ۱۳۹۷ / ۱ سال و ۲ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">سازمان مرکزی تعاون روستایی ایران</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm ml-[102px]">تهران , استان تهران , ایران</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify"> برنامه‌ریزی و مدیریت پروژه  - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها -
-مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
 
               </div>
 
@@ -4452,91 +5552,292 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div class="relative w-[550px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/rata.jpg"
+                             alt="">
+
                       </div>
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+                          <!-- Job + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+                            <!-- Job Title -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+                              </div>
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+                Quality Control Manager | Rata
+              </span>
+
+                            </div>
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+                              </div>
+
+
+                              <span class="font-IrRegular text-xs text-slate-800">
+                Rata Holding
+              </span>
+
+                            </div>
+
+
+                          </div>
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+                              </div>
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+                Oct 2025 - Present
+              </span>
+
+                            </div>
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+                              </div>
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+                Isfahan, Isfahan Province, Iran
+              </span>
+
+                            </div>
+
+
+                          </div>
+
+
+                        </div>
+
+
+                      </div>
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">Quality Control Manager | Rata</span>
-                        </div>
 
 
 
 
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Rata Holding</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
 
 
 
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
+                    <!-- Achievements -->
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
+                              <use href="#paper"></use>
                             </svg>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+
+
+                          <span class="font-IrBold text-sm text-gray-950 tracking-wide">
+            Key Achievements
+          </span>
+
+
                         </div>
 
-                        <div class="flex gap-x-1 items-center mr-4">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
+
+
+
+
+
+                        <!-- Content -->
+
+                        <div class="flex flex-col gap-y-1.5 text-[11px] text-slate-800 leading-relaxed">
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Built and led the Quality Control department by defining roles, forming a professional team, and developing an efficient organizational structure.
+            </span>
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">Oct 2025 - Present</span>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Aligned quality processes with ISO 9001 standards through SOP redesign, internal audits, and operational improvements.
+            </span>
+                          </div>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Designed and implemented digital quality forms for real-time tracking, reporting, and data-driven analysis.
+            </span>
+                          </div>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Established advanced CAPA systems using 5Why and Fishbone analysis for root cause elimination.
+            </span>
+                          </div>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Trained three-shift QC teams through ISO 9001 and CAPA programs to improve operational independence.
+            </span>
+                          </div>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Optimized production quality through modern inspection protocols and continuous improvement initiatives.
+            </span>
+                          </div>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Implemented FMEA-based risk management to identify failure modes and preventive actions.
+            </span>
+                          </div>
+
+
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Improved measurement system reliability through MSA implementation and testing accuracy control.
+            </span>
+                          </div>
+
+
+
                         </div>
+
 
                       </div>
 
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-20">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-[11px]  text-gray-900 text-shadow-sm text-justify">Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
 
                   </div>
+
 
                 </div>
 
@@ -5076,90 +6377,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-base text-gray-900 mt-0.5 text-shadow-sm">Project Manager | Rural Insurance</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-sm text-gray-900  text-shadow-sm">Central Organization for Rural Cooperatives of Iran</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center mr-2.5 mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm mr-[25px]">Tehran, Tehran Province, Iran</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[13px]">Apr 2017 - Jun 2018 · 1 yr 3 mos</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-16">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">In the Rural Insurance Project, directed comprehensive project planning and execution, led diverse teams, and implemented robust quality controls. Actively managed risks, optimized operational workflows, and provided detailed documentation and strategic reports to drive project efficiency and success.</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
               </div>
 
 
@@ -5197,90 +6414,440 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
               <div class="mt-6 space-y-4 animate-fade-left animate-ease-linear">
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+                <div dir="rtl" class="relative w-[550px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                  <!-- Background -->
 
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg2.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
+                    <img src="/src/assets/image/industry/bg2.jpg"
+                         alt=""
+                         class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                   </div>
 
 
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
+
+
+
+
+
+                  <!-- Main Card -->
+
+                  <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                    <!-- Header -->
+
+                    <div class="flex items-center gap-x-3">
+
+
+
+
+
+                      <!-- Logo -->
+
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                        <img class="w-16 h-14"
+                             src="/src/assets/image/factory/rata.jpg"
+                             alt="">
+
                       </div>
+
+
+
+
+
+
+
+                      <!-- Information -->
+
+                      <div class="flex-1">
+
+
+                        <div class="flex items-start justify-between">
+
+
+
+
+
+
+                          <!-- Position + Company -->
+
+                          <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                            <!-- Position -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#pos"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
+
+                مدیر واحد کنترل کیفیت | راتا
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Company -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#fac"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-800">
+
+                شرکت راتا
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+
+
+                          <!-- Date + Location -->
+
+                          <div class="flex flex-col gap-y-2 items-start">
+
+
+
+
+
+                            <!-- Date -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-5 w-5 text-teal-700">
+                                  <use href="#cal"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                مهر ۱۴۰۴ – تاکنون
+
+              </span>
+
+
+                            </div>
+
+
+
+
+
+
+
+                            <!-- Location -->
+
+                            <div class="flex items-center gap-x-1">
+
+
+                              <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                                <svg class="h-4 w-4 text-teal-700">
+                                  <use href="#loc"></use>
+                                </svg>
+
+                              </div>
+
+
+
+                              <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
+
+                اصفهان، استان اصفهان، ایران
+
+              </span>
+
+
+                            </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+                        </div>
+
+
+                      </div>
+
+
 
                     </div>
-                    <div class=" flex-wrap space-y-1.5">
 
-                      <div class="flex items-center justify-between">
 
-                        <div class="flex gap-x-1 items-center">
+
+
+
+
+
+
+
+                    <!-- Achievements -->
+
+                    <div class="mt-3 border-t border-white/50 pt-3">
+
+
+
+                      <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
+
+
+
+
+
+
+                        <!-- Title -->
+
+                        <div class="flex items-center gap-x-2 mb-2">
+
+
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
-                        </div>
 
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
+                              <use href="#paper"></use>
                             </svg>
+
                           </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">شرکت راتا</span>
+
+
+
+                          <span class="font-IrBold text-sm text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <!-- Content -->
+
+                        <div class="flex flex-col gap-y-1.5 text-[11px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              ساختارسازی و رهبری واحد کنترل کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و ایجاد ساختار سازمانی کارآمد.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              هم‌راستاسازی فرآیندهای کیفی با استاندارد ISO 9001 از طریق بازطراحی دستورالعمل‌ها و اجرای ممیزی داخلی.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              طراحی و استقرار فرم‌های دیجیتال کیفیت برای ردیابی لحظه‌ای، گزارش‌دهی و تحلیل داده‌ها.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              پیاده‌سازی سیستم CAPA پیشرفته با استفاده از ابزارهای 5Why و Fishbone برای حذف ریشه‌ای مشکلات.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              آموزش و توانمندسازی تیم سه شیفت کنترل کیفیت با تمرکز بر ISO 9001 و CAPA.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              بهینه‌سازی خطوط تولید با اجرای پروتکل‌های نوین کنترل کیفیت و بهبود مستمر فرآیندها.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              پیاده‌سازی مدیریت ریسک مبتنی بر FMEA برای شناسایی خرابی‌ها و اقدامات پیشگیرانه.
+
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+
+              استقرار سیستم تحلیل اندازه‌گیری (MSA) جهت افزایش دقت ابزارها و کاهش خطاهای آزمون.
+
+            </span>
+
+                          </div>
+
+
+
+
+
                         </div>
 
 
                       </div>
 
-                      <div class="flex items-center justify-between">
-
-
-
-                        <div class="flex gap-x-1 items-center ml-[47px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
-                        </div>
-
-                        <div class="flex gap-x-1 items-center ml-4">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900 mt-0.5 text-shadow-sm mr-[4px]">مهر ۱۴۰۴ – تاکنون</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white -mt-20">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                          <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
-                        </div>
-                      </div>
 
                     </div>
+
+
+
+
+
 
                   </div>
+
 
                 </div>
 
@@ -5811,92 +7378,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
 
 
-                <div class="relative w-[550px] h-56 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-
-                  <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                    <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                         class="w-full h-full object-cover  blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                  </div>
-
-
-                  <div class="relative gap-x-2 flex items-center p-1 w-full h-full bg-sky-200/10 backdrop-blur-xs  rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                    <div class="flex items-center gap-x-2">
-                      <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-                        <img class="w-16 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                      </div>
-
-                    </div>
-                    <div class=" flex-wrap space-y-1.5">
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#pos"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrBold text-sm text-gray-900 mt-0.5 text-shadow-sm">مدیر پروژه |  بیمه روستایی</span>
-                        </div>
-
-
-                      </div>
-
-                      <div class="flex items-center justify-between">
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#fac"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">سازمان مرکزی تعاون روستایی ایران</span>
-                        </div>
-
-                      </div>
-
-
-                      <div class="flex items-center justify-between">
-
-
-                        <div class="flex gap-x-1 items-center ml-[67px] mt-0.5">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-4 w-4 text-teal-700">
-                              <use href="#loc"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-xs text-gray-900  text-shadow-sm">تهران , استان تهران , ایران</span>
-                        </div>
-
-
-                        <div class="flex gap-x-1 items-center">
-                          <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                            <svg class="h-5 w-5 text-teal-700">
-                              <use href="#cal"></use>
-                            </svg>
-                          </div>
-                          <span class="font-IrRegular text-[10px] text-gray-900 mt-0.5 text-shadow-sm">اردیبهشت ۱۳۹۶ – خرداد ۱۳۹۷/ ۱ سال و ۲ ماه</span>
-                        </div>
-
-                      </div>
-
-                      <div class="flex gap-x-1 items-center">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mb-4">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#paper"></use>
-                          </svg>
-                        </div>
-                        <div class="w-full">
-                        <span class="font-IrRegular text-xs  text-gray-900  text-shadow-sm text-justify"> برنامه‌ریزی و مدیریت پروژه  - رهبری تیم پروژه - کنترل کیفیت و نظارت - مدیریت ریسک - بهینه‌سازی فرآیندها -
-مستندسازی و گزارش‌دهی</span>
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
 
               </div>
 
@@ -5933,80 +7414,386 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
             <!-- کارت تجربه -->
             <div class="mt-4 w-full space-y-6">
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
+              <div class="relative w-[280px] max-w-full rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg2.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg2.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
                   <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/rata.jpg" alt="">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/rata.jpg"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                    <!-- Position -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Quality Control Manager | Rata</span>
+
+
+                      <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
+
+          Quality Control Manager | Rata
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
-                          </svg>
-                        </div>
-                      </div>
-                      <div>
-                          <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Rata Holding</span>
-                      </div>
-                    </div>
+
+
+
+
+
+
+                    <!-- Company -->
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#fac"></use>
+                        </svg>
+
+                      </div>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          Rata Company
+
+        </span>
+
+
+                    </div>
+
+
+
+
+
+
+
+                    <!-- Location -->
+
+                    <div class="flex items-center gap-x-1">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#loc"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Isfahan, Isfahan Province, Iran</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800 leading-tight">
+
+          Isfahan, Isfahan Province, Iran
+
+        </span>
+
+
                     </div>
 
+
+
+
+
+
+
+                    <!-- Date -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Oct 2025 - Present</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-0.5">
-                    <div class="flex gap-x-1 mb-60">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-4">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          Oct 2025 - Present
+
+        </span>
+
+
                     </div>
-                    <div class="w-full max-w-full">
-                     <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-                     Led quality control operations at Rata across three shifts, ensuring high-quality standards and operational efficiency. Oversaw laboratory processes, maintaining compliance with industry standards. Managed cross-functional teams to achieve consistent quality outcomes. Drove continuous improvement initiatives, enhancing process efficiency and product quality.
-                     </span>
-                    </div>
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+            Key Achievements
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Built and led the Quality Control department by defining roles and creating an efficient organizational structure.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Aligned quality processes with ISO 9001 standards through SOP redesign and internal audits.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Implemented digital quality forms for real-time tracking and data analysis.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Established CAPA systems using 5Why and Fishbone root cause analysis.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Trained three-shift QC teams through ISO 9001 and CAPA programs.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Optimized production quality through continuous improvement initiatives.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Implemented FMEA-based risk management for preventive actions.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              Improved measurement accuracy through MSA implementation.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+                  </div>
+
+
+
+
+
+
                 </div>
+
+
+
               </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
@@ -6469,83 +8256,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                 </div>
               </div>
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
-                <!-- بک‌گراند -->
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                </div>
-
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/bime.png" alt="">
-                  </div>
-
-                  <!-- اطلاعات -->
-                  <div class="space-y-1">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#pos"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Project Manager | Rural Insurance</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#fac"></use>
-                          </svg>
-                        </div>
-
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">
-          Central Organization for Rural Cooperatives of Iran
-        </span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#loc"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Tehran Province, Iran</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#cal"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Apr 2017 – Jun 2018 · 1 yr 3 mos</span>
-                    </div>
-                  </div>
-
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex gap-x-1 mb-48">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
-                      </div>
-
-                    </div>
-                    <div class="w-full max-w-full">
-        <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words">
-          In the Rural Insurance Project, directed comprehensive project planning and execution, led diverse teams, and implemented robust quality controls. Actively managed risks, optimized operational workflows, and provided detailed documentation and strategic reports to drive project efficiency and success.
-        </span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
 
 
             </div>
@@ -6575,78 +8285,392 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
             <!-- کارت تجربه -->
             <div class="mt-6 w-full space-y-6">
 
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
+              <div dir="rtl" class="relative w-[280px] max-w-full rounded-tل-xl rounded-br-xl overflow-hidden shadow-md">
+
+
+                <!-- Background -->
+
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg1.jpg" alt=""
+
+                  <img src="/src/assets/image/industry/bg1.jpg"
+                       alt=""
                        class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+
                 </div>
 
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-12 h-12" src="/src/assets/image/factory/rata.jpg" alt="">
+
+
+
+
+
+
+                <!-- Main Card -->
+
+                <div class="relative flex flex-col gap-y-3 p-2 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+
+
+
+
+
+                  <!-- Logo -->
+
+                  <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
+
+                    <img class="w-12 h-12"
+                         src="/src/assets/image/factory/rata.jpg"
+                         alt="">
+
                   </div>
 
-                  <!-- اطلاعات -->
-                  <div class="space-y-2">
+
+
+
+
+
+
+
+                  <!-- Information -->
+
+                  <div class="flex flex-col gap-y-2">
+
+
+
+
+
+                    <!-- Position -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#pos"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر واحد کنترل کیفیت | راتا</span>
+
+
+
+                      <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
+
+          مدیر واحد کنترل کیفیت | راتا
+
+        </span>
+
+
                     </div>
 
+
+
+
+
+
+
+                    <!-- Company -->
+
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-4 w-4 text-teal-700">
                           <use href="#fac"></use>
                         </svg>
+
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">شرکت راتا</span>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          شرکت راتا
+
+        </span>
+
+
                     </div>
 
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center gap-x-1">
-                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-                          <svg class="h-4 w-4 text-teal-700">
-                            <use href="#loc"></use>
-                          </svg>
-                        </div>
-                      </div>
-                      <div>
-                        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">اصفهان، استان اصفهان، ایران</span>
-                      </div>
-                    </div>
+
+
+
+
+
+
+                    <!-- Location -->
 
                     <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                        <svg class="h-4 w-4 text-teal-700">
+                          <use href="#loc"></use>
+                        </svg>
+
+                      </div>
+
+
+
+                      <span class="font-IrRegular text-xs text-slate-800 leading-tight">
+
+          اصفهان، استان اصفهان، ایران
+
+        </span>
+
+
+                    </div>
+
+
+
+
+
+
+
+                    <!-- Date -->
+
+                    <div class="flex items-center gap-x-1">
+
+
+                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
                         <svg class="h-5 w-5 text-teal-700">
                           <use href="#cal"></use>
                         </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مهر ۱۴۰۴ – تاکنون</span>
-                    </div>
-                  </div>
 
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex mb-48">
-                      <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
                       </div>
 
+
+
+                      <span class="font-IrRegular text-xs text-slate-800">
+
+          مهر ۱۴۰۴ – تاکنون
+
+        </span>
+
+
                     </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">رهبری عملیات کنترل کیفیت در شرکت راتا در سه شیفت کاری، با هدف تضمین استانداردهای کیفی بالا و بهره‌وری عملیاتی. نظارت بر فرآیندهای آزمایشگاهی با حفظ انطباق با استانداردهای صنعتی. مدیریت تیم‌های چندوظیفه‌ای برای دستیابی به نتایج کیفی پایدار. هدایت ابتکارات بهبود مستمر به‌منظور ارتقای بهره‌وری فرآیند و کیفیت محصول.</span>
-                    </div>
+
+
+
                   </div>
+
+
+
+
+
+
+
+
+
+                  <!-- Key Achievements -->
+
+
+                  <div class="border-t border-white/50 pt-2">
+
+
+
+                    <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2 shadow-sm">
+
+
+
+
+
+
+                      <!-- Title -->
+
+                      <div class="flex items-center gap-x-2 mb-2">
+
+
+                        <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white flex-shrink-0">
+
+                          <svg class="h-4 w-4 text-teal-700">
+                            <use href="#paper"></use>
+                          </svg>
+
+                        </div>
+
+
+
+                        <span class="font-IrBold text-xs text-gray-950">
+
+            دستاوردهای کلیدی
+
+          </span>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+                      <!-- Content -->
+
+                      <div class="flex flex-col gap-y-1.5 text-[10px] text-slate-800 leading-relaxed text-justify">
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              ساختارسازی و رهبری واحد کنترل کیفیت و ایجاد ساختار سازمانی کارآمد.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              هم‌راستاسازی فرآیندها با استاندارد ISO 9001 و اجرای ممیزی داخلی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              طراحی فرم‌های دیجیتال کیفیت برای ردیابی و تحلیل داده‌ها.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              پیاده‌سازی سیستم CAPA با ابزارهای 5Why و Fishbone.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              آموزش تیم سه شیفت کنترل کیفیت و ارتقای استقلال عملیاتی.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              بهینه‌سازی فرآیندهای تولید با رویکرد بهبود مستمر.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              مدیریت ریسک مبتنی بر FMEA و اجرای اقدامات پیشگیرانه.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+
+              استقرار MSA برای افزایش دقت ابزارهای اندازه‌گیری.
+
+            </span>
+
+                        </div>
+
+
+
+
+
+                      </div>
+
+
+
+                    </div>
+
+
+
+                  </div>
+
+
+
+
+
+
                 </div>
-              </div>
 
+
+
+              </div>
 
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
                 <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
@@ -7095,80 +9119,6 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                         </svg>
                       </div>
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه</span>
-                    </div>
-                  </div>
-
-                  <!-- توضیحات -->
-                  <div class="flex items-center gap-x-1">
-                    <div class="flex items-start gap-x-1 mb-20">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg mt-1">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#paper"></use>
-                        </svg>
-                      </div>
-
-                    </div>
-                    <div class="w-full max-w-full text-right">
-        <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-relaxed break-words">
-          برنامه‌ریزی و مدیریت پروژه – رهبری تیم پروژه – کنترل کیفیت و نظارت – مدیریت ریسک – بهینه‌سازی فرآیندها – مستندسازی و گزارش‌دهی
-        </span>
-                    </div>
-                  </div>
-
-                </div>
-              </div>
-
-              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md" dir="rtl">
-                <!-- بک‌گراند -->
-                <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-                  <img src="/src/assets/image/industry/bg3.jpg" alt=""
-                       class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-                </div>
-
-                <!-- محتوای کارت -->
-                <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
-
-                  <!-- لوگو -->
-                  <div class="flex items-center justify-center w-16 h-16 bg-white rounded-md border border-gray-200 shadow-md mx-auto flex-shrink-0">
-                    <img class="w-14 h-14" src="/src/assets/image/factory/bime.png" alt="">
-                  </div>
-
-                  <!-- اطلاعات -->
-                  <div class="space-y-3">
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#pos"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">مدیر پروژه | بیمه روستایی</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#fac"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">سازمان مرکزی تعاون روستایی ایران</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-4 w-4 text-teal-700">
-                          <use href="#loc"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">تهران، استان تهران، ایران</span>
-                    </div>
-
-                    <div class="flex items-center gap-x-1">
-                      <div class="flex items-center justify-center w-6 h-6 bg-white border border-gray-300 rounded-lg">
-                        <svg class="h-5 w-5 text-teal-700">
-                          <use href="#cal"></use>
-                        </svg>
-                      </div>
-                      <span class="font-IrRegular text-[10px] text-gray-900 text-shadow-sm">اردیبهشت ۱۳۹۶ – خرداد ۱۳۹۷ / ۱ سال و ۲ ماه</span>
                     </div>
                   </div>
 
