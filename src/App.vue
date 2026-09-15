@@ -1822,7 +1822,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                Quality Control Manager | Rata
+                Senior Quality Manager  | Rata
 
               </span>
 
@@ -4252,7 +4252,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر واحد کنترل کیفیت | راتا
+                مدیر ارشد کیفیت | راتا
 
               </span>
 
@@ -6680,7 +6680,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                Quality Control Manager | Rata
+                Senior Quality Manager | Rata
 
               </span>
 
@@ -9015,7 +9015,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر واحد کنترل کیفیت | راتا
+                مدیر ارشد کیفیت | راتا
 
               </span>
 
@@ -11360,7 +11360,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
-                Quality Control Manager | Rata
+                Senior Quality Manager | Rata
               </span>
 
                             </div>
@@ -13454,7 +13454,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر واحد کنترل کیفیت | راتا
+                مدیر ارشد کیفیت | راتا
 
               </span>
 
@@ -15745,7 +15745,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                       <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
 
-          Quality Control Manager | Rata
+          Senior Quality Manager  | Rata
 
         </span>
 
@@ -17847,7 +17847,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
 
-          مدیر ارشد واحد کنترل کیفیت | راتا
+          مدیر ارشد کیفیت | راتا
 
         </span>
 
