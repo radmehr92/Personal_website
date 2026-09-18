@@ -3862,7 +3862,7 @@ Ministry of Petroleum
 
                               <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
 
-Aug 2018 - Jul 2020 · 2 yrs
+Aug 2018 - Jul 2020 · 1 yr 11 mos
 
               </span>
 
@@ -17246,7 +17246,7 @@ Tehran, Iran
 
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight">
 
-Aug 2018 – Jul 2020 · 2 yrs
+Aug 2018 - Jul 2020 · 1 yr 11 mos
 
         </span>
 
