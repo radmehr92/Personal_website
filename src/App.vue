@@ -2243,7 +2243,7 @@ Built and led the Quality department by defining roles, forming a professional t
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                Quality & Project Manager | Sanat Express
+                Project Quality Manager | Sanat Express
 
               </span>
 
@@ -2442,8 +2442,7 @@ Built and led the Quality department by defining roles, forming a professional t
 
                             <span class="font-IrRegular">
 
-              Led project quality management by designing and implementing Quality Planning, Quality Assurance, and Quality Control processes based on PMBOK standards and industry requirements.
-
+Designed and implemented project quality management processes covering Quality Planning, Quality Assurance, and Quality Control in accordance with PMBOK and industry standards.
             </span>
 
                           </div>
@@ -2459,9 +2458,23 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
+                              Managed quality throughout the project lifecycle to ensure time, cost, and quality objectives were met.
+                            </span>
 
-              Managed the complete project lifecycle from initiation to final delivery, ensuring achievement of time, cost, and quality objectives.
+                          </div>
 
+
+
+
+
+
+
+                          <div class="flex gap-x-2">
+
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+                              Established inspection, testing, and quality monitoring processes to verify deliverables against customer requirements and technical standards.
             </span>
 
                           </div>
@@ -2477,9 +2490,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Established inspection, testing, and quality monitoring processes to ensure deliverables compliance with customer requirements and technical standards.
-
+Coordinated cross-functional teams to resolve quality-related issues and improve project execution efficiency.
             </span>
 
                           </div>
@@ -2495,9 +2506,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Coordinated cross-functional project teams to improve execution efficiency, resolve operational challenges, and achieve project objectives.
-
+                              Applied continuous improvement tools including PDCA, inspection checklists, and root cause analysis to enhance project quality performance.
             </span>
 
                           </div>
@@ -2513,27 +2522,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Applied continuous improvement methodologies including PDCA, inspection checklists, and root cause analysis to optimize processes.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-2">
-
-                            <span class="text-teal-600 font-bold">●</span>
-
-                            <span class="font-IrRegular">
-
-              Managed quality risks, analyzed process issues, and implemented corrective and preventive actions (CAPA) to enhance project performance.
-
+                              Managed quality risks and implemented corrective and preventive actions (CAPA) to strengthen overall project outcomes.
             </span>
 
                           </div>
@@ -3800,9 +3789,7 @@ Established technical communication and negotiations with European and East Asia
 
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
-
-Quality & Project Management | Hamyar Naft
-
+Project Quality Manager | Hamyar Naft
               </span>
 
 
@@ -3999,9 +3986,7 @@ Key Achievements
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Planned and implemented project quality management processes (Quality Planning, Assurance & Control) with focus on quality control of project outputs, process compliance, and achieving technical requirements.
-
+Planned and implemented project quality management processes (Quality Planning, Quality Assurance & Quality Control) with focus on output quality, process compliance, and meeting technical requirements.
             </span>
 
                           </div>
@@ -4017,11 +4002,8 @@ Planned and implemented project quality management processes (Quality Planning, 
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Monitored execution quality through inspections, performance evaluation, and identification of non-conformities to improve project quality performance.
-
+Monitored project execution quality through inspections, performance evaluation, and non-conformity identification to improve overall quality performance.
             </span>
-
                           </div>
 
 
@@ -4035,11 +4017,8 @@ Monitored execution quality through inspections, performance evaluation, and ide
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Optimized project processes through quality tools, root cause analysis, corrective actions, and continuous improvement methodologies.
-
+                              Optimized project processes using quality tools, root cause analysis, corrective actions, and continuous improvement methods.
             </span>
-
                           </div>
 
 
@@ -4053,11 +4032,8 @@ Optimized project processes through quality tools, root cause analysis, correcti
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Managed project lifecycle from planning to final delivery, including schedule control, risk management, team coordination, and performance monitoring.
-
+Managed quality aspects throughout the project lifecycle from planning to final delivery, including risk management and team coordination.
             </span>
-
                           </div>
 
 
@@ -4071,11 +4047,8 @@ Managed project lifecycle from planning to final delivery, including schedule co
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Prepared technical documentation, management reports, and coordinated project teams to ensure proper implementation of quality requirements.
-
+Prepared technical documentation and management reports while coordinating teams to ensure proper implementation of quality requirements.
             </span>
-
                           </div>
 
 
@@ -4661,7 +4634,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                مدیر کیفیت و پروژه | صنعت اکسپرس
+                مدیر کیفیت پروژه | صنعت اکسپرس
 
               </span>
 
@@ -4859,9 +4832,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              طراحی و اجرای برنامه مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
-
+                              طراحی و اجرای فرآیندهای مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
             </span>
 
                           </div>
@@ -4877,9 +4848,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              مدیریت کامل چرخه حیات پروژه از مرحله تعریف تا تحویل نهایی با تمرکز بر دستیابی به اهداف زمانی، هزینه‌ای و کیفی.
-
+مدیریت کیفیت در طول چرخه حیات پروژه با تمرکز بر تحقق اهداف زمانی، هزینه‌ای و کیفی.
             </span>
 
                           </div>
@@ -4895,9 +4864,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              ایجاد فرآیندهای بازرسی، تست و پایش کیفیت جهت اطمینان از انطباق خروجی‌های پروژه با الزامات مشتری و استانداردهای فنی.
-
+ایجاد فرآیندهای بازرسی، تست و پایش کیفیت جهت اطمینان از انطباق خروجی‌های پروژه با الزامات مشتری و استانداردهای فنی.
             </span>
 
                           </div>
@@ -4913,9 +4880,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              رهبری و هماهنگی تیم‌های چندرشته‌ای پروژه برای افزایش بهره‌وری اجرا، حل چالش‌های عملیاتی و دستیابی به اهداف پروژه.
-
+                              هماهنگی تیم ‌های چند رشته‌ ای برای حل مسائل کیفی و افزایش بهره ‌وری اجرای پروژه.
             </span>
 
                           </div>
@@ -4931,9 +4896,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              بهینه‌سازی فرآیندها با استفاده از ابزارهای بهبود مستمر شامل PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
-
+بهینه ‌سازی عملکرد کیفی پروژه با استفاده از ابزارهای بهبود مستمر شامل PDCA، چک ‌لیست‌ های بازرسی و تحلیل ریشه‌ ای مشکلات.
             </span>
 
                           </div>
@@ -4949,9 +4912,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              مدیریت ریسک‌های کیفی، تحلیل مشکلات فرآیندی و اجرای اقدامات اصلاحی و پیشگیرانه (CAPA) جهت ارتقای عملکرد پروژه.
-
+مدیریت ریسک ‌های کیفی و اجرای اقدامات اصلاحی و پیشگیرانه (CAPA) جهت ارتقای نتایج پروژه.
             </span>
 
                           </div>
@@ -6224,7 +6185,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-مدیریت کنترل کیفیت و پروژه | همیار نفت
+مدیر کیفیت پروژه | همیار نفت
 
                               </span>
 
@@ -6422,9 +6383,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (Quality Planning, Assurance & Control) با تمرکز بر کنترل کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی پروژه.
-
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت) با تمرکز بر کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی.
                             </span>
 
                           </div>
@@ -6440,9 +6399,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-نظارت و کنترل مستمر کیفیت فعالیت‌های اجرایی، انجام بازرسی‌ها، پایش عملکرد و شناسایی عدم انطباق‌ها جهت بهبود کیفیت پروژه.
-
+نظارت بر کیفیت اجرای پروژه از طریق بازرسی‌ها، ارزیابی عملکرد و شناسایی عدم انطباق‌ها جهت بهبود عملکرد کیفی.
                             </span>
 
                           </div>
@@ -6458,9 +6415,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-بهینه‌سازی فرآیندها و اجرای اقدامات اصلاحی با استفاده از ابزارهای کیفیت، تحلیل مشکلات و رویکرد بهبود مستمر.
-
+بهینه‌سازی فرآیندهای پروژه با استفاده از ابزارهای کیفیت، تحلیل علت ریشه‌ای، اقدامات اصلاحی و رویکرد بهبود مستمر.
                             </span>
 
                           </div>
@@ -6476,9 +6431,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-مدیریت چرخه پروژه از برنامه‌ریزی تا تحویل، شامل کنترل زمان، هماهنگی تیم‌ها، مدیریت ریسک و پایش شاخص‌های عملکردی.
-
+مدیریت جنبه‌های کیفی در طول چرخه حیات پروژه از برنامه‌ریزی تا تحویل نهایی، شامل مدیریت ریسک و هماهنگی تیم‌ها.
                             </span>
 
                           </div>
@@ -6494,9 +6447,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-تهیه مستندات فنی، گزارش‌های مدیریتی و هماهنگی بین تیم‌های اجرایی برای تضمین اجرای صحیح الزامات کیفی پروژه.
-
+تهیه مستندات فنی و گزارش‌های مدیریتی و هماهنگی تیم‌ها برای اطمینان از اجرای صحیح الزامات کیفی پروژه.
                             </span>
 
                           </div>
@@ -7086,7 +7037,7 @@ Built and led the Quality department by defining roles, forming a professional t
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                Quality & Project Manager | Sanat Express
+                Project Quality Manager | Sanat Express
 
               </span>
 
@@ -7284,9 +7235,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Led project quality management by designing and implementing Quality Planning, Quality Assurance, and Quality Control processes based on PMBOK standards and industry requirements.
-
+                              Designed and implemented project quality management processes covering Quality Planning, Quality Assurance, and Quality Control in accordance with PMBOK and industry standards.
             </span>
 
                           </div>
@@ -7302,9 +7251,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Managed the complete project lifecycle from initiation to final delivery, ensuring achievement of time, cost, and quality objectives.
-
+Managed quality throughout the project lifecycle to ensure time, cost, and quality objectives were met.
             </span>
 
                           </div>
@@ -7320,9 +7267,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Established inspection, testing, and quality monitoring processes to ensure deliverables compliance with customer requirements and technical standards.
-
+Established inspection, testing, and quality monitoring processes to verify deliverables against customer requirements and technical standards.
             </span>
 
                           </div>
@@ -7338,9 +7283,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Coordinated cross-functional project teams to improve execution efficiency, resolve operational challenges, and achieve project objectives.
-
+Coordinated cross-functional teams to resolve quality-related issues and improve project execution efficiency.
             </span>
 
                           </div>
@@ -7356,9 +7299,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Applied continuous improvement methodologies including PDCA, inspection checklists, and root cause analysis to optimize processes.
-
+Applied continuous improvement tools including PDCA, inspection checklists, and root cause analysis to enhance project quality performance.
             </span>
 
                           </div>
@@ -7374,9 +7315,7 @@ Built and led the Quality department by defining roles, forming a professional t
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Managed quality risks, analyzed process issues, and implemented corrective and preventive actions (CAPA) to enhance project performance.
-
+Managed quality risks and implemented corrective and preventive actions (CAPA) to strengthen overall project outcomes.
             </span>
 
                           </div>
@@ -8414,7 +8353,7 @@ Analyzed production processes, evaluated technical capabilities, and prepared te
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-Quality Control & Project Management | Hamyar Naft
+Project Quality Manager | Hamyar Naft
 
               </span>
 
@@ -8605,9 +8544,7 @@ Key Achievements
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Planned and executed project quality management processes (Quality Planning, Assurance & Control) with focus on quality control of deliverables, process compliance, and meeting technical project requirements.
-
+Planned and implemented project quality management processes (Quality Planning, Quality Assurance & Quality Control) with focus on output quality, process compliance, and meeting technical requirements.
             </span>
 
                           </div>
@@ -8623,9 +8560,7 @@ Planned and executed project quality management processes (Quality Planning, Ass
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Monitored and controlled the quality of project execution activities through inspections, performance tracking, and identification of non-conformities to improve project quality.
-
+Monitored project execution quality through inspections, performance evaluation, and non-conformity identification to improve overall quality performance.
             </span>
 
                           </div>
@@ -8641,9 +8576,7 @@ Monitored and controlled the quality of project execution activities through ins
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Optimized processes and implemented corrective actions using quality management tools, problem analysis, and continuous improvement approaches.
-
+Optimized project processes using quality tools, root cause analysis, corrective actions, and continuous improvement methods.
             </span>
 
                           </div>
@@ -8659,10 +8592,7 @@ Optimized processes and implemented corrective actions using quality management 
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-Managed the project lifecycle from planning to final delivery, including schedule control, risk management, team coordination, and performance monitoring.
-
-            </span>
+Prepared technical documentation and management reports while coordinating teams to ensure proper implementation of quality requirements.            </span>
 
                           </div>
 
@@ -9243,7 +9173,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر کیفیت و پروژه | صنعت اکسپرس
+                مدیر کیفیت پروژه | صنعت اکسپرس
 
               </span>
 
@@ -9428,9 +9358,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              برنامه‌ریزی و مدیریت چرخه کامل پروژه از تعریف تا تحویل نهایی با تمرکز بر دستیابی به اهداف زمانی و بودجه‌ای.
-
+طراحی و اجرای فرآیندهای مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
             </span>
 
                           </div>
@@ -9445,9 +9373,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              رهبری و هماهنگی تیم‌های چندرشته‌ای پروژه برای اجرای کارآمد فعالیت‌ها و مدیریت تعارضات.
-
+مدیریت کیفیت در طول چرخه حیات پروژه با تمرکز بر تحقق اهداف زمانی، هزینه‌ای و کیفی.
             </span>
 
                           </div>
@@ -9462,9 +9388,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              طراحی و اجرای برنامه مدیریت کیفیت پروژه شامل برنامه‌ریزی، تضمین و کنترل کیفیت بر اساس استاندارد PMBOK و الزامات صنعتی.
-
+ایجاد فرآیندهای بازرسی، تست و پایش کیفیت جهت اطمینان از انطباق خروجی‌های پروژه با الزامات مشتری و استانداردهای فنی.
             </span>
 
                           </div>
@@ -9479,9 +9403,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              نظارت مستمر بر فرآیندهای کنترل کیفیت، بازرسی‌ها، تست‌ها و انطباق خروجی‌ها با استانداردهای کیفی و الزامات مشتری.
-
+هماهنگی تیم‌های چندرشته‌ای برای حل مسائل کیفی و افزایش بهره‌وری اجرای پروژه.
             </span>
 
                           </div>
@@ -9496,15 +9418,21 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              بهینه‌سازی فرآیندها و اجرای برنامه‌های بهبود مستمر با استفاده از ابزارهای کیفیت مانند PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
-
+                              بهینه‌سازی عملکرد کیفی پروژه با استفاده از ابزارهای بهبود مستمر شامل PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
             </span>
 
                           </div>
 
 
+                          <div class="flex gap-x-2">
 
+                            <span class="text-teal-600 font-bold">●</span>
+
+                            <span class="font-IrRegular">
+مدیریت ریسک‌های کیفی و اجرای اقدامات اصلاحی و پیشگیرانه (CAPA) جهت ارتقای نتایج پروژه.
+            </span>
+
+                          </div>
 
 
                         </div>
@@ -10775,7 +10703,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-مدیریت کنترل کیفیت و پروژه | همیار نفت
+مدیر کیفیت پروژه | همیار نفت
 
               </span>
 
@@ -10970,9 +10898,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (Quality Planning, Assurance & Control) با تمرکز بر کنترل کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی پروژه.
-
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت) با تمرکز بر کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی.
             </span>
 
                           </div>
@@ -11006,9 +10932,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-بهینه‌سازی فرآیندها و اجرای اقدامات اصلاحی با استفاده از ابزارهای کیفیت، تحلیل مشکلات و رویکرد بهبود مستمر.
-
+نظارت بر کیفیت اجرای پروژه از طریق بازرسی‌ها، ارزیابی عملکرد و شناسایی عدم انطباق‌ها جهت بهبود عملکرد کیفی.
             </span>
 
                           </div>
@@ -11024,9 +10948,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-مدیریت چرخه پروژه از مرحله برنامه‌ریزی تا تحویل نهایی، شامل کنترل زمان، مدیریت ریسک، هماهنگی تیم‌ها و پایش شاخص‌های عملکردی.
-
+بهینه‌سازی فرآیندهای پروژه با استفاده از ابزارهای کیفیت، تحلیل علت ریشه‌ای، اقدامات اصلاحی و رویکرد بهبود مستمر.
             </span>
 
                           </div>
@@ -11475,7 +11397,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                Quality & Project Manager | Sanat Express
+                Project Quality Manager | Sanat Express
 
               </span>
 
@@ -11669,9 +11591,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Managed the complete project lifecycle from planning to final delivery with focus on schedule, budget, and quality objectives.
-
+                              Designed and implemented project quality management processes covering Quality Planning, Quality Assurance, and Quality Control in accordance with PMBOK and industry standards.
             </span>
 
                           </div>
@@ -11687,9 +11607,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Led cross-functional project teams and coordinated activities to ensure effective execution and project alignment.
-
+Managed quality throughout the project lifecycle to ensure time, cost, and quality objectives were met.
             </span>
 
                           </div>
@@ -11705,9 +11623,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Designed and implemented project Quality Management Plans including Quality Planning, Assurance, and Control based on PMBOK standards and industry requirements.
-
+Established inspection, testing, and quality monitoring processes to verify deliverables against customer requirements and technical standards.
             </span>
 
                           </div>
@@ -11723,9 +11639,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Supervised quality control processes, inspections, testing activities, and compliance of deliverables with customer requirements.
-
+Coordinated cross-functional teams to resolve quality-related issues and improve project execution efficiency.
             </span>
 
                           </div>
@@ -11741,9 +11655,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Optimized processes and implemented continuous improvement initiatives using PDCA, inspection checklists, and root cause analysis tools.
-
+Applied continuous improvement tools including PDCA, inspection checklists, and root cause analysis to enhance project quality performance.
             </span>
 
                           </div>
@@ -11759,9 +11671,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Managed project risks, prepared management reports, and improved coordination between technical, operational, and quality teams.
-
+Managed quality risks and implemented corrective and preventive actions (CAPA) to strengthen overall project outcomes.
             </span>
 
                           </div>
@@ -12859,7 +12769,7 @@ Established technical communication and negotiations with European and East Asia
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
 
-Quality & Project Management | Hamyar Naft
+Project Quality Manager | Hamyar Naft
 
               </span>
 
@@ -13046,9 +12956,39 @@ Key Achievements
                             <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                             <span class="font-IrRegular">
+Planned and implemented project quality management processes (Quality Planning, Quality Assurance & Quality Control) with focus on output quality, process compliance, and meeting technical requirements.
+            </span>
 
-Managed project quality planning, assurance, and control processes while monitoring compliance with technical standards and project requirements.
+                          </div>
 
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+Monitored project execution quality through inspections, performance evaluation, and non-conformity identification to improve overall quality performance.
+            </span>
+
+                          </div>
+
+
+
+
+
+
+
+                          <div class="flex gap-x-1.5">
+
+                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                            <span class="font-IrRegular">
+Optimized project processes using quality tools, root cause analysis, corrective actions, and continuous improvement methods.Managed quality aspects throughout the project lifecycle from planning to final delivery, including risk management and team coordination.
             </span>
 
                           </div>
@@ -13065,44 +13005,7 @@ Managed project quality planning, assurance, and control processes while monitor
 
                             <span class="font-IrRegular">
 
-Supervised project activities, coordinated technical teams, and ensured effective implementation of quality management procedures.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-1.5">
-
-                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
-
-                            <span class="font-IrRegular">
-
-Managed risk identification, corrective actions, process improvement initiatives, and project performance monitoring.
-
-            </span>
-
-                          </div>
-
-
-
-
-
-
-
-                          <div class="flex gap-x-1.5">
-
-                            <span class="text-teal-600 font-bold flex-shrink-0">●</span>
-
-                            <span class="font-IrRegular">
-
-Prepared technical documentation, reports, and project records to support management decisions and operational improvements.
-
+Managed quality aspects throughout the project lifecycle from planning to final delivery, including risk management and team coordination.
             </span>
 
                           </div>
@@ -13691,7 +13594,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر کیفیت و پروژه | صنعت اکسپرس
+                مدیر کیفیت پروژه | صنعت اکسپرس
 
               </span>
 
@@ -13885,9 +13788,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              مدیریت چرخه کامل پروژه از برنامه‌ریزی تا تحویل نهایی با تمرکز بر اهداف زمانی، بودجه‌ای و الزامات کیفی.
-
+طراحی و اجرای فرآیندهای مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
             </span>
 
                           </div>
@@ -13902,9 +13803,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              رهبری تیم‌های چندرشته‌ای پروژه و هماهنگی فعالیت‌ها برای اجرای اثربخش و دستیابی به اهداف پروژه.
-
+مدیریت کیفیت در طول چرخه حیات پروژه با تمرکز بر تحقق اهداف زمانی، هزینه‌ای و کیفی.
             </span>
 
                           </div>
@@ -13919,9 +13818,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              طراحی و اجرای برنامه مدیریت کیفیت پروژه شامل برنامه‌ریزی، تضمین و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
-
+ایجاد فرآیندهای بازرسی، تست و پایش کیفیت جهت اطمینان از انطباق خروجی‌های پروژه با الزامات مشتری و استانداردهای فنی.
             </span>
 
                           </div>
@@ -13936,9 +13833,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              نظارت بر فرآیندهای کنترل کیفیت، بازرسی‌ها، تست‌ها و انطباق خروجی‌ها با استانداردهای کیفی و نیازمندی‌های مشتری.
-
+                              هماهنگی تیم‌های چندرشته‌ای برای حل مسائل کیفی و افزایش بهره‌وری اجرای پروژه.
             </span>
 
                           </div>
@@ -13953,9 +13848,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              بهینه‌سازی فرآیندها و اجرای برنامه‌های بهبود مستمر با استفاده از ابزارهای کیفیت مانند PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
-
+بهینه‌سازی عملکرد کیفی پروژه با استفاده از ابزارهای بهبود مستمر شامل PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
             </span>
 
                           </div>
@@ -13970,9 +13863,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              مدیریت ریسک پروژه، مستندسازی فعالیت‌ها و تهیه گزارش‌های مدیریتی برای افزایش شفافیت و بهره‌وری.
-
+مدیریت ریسک‌های کیفی و اجرای اقدامات اصلاحی و پیشگیرانه (CAPA) جهت ارتقای نتایج پروژه.
             </span>
 
                           </div>
@@ -15161,7 +15052,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
 
-مدیریت کنترل کیفیت و پروژه | همیار نفت
+مدیر کیفیت پروژه | همیار نفت
 
               </span>
 
@@ -15359,9 +15250,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                             <span class="font-IrRegular">
-
-برنامه‌ریزی، اجرا و کنترل فرآیندهای مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت مطابق با الزامات فنی و استانداردهای پروژه.
-
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت) با تمرکز بر کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی.
             </span>
 
                           </div>
@@ -15377,9 +15266,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                             <span class="font-IrRegular">
-
-مدیریت و نظارت بر فعالیت‌های پروژه، هماهنگی تیم‌های اجرایی و اطمینان از اجرای صحیح فرآیندهای کنترل کیفیت.
-
+نظارت بر کیفیت اجرای پروژه از طریق بازرسی‌ها، ارزیابی عملکرد و شناسایی عدم انطباق‌ها جهت بهبود عملکرد کیفی.
             </span>
 
                           </div>
@@ -15395,9 +15282,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                             <span class="font-IrRegular">
-
-شناسایی و مدیریت ریسک‌های پروژه، پیگیری اقدامات اصلاحی، بهبود مستمر فرآیندها و پایش عملکرد پروژه.
-
+بهینه‌سازی فرآیندهای پروژه با استفاده از ابزارهای کیفیت، تحلیل علت ریشه‌ای، اقدامات اصلاحی و رویکرد بهبود مستمر.
             </span>
 
                           </div>
@@ -15413,9 +15298,7 @@ Prepared technical documentation, reports, and project records to support manage
                             <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                             <span class="font-IrRegular">
-
-تهیه و مدیریت مستندات فنی، گزارش‌های پروژه و سوابق اجرایی جهت پشتیبانی از تصمیم‌گیری‌های مدیریتی و بهبود عملکرد عملیاتی.
-
+مدیریت جنبه‌های کیفی در طول چرخه حیات پروژه از برنامه‌ریزی تا تحویل نهایی، شامل مدیریت ریسک و هماهنگی تیم‌ها.
             </span>
 
                           </div>
@@ -15934,7 +15817,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                       <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
 
-          Quality & Project Manager | Sanat Express
+          Project Quality Manager | Sanat Express
 
         </span>
 
@@ -16108,8 +15991,23 @@ Prepared technical documentation, reports, and project records to support manage
 
                           <span class="font-IrRegular">
 
-              Managed complete project lifecycle from planning to final delivery with focus on quality, schedule, and budget objectives.
+Designed and implemented project quality management processes covering Quality Planning, Quality Assurance, and Quality Control in accordance with PMBOK and industry standards.
+            </span>
 
+                        </div>
+
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+Managed quality throughout the project lifecycle to ensure time, cost, and quality objectives were met.
             </span>
 
                         </div>
@@ -16126,8 +16024,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                           <span class="font-IrRegular">
 
-              Led cross-functional project teams and coordinated activities for effective execution.
-
+Established inspection, testing, and quality monitoring processes to verify deliverables against customer requirements and technical standards.
             </span>
 
                         </div>
@@ -16144,8 +16041,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                           <span class="font-IrRegular">
 
-              Designed and implemented Quality Management Plans based on PMBOK standards and industrial requirements.
-
+              Coordinated cross-functional teams to resolve quality-related issues and improve project execution efficiency.
             </span>
 
                         </div>
@@ -16162,26 +16058,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                           <span class="font-IrRegular">
 
-              Supervised inspections, testing processes, and compliance with customer quality requirements.
-
-            </span>
-
-                        </div>
-
-
-
-
-
-
-
-                        <div class="flex gap-x-1">
-
-                          <span class="text-teal-600 font-bold">●</span>
-
-                          <span class="font-IrRegular">
-
-              Improved processes through PDCA, inspection checklists, and root cause analysis tools.
-
+Applied continuous improvement tools including PDCA, inspection checklists, and root cause analysis to enhance project quality performance.
             </span>
 
                         </div>
@@ -17282,7 +17159,7 @@ Evaluated technical feasibility and implementation requirements of proposed tech
 
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-Quality & Project Management | Hamyar Naft
+Project Quality Manager | Hamyar Naft
 
         </span>
 
@@ -17446,9 +17323,7 @@ Key Achievements
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-Planned and implemented project quality management processes (Quality Planning, Assurance & Control) with focus on output quality, process compliance, and technical project requirements.
-
+Planned and implemented project quality management processes (Quality Planning, Quality Assurance & Quality Control) with focus on output quality, process compliance, and meeting technical requirements.
             </span>
 
                         </div>
@@ -17465,8 +17340,7 @@ Planned and implemented project quality management processes (Quality Planning, 
 
                           <span class="font-IrRegular">
 
-Monitored execution quality through inspections, performance evaluation, and identification of non-conformities to improve project quality performance.
-
+Monitored project execution quality through inspections, performance evaluation, and non-conformity identification to improve overall quality performance.
             </span>
 
                         </div>
@@ -17483,8 +17357,7 @@ Monitored execution quality through inspections, performance evaluation, and ide
 
                           <span class="font-IrRegular">
 
-Optimized project processes through quality tools, root cause analysis, corrective actions, and continuous improvement approaches.
-
+Optimized project processes using quality tools, root cause analysis, corrective actions, and continuous improvement methods.
             </span>
 
                         </div>
@@ -17500,9 +17373,7 @@ Optimized project processes through quality tools, root cause analysis, correcti
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-Managed project lifecycle from planning to final delivery, including schedule control, risk management, and performance monitoring.
-
+Managed quality aspects throughout the project lifecycle from planning to final delivery, including risk management and team coordination.
             </span>
 
                         </div>
@@ -17518,9 +17389,7 @@ Managed project lifecycle from planning to final delivery, including schedule co
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-Prepared technical documentation, management reports, and coordinated project teams to ensure proper implementation of quality requirements.
-
+Prepared technical documentation and management reports while coordinating teams to ensure proper implementation of quality requirements.
             </span>
 
                         </div>
@@ -18039,7 +17908,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrBold text-xs text-gray-950 text-shadow-sm">
 
-          مدیر کنترل کیفیت و پروژه | صنعت اکسپرس
+          مدیر کیفیت پروژه | صنعت اکسپرس
 
         </span>
 
@@ -18213,9 +18082,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold">●</span>
 
                           <span class="font-IrRegular">
-
-              مدیریت چرخه کامل پروژه از برنامه‌ریزی تا تحویل نهایی با تمرکز بر زمان، هزینه و کیفیت.
-
+طراحی و اجرای فرآیندهای مدیریت کیفیت پروژه شامل برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت بر اساس استانداردهای PMBOK و الزامات صنعتی.
             </span>
 
                         </div>
@@ -18232,9 +18099,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold">●</span>
 
                           <span class="font-IrRegular">
-
-              رهبری تیم‌های چندرشته‌ای پروژه و هماهنگی فعالیت‌ها برای اجرای اثربخش.
-
+مدیریت کیفیت در طول چرخه حیات پروژه با تمرکز بر تحقق اهداف زمانی، هزینه‌ای و کیفی.
             </span>
 
                         </div>
@@ -18251,9 +18116,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold">●</span>
 
                           <span class="font-IrRegular">
-
-              طراحی و اجرای برنامه مدیریت کیفیت پروژه بر اساس استانداردهای PMBOK و الزامات صنعتی.
-
+ایجاد فرآیندهای بازرسی، تست و پایش کیفیت جهت اطمینان از انطباق خروجی‌های پروژه با الزامات مشتری و استانداردهای فنی.
             </span>
 
                         </div>
@@ -18270,9 +18133,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold">●</span>
 
                           <span class="font-IrRegular">
-
-              نظارت بر کنترل کیفیت، بازرسی‌ها، تست‌ها و انطباق خروجی‌ها با نیازمندی مشتری.
-
+هماهنگی تیم‌های چندرشته‌ای برای حل مسائل کیفی و افزایش بهره‌وری اجرای پروژه.
             </span>
 
                         </div>
@@ -18289,15 +18150,20 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold">●</span>
 
                           <span class="font-IrRegular">
-
-              بهینه‌سازی فرآیندها و اجرای بهبود مستمر با ابزارهای PDCA و تحلیل ریشه‌ای مشکلات.
-
+بهینه‌سازی عملکرد کیفی پروژه با استفاده از ابزارهای بهبود مستمر شامل PDCA، چک‌لیست‌های بازرسی و تحلیل ریشه‌ای مشکلات.
             </span>
 
                         </div>
 
 
+                        <div class="flex gap-x-1">
 
+                          <span class="text-teal-600 font-bold">●</span>
+
+                          <span class="font-IrRegular">
+مدیریت ریسک‌های کیفی و اجرای اقدامات اصلاحی و پیشگیرانه (CAPA) جهت ارتقای نتایج پروژه.            </span>
+
+                        </div>
 
 
                       </div>
@@ -19433,7 +19299,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-مدیریت کنترل کیفیت و پروژه | همیار نفت
+مدیر کیفیت پروژه | همیار نفت
 
         </span>
 
@@ -19529,7 +19395,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۲ سال
+مرداد ۱۳۹۷ – تیر ۱۳۹۹ / ۱ سال و ۱۱ ماه
 
         </span>
 
@@ -19607,9 +19473,23 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
+برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (برنامه‌ریزی کیفیت، تضمین کیفیت و کنترل کیفیت) با تمرکز بر کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی.
+            </span>
 
-برنامه‌ریزی و اجرای فرآیندهای مدیریت کیفیت پروژه (Quality Planning, Assurance & Control) با تمرکز بر کنترل کیفیت خروجی‌ها، انطباق فرآیندها و دستیابی به الزامات فنی پروژه.
+                        </div>
 
+
+
+
+
+
+
+                        <div class="flex gap-x-1">
+
+                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
+
+                          <span class="font-IrRegular">
+نظارت بر کیفیت اجرای پروژه از طریق بازرسی‌ها، ارزیابی عملکرد و شناسایی عدم انطباق‌ها جهت بهبود عملکرد کیفی.
             </span>
 
                         </div>
@@ -19626,8 +19506,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                           <span class="font-IrRegular">
 
-نظارت و کنترل مستمر کیفیت فعالیت‌های اجرایی، انجام بازرسی‌ها، پایش عملکرد و شناسایی عدم‌انطباق‌ها جهت بهبود کیفیت پروژه.
-
+بهینه‌سازی فرآیندهای پروژه با استفاده از ابزارهای کیفیت، تحلیل علت ریشه‌ای، اقدامات اصلاحی و رویکرد بهبود مستمر.
             </span>
 
                         </div>
@@ -19643,9 +19522,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-بهینه‌سازی فرآیندها و اجرای اقدامات اصلاحی با استفاده از ابزارهای کیفیت، تحلیل مشکلات و رویکرد بهبود مستمر.
-
+مدیریت جنبه‌های کیفی در طول چرخه حیات پروژه از برنامه‌ریزی تا تحویل نهایی، شامل مدیریت ریسک و هماهنگی تیم‌ها.
             </span>
 
                         </div>
@@ -19661,27 +19538,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-مدیریت چرخه پروژه از برنامه‌ریزی تا تحویل، شامل کنترل زمان، مدیریت ریسک و پایش شاخص‌های عملکردی.
-
-            </span>
-
-                        </div>
-
-
-
-
-
-
-
-                        <div class="flex gap-x-1">
-
-                          <span class="text-teal-600 font-bold flex-shrink-0">●</span>
-
-                          <span class="font-IrRegular">
-
-تهیه مستندات فنی، گزارش‌های مدیریتی و هماهنگی بین تیم‌های اجرایی برای تضمین اجرای صحیح الزامات کیفی.
-
+تهیه مستندات فنی و گزارش‌های مدیریتی و هماهنگی تیم‌ها برای اطمینان از اجرای صحیح الزامات کیفی پروژه.
             </span>
 
                         </div>
