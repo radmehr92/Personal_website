@@ -18,15 +18,14 @@
                       <span class="flex font-IrBold text-base text-shadow-md">Hello...! I'm Ali Radmehr</span>
                     </div>
                     <div class="flex font-IrBold text-3xl gap-x-2">
-                      <span class="text-gray-800 text-shadow-md">Professional in</span>
-                      <span class="text-shadow-md text-sky-600">Quality Management</span>
-                      <span class="text-gray-800 text-shadow-md">& </span>
-                      <span class="text-teal-600 text-shadow-md">Project Management</span>
+                      <span class="text-sky-600 text-shadow-md">Quality Manager</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-teal-600 text-shadow-md">Quality Systems Architect</span>
                     </div>
 
                     <div class="flex font-IrRegular text-base justify-center w-2/4 text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
+                    Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
                   </span>
                     </div>
 
@@ -140,18 +139,14 @@
                       <span class="flex font-IrBold text-lg tracking-wide text-shadow-md">علی رادمهر</span>
                     </div>
                     <div class="flex font-IrBold text-3xl gap-x-3 tracking-wide">
-                      <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                       <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
-                      <span class="text-gray-800 text-shadow-md">و</span>
-                      <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-teal-600 text-shadow-md">طراح سیستم‌ های کیفیت</span>
                     </div>
 
                     <div class="flex font-IrRegular text-base justify-center w-2/4 text-gray-900">
                   <span class="text-justify leading-7">
-                    فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
-                  </span>
-
-
+فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
                     </div>
 
                     <div>
@@ -297,16 +292,14 @@
                         <span class="flex font-IrBold text-base text-shadow-md">Hello...! I'm Ali Radmehr</span>
                       </div>
                       <div class="flex font-IrBold text-3xl gap-x-2">
-                        <span class="text-gray-800 text-shadow-md">Professional in</span>
                         <span class="text-shadow-md text-sky-600">Quality Management</span>
-                        <span class="text-gray-800 text-shadow-md">&</span>
-                        <span class="text-shadow-md text-teal-600">Project Management</span>
+                        <span class="text-gray-800 text-shadow-md">|</span>
+                        <span class="text-shadow-md text-teal-600">Quality Systems Architect</span>
                       </div>
 
                       <div class="flex font-IrRegular text-base justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
-                  </span>
+Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.                  </span>
                       </div>
 
                       <div>
@@ -419,15 +412,14 @@
                         <span class="flex font-IrBold text-lg tracking-wider text-shadow-md">علی رادمهر</span>
                       </div>
                       <div class="flex font-IrBold text-2xl gap-x-3 tracking-widest">
-                        <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                         <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
-                        <span class="text-gray-800 text-shadow-md">و</span>
-                        <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
+                        <span class="text-gray-800 text-shadow-md">|</span>
+                        <span class="text-shadow-md text-teal-600">طراح سیستم‌ های کیفیت</span>
                       </div>
 
                       <div class="flex font-IrRegular text-base justify-center w-[500px] text-gray-900">
                      <span class="text-justify leading-7">
-                    فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
+                       فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
                      </span>
                       </div>
 
@@ -577,15 +569,14 @@
                         <span class="flex font-IrBold text-base text-shadow-md">Hello...! I'm Ali Radmehr</span>
                       </div>
                       <div class="flex font-IrBold text-xl gap-x-2">
-                        <span class="text-gray-800 text-shadow-md">Professional in</span>
-                        <span class="text-shadow-md text-sky-600">Quality Management</span>
-                        <span class="text-gray-800 text-shadow-md">&</span>
-                        <span class="text-shadow-md text-teal-600">Project Management</span>
+                        <span class="text-shadow-md text-sky-600">Quality Manager</span>
+                        <span class="text-gray-800 text-shadow-md">|</span>
+                        <span class="text-shadow-md text-teal-600">Quality Systems Architect</span>
                       </div>
 
                       <div class="flex font-IrRegular text-base justify-center w-[450px] text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
+                    Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
                   </span>
                       </div>
 
@@ -699,15 +690,14 @@
                         <span class="flex font-IrBold text-lg tracking-wider text-shadow-md">علی رادمهر</span>
                       </div>
                       <div class="flex font-IrBold text-xl gap-x-3 tracking-widest">
-                        <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                         <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
-                        <span class="text-gray-800 text-shadow-md">و</span>
-                        <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
+                        <span class="text-gray-800 text-shadow-md">|</span>
+                        <span class="text-shadow-md text-teal-600">طراح سیستم ‌های کیفیت</span>
                       </div>
 
                       <div class="flex font-IrRegular text-base justify-center w-[400px] text-gray-900">
                   <span class="text-justify leading-7">
-                    فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
+                    فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
                   </span>
 
                       </div>
@@ -918,15 +908,14 @@
                       <span class="flex font-IrBold text-sm text-shadow-md">Hello...! I'm Ali Radmehr</span>
                     </div>
                     <div class="flex font-IrBold text-xl gap-x-2">
-                      <span class="text-gray-800 text-shadow-md">Professional in</span>
-                      <span class="text-shadow-md text-sky-600">Quality Management</span>
-                      <span class="text-gray-800 text-shadow-md">&</span>
-                      <span class="text-shadow-md text-teal-600">Project Management</span>
+                      <span class="text-shadow-md text-sky-600">Quality Manager</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-shadow-md text-teal-600">Quality Systems Architect</span>
                     </div>
 
                     <div class="flex font-IrRegular text-sm justify-center w-[600px] text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
+                    Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
                   </span>
                     </div>
 
@@ -1041,16 +1030,14 @@
                       <span class="flex font-IrBold text-lg tracking-wider text-shadow-md">علی رادمهر</span>
                     </div>
                     <div class="flex font-IrBold text-2xl gap-x-3 tracking-widest">
-                      <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                       <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
-                      <span class="text-gray-800 text-shadow-md">و</span>
-                      <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-shadow-md text-teal-600">طراح سیستم ‌های کیفیت</span>
                     </div>
 
                     <div class="flex font-IrRegular text-base justify-center w-[600px] text-gray-900">
                   <span class="text-justify leading-7">
-                    فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
-                  </span>
+فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
                     </div>
 
                     <div>
@@ -1201,16 +1188,14 @@
                       <span class="flex font-IrBold text-sm text-shadow-md">Hello...! I'm Ali Radmehr</span>
                     </div>
                     <div class="flex font-IrBold text-xl gap-x-2">
-                      <span class="text-gray-800 text-shadow-md">Professional in</span>
-                      <span class="text-shadow-md text-sky-600">Quality Management</span>
-                      <span class="text-gray-800 text-shadow-md">&</span>
-                      <span class="text-shadow-md text-teal-600">Project Management</span>
+                      <span class="text-shadow-md text-sky-600">Quality Manager</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-shadow-md text-teal-600">Quality Systems Architect</span>
                     </div>
 
                     <div class="flex font-IrRegular text-sm justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
-                  </span>
+Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.                  </span>
                     </div>
 
                     <div>
@@ -1324,16 +1309,14 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                       <span class="flex font-IrBold text-lg tracking-wider text-shadow-md">علی رادمهر</span>
                     </div>
                     <div class="flex font-IrBold text-xl gap-x-3 tracking-widest">
-                      <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                       <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
-                      <span class="text-gray-800 text-shadow-md">و</span>
-                      <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-shadow-md text-teal-600">طراح سیستم‌ های کیفیت</span>
                     </div>
 
                     <div class="flex font-IrRegular text-base justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
-                  </span>
+فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
                     </div>
 
                     <div>
@@ -1483,16 +1466,14 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                       <span class="flex font-IrBold text-sm text-shadow-md">Hello...! I'm Ali Radmehr</span>
                     </div>
                     <div class="flex font-IrBold text-[10px] gap-x-1">
-                      <span class="text-gray-800 text-shadow-md">Professional in</span>
-                      <span class="text-shadow-md text-sky-600">Quality Management</span>
-                      <span class="text-gray-800 text-shadow-md">&</span>
-                      <span class="text-shadow-md text-teal-600">Project Management</span>
+                      <span class="text-shadow-md text-sky-600">Quality Manager</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-shadow-md text-teal-600">Quality Systems Architect</span>
                     </div>
 
                     <div class="flex font-IrRegular text-xs justify-center w-[280px] text-gray-900">
                   <span class="text-justify leading-5">
-                   Chemical Engineering graduate with an MBA from the University of Tehran, with extensive experience in Quality Management across industrial and manufacturing environments. Experienced in leading quality control teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Experienced in integrating quality control and assurance into project execution, while leveraging technical and R&D expertise to improve processes, product quality, and operational performance.
-                  </span>
+Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.                  </span>
                     </div>
 
                     <div>
@@ -1609,16 +1590,14 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
                       <span class="flex font-IrBold text-lg tracking-wider text-shadow-md">علی رادمهر</span>
                     </div>
                     <div class="flex font-IrBold text-sm gap-x-1 tracking-wide">
-                      <span class="text-gray-800 text-shadow-md">فعال در حوزه</span>
                       <span class="text-sky-600 text-shadow-md">مدیریت کیفیت</span>
-                      <span class="text-gray-800 text-shadow-md">و</span>
-                      <span class="text-shadow-md text-teal-600">مدیریت پروژه</span>
+                      <span class="text-gray-800 text-shadow-md">|</span>
+                      <span class="text-shadow-md text-teal-600">طراح سیستم‌ های کیفیت</span>
                     </div>
 
                     <div class="flex font-IrRegular text-sm justify-center w-[280px] text-gray-900">
                   <span class="text-justify leading-7">
-                    فارغ‌ التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران، با تجربه گسترده در مدیریت کیفیت در محیط‌ های صنعتی و تولیدی. دارای تجربه در رهبری تیم‌ های کنترل کیفیت، مدیریت عملیات کیفیت، اجرای استاندارد ها و سیستم‌ های کیفیت و بهبود مستمر از طریق CAPA، SPC، FMEA و تحلیل علل ریشه‌ ای. دارای تجربه در یکپارچه‌ سازی کنترل و تضمین کیفیت در اجرای پروژه‌ ها و بهره‌ گیری از دانش فنی و تحقیق و توسعه برای بهبود فرآیند ها، کیفیت محصول و عملکرد عملیاتی.
-                  </span>
+فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
                     </div>
 
                     <div>
