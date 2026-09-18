@@ -2021,9 +2021,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
                             <span class="font-IrRegular">
 
-              Built and led the Quality Control department by defining roles, forming a professional team, and developing an efficient organizational structure.
-
-            </span>
+Built and led the Quality department by defining roles, forming a professional team, and establishing/updating Quality Control and Quality Assurance systems with an efficient organizational structure.</span>
 
                           </div>
 
@@ -2672,7 +2670,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, with ex
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-Quality Control Manager | Sugas
+Quality Manager | Sugas
 
               </span>
 
@@ -2871,8 +2869,7 @@ Key Achievements
 
                             <span class="font-IrRegular">
 
-Led Quality Control operations with a team of 45 employees across three shifts, ensuring compliance with ISO 9001 quality standards throughout production processes.
-
+Led Quality operations with a team of 45 employees across three shifts, covering both Quality Control and Quality Assurance, while ensuring compliance with ISO 9001 standards throughout production processes.
             </span>
 
                           </div>
@@ -4446,7 +4443,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                             <span class="font-IrRegular">
 
-              ساختارسازی و رهبری واحد کنترل کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و ایجاد ساختار سازمانی کارآمد.
+              ساختارسازی و رهبری واحد کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و استقرار و به‌روزرسانی سیستم‌های کنترل کیفیت و تضمین کیفیت در قالب ساختار سازمانی کارآمد.
 
             </span>
 
@@ -5093,7 +5090,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-مدیر واحد کنترل کیفیت | سوگاس
+مدیریت کیفیت | سوگاس
 
               </span>
 
@@ -5291,7 +5288,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                             <span class="font-IrRegular">
 
-رهبری و مدیریت عملیات کنترل کیفیت با هدایت واحدی شامل ۴۵ نفر پرسنل در سه شیفت کاری و نظارت بر اجرای استاندارد ISO 9001 در تمامی مراحل تولید.
+رهبری و مدیریت عملیات کیفیت با هدایت واحدی شامل ۴۵ نفر پرسنل در سه شیفت کاری، شامل کنترل کیفیت و تضمین کیفیت، و نظارت بر اجرای استاندارد ISO 9001 در تمامی مراحل تولید.
 
             </span>
 
@@ -6559,6 +6556,7 @@ Prepared technical documentation, management reports, and coordinated project te
             </div>
 
           </div>
+
         </div>
 
         <div class="hidden lg:hidden md:flex container">
@@ -6709,7 +6707,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                               <span class="font-IrRegular text-xs text-slate-800">
 
-                Rata Holding
+                Rata Company
 
               </span>
 
@@ -6871,9 +6869,7 @@ Prepared technical documentation, management reports, and coordinated project te
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              Built and led the Quality Control department by defining roles, forming a professional team, and developing an efficient organizational structure.
-
+Built and led the Quality department by defining roles, forming a professional team, and establishing/updating Quality Control and Quality Assurance systems with an efficient organizational structure.
             </span>
 
                           </div>
@@ -7434,337 +7430,167 @@ Prepared technical documentation, management reports, and coordinated project te
 
                 <div class="relative w-[700px] rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
 
-
                   <!-- Background -->
-
                   <div class="absolute inset-0 z-0 rounded-tl-xl rounded-br-xl">
-
-                    <img src="/src/assets/image/industry/bg1.jpg"
+                    <img src="/src/assets/image/industry/bg2.jpg"
                          alt=""
                          class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
-
                   </div>
 
-
-
-
-
-
                   <!-- Main Card -->
-
                   <div class="relative p-3 w-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
 
-
-
-
-
                     <!-- Header -->
-
                     <div class="flex items-center gap-x-3">
 
-
-
-
-
                       <!-- Logo -->
-
                       <div class="flex items-center justify-center w-20 h-20 bg-white rounded-md border border-gray-200 shadow-md">
-
                         <img class="w-16 h-14"
-                             src="/src/assets/image/factory/harrir.png"
+                             src="/src/assets/image/factory/Sugas-Logo_Sugas-En8080.png"
                              alt="">
-
                       </div>
 
-
-
-
-
-
-
-
                       <!-- Information -->
-
                       <div class="flex-1">
-
-
-
                         <div class="flex items-start justify-between">
 
-
-
-
-
-
                           <!-- Job + Company -->
-
                           <div class="flex flex-col gap-y-2">
 
-
-
-
-
                             <!-- Job Title -->
-
                             <div class="flex items-center gap-x-1">
-
-
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-
-                                <svg class="h-5 h-5 text-teal-700">
+                                <svg class="h-5 w-5 text-teal-700">
                                   <use href="#pos"></use>
                                 </svg>
-
                               </div>
-
-
-
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
-
-      Research & Development Project Proposal Provider | Harir Khuzestan
-
-    </span>
-
-
+                Quality Manager | Sugas
+              </span>
                             </div>
 
-
-
-
-
-
-
                             <!-- Company -->
-
                             <div class="flex items-center gap-x-1">
-
-
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-
                                 <svg class="h-4 w-4 text-teal-700">
                                   <use href="#fac"></use>
                                 </svg>
-
                               </div>
-
-
-
-                              <span class="font-IrRegular text-sm text-slate-800">
-
-      Harir Khuzestan Company (Subsidiary of TAPPICO Holding - TOSICO)
-
-    </span>
-
-
+                              <span class="font-IrRegular text-xs text-slate-800">
+                Pars Tabiat Cellulose Company (Subsidiary of Pars Paper Group)
+              </span>
                             </div>
-
-
 
                           </div>
 
-
-
-
-
-
-
-
-
                           <!-- Date + Location -->
-
                           <div class="flex flex-col gap-y-2 items-start">
 
-
-
-
-
                             <!-- Date -->
-
                             <div class="flex items-center gap-x-1">
-
-
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-
                                 <svg class="h-5 w-5 text-teal-700">
                                   <use href="#cal"></use>
                                 </svg>
-
                               </div>
-
-
-
                               <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
-
-      Apr 2023 - Jun 2023 · 3 mos
-
-    </span>
-
-
+                Aug 2020 - Jul 2024 · 4 yrs
+              </span>
                             </div>
 
-
-
-
-
-
-
-
                             <!-- Location -->
-
                             <div class="flex items-center gap-x-1">
-
-
                               <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-
                                 <svg class="h-4 w-4 text-teal-700">
                                   <use href="#loc"></use>
                                 </svg>
-
                               </div>
-
-
-
                               <span class="font-IrRegular text-xs text-slate-700 text-shadow-sm">
-
-      Shoush, Khuzestan Province, Iran
-
-    </span>
-
-
+                Shoush, Khuzestan Province, Iran
+              </span>
                             </div>
-
-
 
                           </div>
 
-
-
-
-
                         </div>
-
-
                       </div>
-
-
 
                     </div>
 
-
-
-
-
-
-
-
-
                     <!-- Description -->
-
-
                     <div class="mt-3 border-t border-white/50 pt-3">
-
-
-
                       <div class="bg-white/25 backdrop-blur-sm rounded-lg p-2.5 shadow-sm">
 
-
-
-
-
                         <!-- Title -->
-
-
                         <div class="flex items-center gap-x-2 mb-2">
-
-
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
-
                             <svg class="h-4 w-4 text-teal-700">
                               <use href="#paper"></use>
                             </svg>
-
                           </div>
-
-
-
                           <span class="font-IrBold text-sm text-gray-950 tracking-wide">
-
-  Key Achievements
-
-</span>
-
-
-
+            Key Achievements
+          </span>
                         </div>
-
-
-
-
-
-
-
-
 
                         <!-- Achievements -->
-
-
-                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-xs text-slate-800 leading-relaxed">
-
-
-
-
+                        <div class="grid grid-cols-2 gap-x-5 gap-y-2 text-[11px] text-slate-800 leading-relaxed">
 
                           <div class="flex gap-x-2">
-
                             <span class="text-teal-600 font-bold">●</span>
-
                             <span class="font-IrRegular">
-
-    Conducted research studies and technical feasibility assessments for the implementation of the Compact White Bagasse Pulping Line Project at Harir Khuzestan Company, including evaluation of available technologies, production processes, and technical project requirements.
-
-  </span>
-
+              Led Quality operations with a team of 45 employees across three shifts, covering both Quality Control and Quality Assurance, while ensuring compliance with ISO 9001 standards throughout production processes.
+            </span>
                           </div>
-
-
-
-
-
-
 
                           <div class="flex gap-x-2">
-
                             <span class="text-teal-600 font-bold">●</span>
-
                             <span class="font-IrRegular">
-
-    Established technical communications and negotiations with European and East Asian pulp industry equipment designers and manufacturers to evaluate implementation approaches and assess proposed technologies.
-
-  </span>
-
+              Designed and implemented Statistical Process Control (SPC) systems, reducing production waste and improving process accuracy through data-driven quality management and CAPA integration.
+            </span>
                           </div>
 
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Built, trained, and managed Quality Control teams while enhancing technical capabilities through structured training programs focused on HACCP principles and risk prevention.
+            </span>
+                          </div>
 
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Optimized quality processes by redesigning inspection protocols, reducing inspection time, and improving production line efficiency in alignment with GMP practices.
+            </span>
+                          </div>
 
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Developed and implemented new quality standards aligned with industry requirements, ensuring compliance across all production shifts through periodic evaluations.
+            </span>
+                          </div>
 
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Implemented FMEA-based risk management systems to identify potential failure modes, prioritize risks, and establish preventive actions for critical production processes.
+            </span>
+                          </div>
+
+                          <div class="flex gap-x-2">
+                            <span class="text-teal-600 font-bold">●</span>
+                            <span class="font-IrRegular">
+              Presented periodic quality performance reports to senior management and the board of directors, providing improvement strategies based on ISO 9001 and CAPA indicators.
+            </span>
+                          </div>
 
                         </div>
 
-
-
                       </div>
-
-
-
                     </div>
 
-
-
-
-
                   </div>
-
-
 
                 </div>
 
@@ -9015,7 +8841,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر ارشد کیفیت | راتا
+                مدیریت ارشد کیفیت | راتا
 
               </span>
 
@@ -9209,9 +9035,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                             <span class="text-teal-600 font-bold">●</span>
 
                             <span class="font-IrRegular">
-
-              ساختارسازی و رهبری واحد کنترل کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و ایجاد ساختار سازمانی کارآمد.
-
+ساختارسازی و رهبری واحد کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و استقرار و به‌روزرسانی سیستم‌های کنترل کیفیت و تضمین کیفیت در قالب ساختار سازمانی کارآمد.
             </span>
 
                           </div>
@@ -9810,7 +9634,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-base text-gray-950 text-shadow-sm">
 
-                مدیر واحد کنترل کیفیت | سوگاس
+                مدیریت کیفیت | سوگاس
 
               </span>
 
@@ -10004,7 +9828,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                             <span class="font-IrRegular">
 
-              رهبری و مدیریت واحد کنترل کیفیت شامل ۴۵ نفر پرسنل در سه شیفت کاری، با نظارت بر اجرای استاندارد ISO 9001 در تمامی مراحل تولید.
+              رهبری و مدیریت عملیات کیفیت با هدایت واحدی شامل ۴۵ نفر پرسنل در سه شیفت کاری، شامل کنترل کیفیت و تضمین کیفیت، و نظارت بر اجرای استاندارد ISO 9001 در تمامی مراحل تولید.
 
             </span>
 
@@ -11500,7 +11324,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
                           <div class="flex gap-x-2">
                             <span class="text-teal-600 font-bold">●</span>
                             <span class="font-IrRegular">
-              Built and led the Quality Control department by defining roles, forming a professional team, and developing an efficient organizational structure.
+                              Built and led the Quality department by defining roles, forming a professional team, and establishing/updating Quality Control and Quality Assurance systems with an efficient organizational structure.
             </span>
                           </div>
 
@@ -12073,7 +11897,7 @@ Managed the project lifecycle from planning to final delivery, including schedul
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-Quality Control Manager | Sugas
+Quality Manager | Sugas
 
               </span>
 
@@ -12269,9 +12093,7 @@ Key Achievements
                             <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                             <span class="font-IrRegular">
-
-Managed Quality Control operations with 45 personnel across three shifts, ensuring ISO 9001 compliance throughout production processes.
-
+                              Led Quality operations with a team of 45 employees across three shifts, covering both Quality Control and Quality Assurance, while ensuring compliance with ISO 9001 standards throughout production processes.
             </span>
 
                           </div>
@@ -13454,7 +13276,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm">
 
-                مدیر ارشد کیفیت | راتا
+                مدیریت ارشد کیفیت | راتا
 
               </span>
 
@@ -13649,7 +13471,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                             <span class="font-IrRegular">
 
-              ساختارسازی و رهبری واحد کنترل کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و ایجاد ساختار سازمانی کارآمد.
+               ساختارسازی و رهبری واحد کیفیت با تعریف نقش‌ها، تشکیل تیم تخصصی و استقرار و به‌روزرسانی سیستم‌های کنترل کیفیت و تضمین کیفیت در قالب ساختار سازمانی کارآمد.
 
             </span>
 
@@ -14286,7 +14108,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                               <span class="font-IrBold text-sm text-gray-950 text-shadow-sm truncate">
 
-مدیر واحد کنترل کیفیت | سوگاس
+مدیریت کیفیت | سوگاس
 
               </span>
 
@@ -14483,7 +14305,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                             <span class="font-IrRegular">
 
-رهبری و مدیریت عملیات کنترل کیفیت در شرکت پارس طبیعت سلولز (سوگاس) با مسئولیت مستقیم بر ۴۵ نفر پرسنل در سه شیفت کاری و نظارت بر اجرای استاندارد ISO 9001 در فرآیندهای تولید.
+رهبری و مدیریت عملیات کیفیت با هدایت واحدی شامل ۴۵ نفر پرسنل در سه شیفت کاری، شامل کنترل کیفیت و تضمین کیفیت، و نظارت بر اجرای استاندارد ISO 9001 در تمامی مراحل تولید.
 
             </span>
 
@@ -15911,7 +15733,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                           <span class="font-IrRegular">
 
-              Built and led the Quality Control department by defining roles and creating an efficient organizational structure.
+              Built and led the Quality department by defining roles, forming a professional team, and establishing/updating Quality Control and Quality Assurance systems with an efficient organizational structure.
 
             </span>
 
@@ -16476,7 +16298,7 @@ Prepared technical documentation, reports, and project records to support manage
 
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-          Quality Control Manager | Sugas
+          Quality Manager | Sugas
 
         </span>
 
@@ -16640,9 +16462,7 @@ Prepared technical documentation, reports, and project records to support manage
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-              Led Quality Control operations at Pars Tabiat Cellulose Company (Sugas) with a team of 45 employees across three shifts, ensuring ISO 9001 compliance throughout production processes.
-
+                            Led Quality operations with a team of 45 employees across three shifts, covering both Quality Control and Quality Assurance, while ensuring compliance with ISO 9001 standards throughout production processes.
             </span>
 
                         </div>
@@ -18015,7 +17835,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                           <span class="font-IrRegular">
 
-              ساختارسازی و رهبری واحد کنترل کیفیت و ایجاد ساختار سازمانی کارآمد.
+              ساختارسازی و رهبری واحد کیفیت با تعریف نقش ‌ها، تشکیل تیم تخصصی و استقرار و به‌ روزرسانی سیستم ‌های کنترل کیفیت و تضمین کیفیت در قالب ساختار سازمانی کارآمد.
 
             </span>
 
@@ -18594,7 +18414,7 @@ Prepared technical documentation, management reports, and coordinated project te
 
                       <span class="font-IrBold text-xs text-gray-900 text-shadow-sm leading-tight break-words">
 
-          مدیر واحد کنترل کیفیت | سوگاس
+          مدیریت کیفیت | سوگاس
 
         </span>
 
@@ -18768,9 +18588,7 @@ Prepared technical documentation, management reports, and coordinated project te
                           <span class="text-teal-600 font-bold flex-shrink-0">●</span>
 
                           <span class="font-IrRegular">
-
-              رهبری عملیات کنترل کیفیت شرکت پارس طبیعت سلولز (سوگاس) با مدیریت ۴۵ نفر پرسنل در سه شیفت کاری و تضمین انطباق فرآیندهای تولید با الزامات استاندارد ISO 9001.
-
+                            رهبری و مدیریت عملیات کیفیت با هدایت واحدی شامل ۴۵ نفر پرسنل در سه شیفت کاری، شامل کنترل کیفیت و تضمین کیفیت، و نظارت بر اجرای استاندارد ISO 9001 در تمامی مراحل تولید.
             </span>
 
                         </div>
