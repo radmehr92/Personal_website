@@ -15339,7 +15339,7 @@ Managed quality aspects throughout the project lifecycle from planning to final 
 
         <div class="flex flex-col sm:hidden w-[280px] max-w-sm mx-auto px-2 py-6 overflow-x-hidden">
 
-          <div class="flex flex-col items-center justify-center w-full " v-show="locale === 'en'">
+          <div class="flex flex-col items-center justify-center w-full " v-show="locale === 'en'" >
             <!-- عنوان -->
             <div class="w-full mt-16">
               <div class="relative w-[280px] max-w-full h-14 rounded-tl-xl rounded-br-xl overflow-hidden shadow-md animate-jump animate-ease-out">
