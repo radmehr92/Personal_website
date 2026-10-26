@@ -19639,11 +19639,11 @@ Prepared technical documentation and management reports while coordinating teams
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">Industrial Engineering</span>
+                          <span class="font-IrBold text-base text-white mt-0.5 text-shadow-sm">Industrial Engineering - Quality and Productivity</span>
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center mr-[105px]">
+                        <div class="flex gap-x-1 items-center mr-[128px]">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
@@ -19913,11 +19913,11 @@ Prepared technical documentation and management reports while coordinating teams
                               <use href="#pos"></use>
                             </svg>
                           </div>
-                          <span class="font-IrBold text-sm text-white mt-0.5 text-shadow-sm">مهندسی صنایع</span>
+                          <span class="font-IrBold text-sm text-white mt-0.5 text-shadow-sm">مهندسی صنایع - گرایش کیفیت و بهره وری</span>
                         </div>
 
 
-                        <div class="flex gap-x-1 items-center ml-[116px]">
+                        <div class="flex gap-x-1 items-center ml-[98px]">
                           <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                             <svg class="h-5 w-5 text-teal-700">
                               <use href="#cal"></use>
