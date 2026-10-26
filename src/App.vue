@@ -21266,7 +21266,64 @@ Prepared technical documentation and management reports while coordinating teams
               </div>
             </div>
 
-              <!-- کارت اول: University of Tehran -->
+
+              <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <!-- لوگو -->
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12" src="/src/assets/image/edu/azad.png" alt="">
+                </div>
+
+                <!-- اطلاعات -->
+                <div class="space-y-4">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-900 text-shadow-sm">Industrial Engineering – Quality and Productivity</span>
+                  </div>
+
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Azad University</span>
+                  </div>
+
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Tehran, Iran</span>
+                  </div>
+
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">2026</span>
+                  </div>
+                </div>
+
+                <!-- توضیحات -->
+                <div class="flex gap-x-0.5">
+                  <div class="flex items-start">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#paper"></use></svg>
+                    </div>
+                  </div>
+                  <div class="w-full max-w-full">
+          <span class="font-IrRegular text-xs text-gray-900 text-justify text-shadow-sm leading-relaxed break-words w-[280px]">
+Master's degree
+          </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
                 <div class="absolute inset-0 z-0">
                   <img src="/src/assets/image/edu/e4.jpeg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
@@ -21324,7 +21381,7 @@ Prepared technical documentation and management reports while coordinating teams
                 </div>
               </div>
 
-              <!-- کارت دوم: Islamic Azad University -->
+
               <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md">
                 <div class="absolute inset-0 z-0">
                   <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
@@ -21348,7 +21405,7 @@ Prepared technical documentation and management reports while coordinating teams
                       <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                         <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
                       </div>
-                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Bachelor's Degree</span>
+                      <span class="font-IrRegular text-xs text-gray-900 text-shadow-sm">Azad University</span>
                     </div>
 
                     <div class="flex items-center gap-x-1">
@@ -21402,7 +21459,56 @@ Bachelor's Degree
               </div>
             </div>
 
-            <!-- کارت اول: دانشگاه تهران -->
+
+            <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
+              <div class="absolute inset-0 z-0">
+                <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
+              </div>
+              <div class="relative flex flex-col gap-y-3 p-2 w-full h-full bg-sky-200/10 backdrop-blur-xs rounded-tl-xl rounded-br-xl shadow-md border border-gray-50 z-10">
+                <div class="flex items-center justify-center w-14 h-14 bg-white rounded-md border border-gray-200 shadow-md mx-auto">
+                  <img class="w-12 h-12" src="/src/assets/image/edu/azad.png" alt="">
+                </div>
+                <div class="space-y-4">
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#pos"></use></svg>
+                    </div>
+                    <span class="font-IrBold text-xs text-gray-800 text-shadow-sm">مهندسی صنایع - گرایش کیفیت و بهره وری</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">دانشگاه آزاد</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#loc"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">تهران، استان تهران، ایران</span>
+                  </div>
+                  <div class="flex items-center gap-x-1">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
+                      <svg class="h-5 w-5 text-teal-700"><use href="#cal"></use></svg>
+                    </div>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">۱۴۰۵</span>
+                  </div>
+                </div>
+                <div class="flex gap-x-0.5">
+                  <div class="flex items-start">
+                    <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white mt-1">
+                      <svg class="h-4 w-4 text-teal-700"><use href="#paper"></use></svg>
+                    </div>
+                  </div>
+                  <div class="w-full max-w-full">
+          <span class="font-IrRegular text-xs text-gray-800 text-justify text-shadow-sm leading-relaxed break-words w-[260px]">
+مقطع کارشناسی ارشد
+          </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
               <div class="absolute inset-0 z-0">
                 <img src="/src/assets/image/edu/e4.jpeg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
@@ -21452,7 +21558,7 @@ Bachelor's Degree
               </div>
             </div>
 
-            <!-- کارت دوم: دانشگاه آزاد -->
+
             <div class="relative w-[280px] max-w-full h-auto rounded-tl-xl rounded-br-xl overflow-hidden shadow-md mb-10">
               <div class="absolute inset-0 z-0">
                 <img src="/src/assets/image/edu/e2.jpg" alt="" class="w-full h-full object-cover blur-sm opacity-70 rounded-tl-xl rounded-br-xl" />
@@ -21472,7 +21578,7 @@ Bachelor's Degree
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
                       <svg class="h-4 w-4 text-teal-700"><use href="#un"></use></svg>
                     </div>
-                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">مقطع کارشناسی</span>
+                    <span class="font-IrRegular text-xs text-gray-800 text-shadow-sm">دانشگاه آزاد</span>
                   </div>
                   <div class="flex items-center gap-x-1">
                     <div class="flex items-center justify-center rounded-lg border border-gray-300 w-6 h-6 bg-white">
