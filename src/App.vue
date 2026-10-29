@@ -25,7 +25,7 @@
 
                     <div class="flex font-IrRegular text-base justify-center w-2/4 text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
+                    Master's degree holder in Industrial Engineering (Quality and Productivity) with an MBA from the University of Tehran and a background in Chemical Engineering, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
                   </span>
                     </div>
 
@@ -144,10 +144,11 @@
                       <span class="text-teal-600 text-shadow-md">طراح سیستم‌ های کیفیت</span>
                     </div>
 
-                    <div class="flex font-IrRegular text-base justify-center w-2/4 text-gray-900">
+                 <div class="flex font-IrRegular text-base justify-center w-2/4 text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
-                    </div>
+                    کارشناسی ارشد مهندسی صنایع گرایش کیفیت و بهره‌وری، فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
+                  </span>
+                  </div>
 
                     <div>
                       <div class="flex mt-10 gap-x-4">
@@ -299,7 +300,8 @@
 
                       <div class="flex font-IrRegular text-base justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.                  </span>
+                    Master's degree holder in Industrial Engineering (Quality and Productivity) with an MBA from the University of Tehran and a background in Chemical Engineering, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
+                  </span>
                       </div>
 
                       <div>
@@ -419,7 +421,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                       <div class="flex font-IrRegular text-base justify-center w-[500px] text-gray-900">
                      <span class="text-justify leading-7">
-                       فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
+                       کارشناسی ارشد مهندسی صنایع گرایش کیفیت و بهره‌وری، فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
                      </span>
                       </div>
 
@@ -576,7 +578,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                       <div class="flex font-IrRegular text-base justify-center w-[450px] text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
+                    Master's degree holder in Industrial Engineering (Quality and Productivity) with an MBA from the University of Tehran and a background in Chemical Engineering, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
                   </span>
                       </div>
 
@@ -697,7 +699,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                       <div class="flex font-IrRegular text-base justify-center w-[400px] text-gray-900">
                   <span class="text-justify leading-7">
-                    فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
+                    کارشناسی ارشد مهندسی صنایع گرایش کیفیت و بهره‌وری، فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
                   </span>
 
                       </div>
@@ -915,7 +917,7 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                     <div class="flex font-IrRegular text-sm justify-center w-[600px] text-gray-900">
                   <span class="text-justify leading-7">
-                    Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
+                    Master's degree holder in Industrial Engineering (Quality and Productivity) with an MBA from the University of Tehran and a background in Chemical Engineering, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
                   </span>
                     </div>
 
@@ -1037,7 +1039,8 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                     <div class="flex font-IrRegular text-base justify-center w-[600px] text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
+                    کارشناسی ارشد مهندسی صنایع گرایش کیفیت و بهره‌وری، فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
+                  </span>
                     </div>
 
                     <div>
@@ -1195,7 +1198,8 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                     <div class="flex font-IrRegular text-sm justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.                  </span>
+                    Master's degree holder in Industrial Engineering (Quality and Productivity) with an MBA from the University of Tehran and a background in Chemical Engineering, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
+                  </span>
                     </div>
 
                     <div>
@@ -1316,7 +1320,8 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                     <div class="flex font-IrRegular text-base justify-center w-[550px] text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
+                    کارشناسی ارشد مهندسی صنایع گرایش کیفیت و بهره‌وری، فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
+                  </span>
                     </div>
 
                     <div>
@@ -1473,7 +1478,8 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                     <div class="flex font-IrRegular text-xs justify-center w-[280px] text-gray-900">
                   <span class="text-justify leading-5">
-Chemical Engineering graduate with an MBA from the University of Tehran, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.                  </span>
+                    Master's degree holder in Industrial Engineering (Quality and Productivity) with an MBA from the University of Tehran and a background in Chemical Engineering, specializing in Quality Management across industrial and manufacturing environments. Experienced in leading Quality Control and Quality Assurance teams, managing quality operations, implementing quality standards and systems, and driving continuous improvement through CAPA, SPC, FMEA, and root cause analysis. Skilled in integrating QC and QA into production processes, while leveraging technical and R&D expertise to enhance process reliability, product quality, and operational performance.
+                  </span>
                     </div>
 
                     <div>
@@ -1597,7 +1603,8 @@ Chemical Engineering graduate with an MBA from the University of Tehran, special
 
                     <div class="flex font-IrRegular text-sm justify-center w-[280px] text-gray-900">
                   <span class="text-justify leading-7">
-فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.                  </span>
+                    کارشناسی ارشد مهندسی صنایع گرایش کیفیت و بهره‌وری، فارغ‌التحصیل مهندسی شیمی با مدرک MBA از دانشگاه تهران و تخصص در مدیریت کیفیت در محیط‌های صنعتی و تولیدی. دارای تجربه رهبری تیم‌های کنترل کیفیت و تضمین کیفیت، مدیریت عملیات کیفی، استقرار استانداردها و سیستم‌های کیفیت و پیشبرد بهبود مستمر از طریق ابزارهایی مانند CAPA، SPC، FMEA و تحلیل علت ریشه‌ای. مهارت در یکپارچه‌سازی کنترل کیفیت و تضمین کیفیت در فرآیندهای تولید و بهره‌گیری از دانش فنی و تحقیق و توسعه برای ارتقای قابلیت اطمینان فرآیند، کیفیت محصول و عملکرد عملیاتی.
+                  </span>
                     </div>
 
                     <div>
